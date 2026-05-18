@@ -15,7 +15,7 @@ function linkify(value) {
   );
 }
 
-function renderBrief(brief) {
+function renderBrief(brief, options = {}) {
   const title = `${formatShortDate(brief.date)} CA State Worker RTO Newsfeed`;
   const developments = brief.developments
     .map((item) => `<li>${linkify(item)}</li>`)
@@ -23,6 +23,18 @@ function renderBrief(brief) {
   const hotTopics = brief.hot_topics
     .map((item) => `<li>${linkify(item)}</li>`)
     .join("");
+  const refreshButton = options.showRefresh
+    ? `
+      <a
+        class="refresh-button"
+        href="https://github.com/Yiming-Gao/ca-rto-newsfeed/actions/workflows/manual-refresh.yml"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        强制刷新今日 RTO
+      </a>
+    `
+    : "";
 
   return `
     <h2>${escapeHtml(title)}</h2>
@@ -36,6 +48,7 @@ function renderBrief(brief) {
 
     <h3>一句话总结</h3>
     <p>${linkify(brief.summary)}</p>
+    ${refreshButton}
   `;
 }
 
@@ -68,7 +81,7 @@ loadBriefs()
       }
 
       latestTarget.innerHTML = sorted.length
-        ? renderBrief(sorted[0])
+        ? renderBrief(sorted[0], { showRefresh: true })
         : '<p class="loading">暂无简报。</p>';
     }
 

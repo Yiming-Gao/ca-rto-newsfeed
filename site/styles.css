@@ -94,6 +94,23 @@ a {
   border-radius: 8px;
 }
 
+.refresh-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  margin-top: 22px;
+  padding: 0 16px;
+  color: #fff;
+  background: var(--accent);
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.refresh-button:hover {
+  background: #084f40;
+}
+
 ul {
   margin: 0;
   padding-left: 1.2rem;

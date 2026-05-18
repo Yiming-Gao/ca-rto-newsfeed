@@ -25,14 +25,14 @@ function renderBrief(brief, options = {}) {
     .join("");
   const refreshButton = options.showRefresh
     ? `
-      <a
+      <button
         class="refresh-button"
-        href="https://github.com/Yiming-Gao/ca-rto-newsfeed/actions/workflows/manual-refresh.yml"
-        target="_blank"
-        rel="noopener noreferrer"
+        type="button"
+        data-refresh-button
       >
         强制刷新今日 RTO
-      </a>
+      </button>
+      <p class="refresh-status" data-refresh-status></p>
     `
     : "";
 
@@ -50,6 +50,46 @@ function renderBrief(brief, options = {}) {
     <p>${linkify(brief.summary)}</p>
     ${refreshButton}
   `;
+}
+
+function setupRefreshButton() {
+  const button = document.querySelector("[data-refresh-button]");
+  const status = document.querySelector("[data-refresh-status]");
+  if (!button || !status) return;
+
+  button.addEventListener("click", async () => {
+    const endpoint = window.RTO_REFRESH_ENDPOINT || "";
+    if (!endpoint) {
+      status.textContent = "还没有连接刷新端点。";
+      return;
+    }
+
+    button.disabled = true;
+    status.textContent = "正在启动刷新...";
+
+    try {
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ source: "newsfeed-button" })
+      });
+
+      if (!response.ok) {
+        const text = await response.text();
+        throw new Error(text || `Refresh failed: ${response.status}`);
+      }
+
+      status.textContent = "刷新已启动，约 1-3 分钟后自动重新加载。";
+      setTimeout(() => {
+        window.location.reload();
+      }, 120000);
+    } catch (error) {
+      status.textContent = `刷新失败：${error.message}`;
+      button.disabled = false;
+    }
+  });
 }
 
 async function loadBriefs() {
@@ -83,6 +123,7 @@ loadBriefs()
       latestTarget.innerHTML = sorted.length
         ? renderBrief(sorted[0], { showRefresh: true })
         : '<p class="loading">暂无简报。</p>';
+      setupRefreshButton();
     }
 
     if (archiveTarget) {

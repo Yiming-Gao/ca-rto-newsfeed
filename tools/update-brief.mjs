@@ -20,10 +20,10 @@ function todayParts() {
     day: "2-digit"
   });
   const date = formatter.format(new Date());
-  const [, month, day] = date.match(/^\d{4}-(\d{2})-(\d{2})$/) || [];
+  const [, year, month, day] = date.match(/^(\d{4})-(\d{2})-(\d{2})$/) || [];
   return {
     date,
-    dateLabel: `${Number(month)}月${Number(day)}日`
+    dateLabel: `${year}年${Number(month)}月${Number(day)}日`
   };
 }
 
@@ -66,7 +66,7 @@ Focus: Caltrans, Sacramento departments, RTO implementation, telework, office sp
 Return ONLY valid JSON with this shape:
 {
   "date": "${date}",
-  "date_label": "2026年${dateLabel}",
+  "date_label": "${dateLabel}",
   "title": "今日 CA State Worker RTO 情报",
   "developments": ["..."],
   "hot_topics": ["..."],

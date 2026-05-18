@@ -1,1 +1,0 @@
-window.RTO_REFRESH_ENDPOINT = "";

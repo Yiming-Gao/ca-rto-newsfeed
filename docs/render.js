@@ -15,7 +15,7 @@ function linkify(value) {
   );
 }
 
-function renderBrief(brief, options = {}) {
+function renderBrief(brief) {
   const title = `${formatShortDate(brief.date)} CA State Worker RTO Newsfeed`;
   const developments = brief.developments
     .map((item) => `<li>${linkify(item)}</li>`)
@@ -23,18 +23,6 @@ function renderBrief(brief, options = {}) {
   const hotTopics = brief.hot_topics
     .map((item) => `<li>${linkify(item)}</li>`)
     .join("");
-  const refreshButton = options.showRefresh
-    ? `
-      <button
-        class="refresh-button"
-        type="button"
-        data-refresh-button
-      >
-        强制刷新今日 RTO
-      </button>
-      <p class="refresh-status" data-refresh-status></p>
-    `
-    : "";
 
   return `
     <h2>${escapeHtml(title)}</h2>
@@ -48,48 +36,7 @@ function renderBrief(brief, options = {}) {
 
     <h3>一句话总结</h3>
     <p>${linkify(brief.summary)}</p>
-    ${refreshButton}
   `;
-}
-
-function setupRefreshButton() {
-  const button = document.querySelector("[data-refresh-button]");
-  const status = document.querySelector("[data-refresh-status]");
-  if (!button || !status) return;
-
-  button.addEventListener("click", async () => {
-    const endpoint = window.RTO_REFRESH_ENDPOINT || "";
-    if (!endpoint) {
-      status.textContent = "还没有连接刷新端点。";
-      return;
-    }
-
-    button.disabled = true;
-    status.textContent = "正在启动刷新...";
-
-    try {
-      const response = await fetch(endpoint, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ source: "newsfeed-button" })
-      });
-
-      if (!response.ok) {
-        const text = await response.text();
-        throw new Error(text || `Refresh failed: ${response.status}`);
-      }
-
-      status.textContent = "刷新已启动，约 1-3 分钟后自动重新加载。";
-      setTimeout(() => {
-        window.location.reload();
-      }, 120000);
-    } catch (error) {
-      status.textContent = `刷新失败：${error.message}`;
-      button.disabled = false;
-    }
-  });
 }
 
 async function loadBriefs() {
@@ -121,9 +68,8 @@ loadBriefs()
       }
 
       latestTarget.innerHTML = sorted.length
-        ? renderBrief(sorted[0], { showRefresh: true })
+        ? renderBrief(sorted[0])
         : '<p class="loading">暂无简报。</p>';
-      setupRefreshButton();
     }
 
     if (archiveTarget) {

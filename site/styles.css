@@ -94,39 +94,6 @@ a {
   border-radius: 8px;
 }
 
-.refresh-button {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 44px;
-  margin-top: 22px;
-  padding: 0 16px;
-  color: #fff;
-  background: var(--accent);
-  border: 0;
-  border-radius: 8px;
-  cursor: pointer;
-  font: inherit;
-  font-weight: 800;
-  text-decoration: none;
-}
-
-.refresh-button:hover:not(:disabled) {
-  background: #084f40;
-}
-
-.refresh-button:disabled {
-  cursor: wait;
-  opacity: 0.68;
-}
-
-.refresh-status {
-  min-height: 24px;
-  margin: 10px 0 0;
-  color: var(--muted);
-  font-size: 14px;
-}
-
 ul {
   margin: 0;
   padding-left: 1.2rem;

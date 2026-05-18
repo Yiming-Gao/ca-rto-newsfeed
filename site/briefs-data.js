@@ -4,18 +4,19 @@ window.BRIEFS_DATA = [
     "date_label": "2026年5月18日",
     "title": "今日 CA State Worker RTO 情报",
     "developments": [
-      "【Reddit热议】今天新帖开始把 RTO 直接和补偿挂钩：有人建议 union 按进办公室天数谈加薪或通勤补贴，评论区认为 office/commute stipend 可能更现实。https://www.reddit.com/r/CAStateWorkers/comments/1tg6h43/rto_based_compensation/",
-      "【Reddit热议】AB 1729 进入全 Assembly phone bank 阶段，动员重点是要求部门用数据证明 in-office 必要性，反对 blanket RTO。https://www.reddit.com/r/CAStateWorkers/comments/1tg0eu3/state_telework_bill_full_assembly_phone_bank/",
-      "【Rumor】Caltrans / DOT space 问题继续发酵：HQ cubicle 不足、hoteling、6/1 前由 supervisor 给 schedule 等说法被反复提到，但仍缺官方细节。https://www.reddit.com/r/CAStateWorkers/comments/1te4dqz/dot_rto/",
-      "【Reddit热议】CalHR 被描述为对各 union playing hardball，RTO 讨论已从吐槽转向写议员、打电话、合同投票和 billboard。https://www.reddit.com/r/CAStateWorkers/comments/1tf8lyl/newsomcalhr_on_rto_shut_up_and_comply/"
+      "【Reddit热议】Caltrans 内部邮件流出：将按州长 2025-03-03 的 EO 推进，7/1/2026 起默认每周至少 4 天到岗；后续会补充岗位/排班细节。https://www.reddit.com/r/CAStateWorkers/comments/1tebgcv/caltrans_rto_effective_7126/",
+      "【Rumor】DOT/Caltrans 相关讨论称已收到管理层通知：7/1 起执行 4-day RTO，但 seating、hoteling、具体 in-office schedule 要等后续会议/指引。https://www.reddit.com/r/CAStateWorkers/comments/1te4dqz/dot_rto/",
+      "【Reddit热议】“No Contract Without Telework Protections” 帖热度很高：呼吁成员把 telework protections 写进合同/side letter，并通过联系 union、投票表态施压。https://www.reddit.com/r/CAStateWorkers/comments/1te07yv/no_contract_without_telework_protections/",
+      "【官方】SEIU Local 1000 的 RTO 页面强调：side letter 让全州 4-day mandate 至少延到 7/1/2026，并把 AB 1729 作为核心战线之一。https://www.seiu1000.org/rto/",
+      "【官方】ACSS 解读 May Revision 时继续主推 AB 1729：主张让部门按业务需要做 telework 决策，反对“一刀切”的 4-day in-office。https://www.acss.org/News/Article/3465/May-Revision-of-the-2026-2027-State-Budget-Status-Quo-and-RTO"
     ],
     "hot_topics": [
-      "50 mile exemption：焦点是已有协议是否真能保住，尤其 Caltrans。https://www.reddit.com/r/CAStateWorkers/comments/1tf6mwu/old_dog_same_tricks_rto/",
-      "parking / commute：越来越多人把 RTO 说成隐性 pay cut。https://www.reddit.com/r/CAStateWorkers/comments/1tg6h43/rto_based_compensation/",
-      "union：今天讨论更偏向合同里必须写 telework protections。https://www.reddit.com/r/CAStateWorkers/comments/1te07yv/no_contract_without_telework_protections/",
-      "Caltrans：最乱的点仍是 HQ seating、hoteling、具体 enforcement。https://www.reddit.com/r/CAStateWorkers/comments/1te4dqz/dot_rto/",
-      "Sacramento：员工认为空间、停车、通勤成本都还没准备好。https://www.reddit.com/r/CAStateWorkers/comments/1te4dqz/dot_rto/"
+      "AB 1729 官方入口（状态/文本/分析/写评论）：https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "Caltrans：7/1/2026 倒计时下，大家最关心 seating/hoteling 与谁来定 schedule。https://www.reddit.com/r/CAStateWorkers/comments/1tebgcv/caltrans_rto_effective_7126/",
+      "DOT：邮件/传言集中在“先宣布 4-day，细节之后补”，导致跨司处排班与工位预订焦虑。https://www.reddit.com/r/CAStateWorkers/comments/1te4dqz/dot_rto/",
+      "Union 动员：围绕“合同里必须写 telework protections”的压力继续上升。https://www.reddit.com/r/CAStateWorkers/comments/1te07yv/no_contract_without_telework_protections/",
+      "AB 1729 阵线扩展：ACSS 公开表态继续 sponsor/advocate，给“反 blanket RTO”提供更多声音。https://www.acss.org/News/Article/3465/May-Revision-of-the-2026-2027-State-Budget-Status-Quo-and-RTO"
     ],
-    "summary": "今天风向是：RTO 正在进入执行倒计时，但员工侧已经把战场转向 AB 1729、union 合同和通勤补偿。"
+    "summary": "今天信息点更集中在：Caltrans/DOT 进入 7/1/2026 执行倒计时，员工侧把主战场押在 AB 1729 与合同内的 telework protections。"
   }
 ];

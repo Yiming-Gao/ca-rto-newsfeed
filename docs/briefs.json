@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-05-19",
+    "date_label": "2026年5月19日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】CPUC 发内部信：继续维持每周 2 天到岗、不跟进 4 天；评论称其为宪法独立机构且办公空间难支撑更多到岗天数。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/",
+      "【Reddit热议】Caltrans/DOT 仍在为 2026-07-01 的 4 天 RTO 做倒计时；讨论焦点集中在工位是否够、hoteling/预订规则、排班权限与通勤/停车成本。https://www.reddit.com/r/CAStateWorkers/comments/1tebgcv/caltrans_rto_effective_7126/ https://www.reddit.com/r/CAStateWorkers/comments/1te4dqz/dot_rto/",
+      "【Reddit热议】CalPERS 管理层公开沟通称维持“默认 3 天到岗”不改；不少人拿它与 2 天/4 天对比，讨论空间/招聘与员工流失。https://www.reddit.com/r/CAStateWorkers/comments/1td55jc/calpers_sticking_with_3_day_in_office_schedule/",
+      "【官方】SEIU Local 1000 延续“Telework that Works”主张，并在社区讨论中被多次引用为已向 PERB 提交 ULP 以挑战 RTO 推进路径。https://www.seiu1000.org/rto/ https://www.reddit.com/r/CAStateWorkers/comments/1tbii9v/seiu_files_unfair_labor_practice_charge_with_perb/",
+      "【官方】AB 1729（telework programs）继续推进；LegInfo 可查进度与分析文件（含对成本、透明度与审计信息的引用）。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://billtexts.s3.amazonaws.com/ca/ca-analysishttps-leginfo-legislature-ca-gov-faces-billAnalysisClient-xhtml-bill-id-202520260AB1729-ca-analysis-397552.pdf"
+    ],
+    "hot_topics": [
+      "CPUC 坚持 2 天游程讨论串（含空间/独立机构争论）。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/",
+      "Caltrans 7/1 4 天游程集中帖（hoteling/工位/排班）。https://www.reddit.com/r/CAStateWorkers/comments/1tebgcv/caltrans_rto_effective_7126/",
+      "CalPERS 维持 3 天游程（管理层 webchat 纪要转述）。https://www.reddit.com/r/CAStateWorkers/comments/1td55jc/calpers_sticking_with_3_day_in_office_schedule/",
+      "CalHR RTO 过渡福利与资源页（标注 Updated for 2026）。https://benefits.calhr.ca.gov/rto/",
+      "AB 1729 官方进度页（LegInfo）。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "“谁能不跟 4 天”与“空间/工位是否够用”正在把讨论从口号推向各机构的落地细则。"
+  },
+  {
     "date": "2026-05-18",
     "date_label": "2026年5月18日",
     "title": "今日 CA State Worker RTO 情报",

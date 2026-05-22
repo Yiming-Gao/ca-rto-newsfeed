@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-05-21",
+    "date_label": "2026年5月21日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Caltrans 员工讨论 RTO：有评论质疑在项目资金紧张背景下仍投入办公室回流成本；也有人担心通勤与停车开销、以及对招聘/留才的影响。https://www.reddit.com/r/CAStateWorkers/comments/1tjpj73/caltrans_rto/",
+      "【Reddit热议】Caltrans 内部通知（被转帖）：明确将按 Governor 的 RTO 要求把“默认每周至少 4 天到岗”推进到 2026-07-01，并称后续会给出岗位/排班细则；评论区认为多部门收到“同款措辞”邮件。https://www.reddit.com/r/CAStateWorkers/comments/1tebgcv/caltrans_rto_effective_7126/",
+      "【官方】ACSS 解读 2026-2027 May Revise：文中转述 Newsom 表态希望把“每周 4 天到岗”推进到位，并点出 2026-07-01 暂无加薪规划；同时强调继续推动 AB 1729 以反对 4 天游程并主张维持 telework 节省预算。https://www.acss.org/News/Article/3465/May-Revision-of-the-2026-2027-State-Budget-Status-Quo-and-RTO",
+      "【官方】SEIU Local 1000 更新 RTO 页面：称 Governor’s Office 已向各部门发备忘录要求为 2026-07-01“至少每周 4 天到岗”做准备，并把 AB 1729 作为争取 telework 保护的核心路线之一。https://www.seiu1000.org/rto/",
+      "【官方】CalHR 发布/更新 RTO 过渡支持资源页（Updated for 2026），汇总 EAP、福利与生活支持等信息，供员工为 2026-07-01 节点做准备。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "hot_topics": [
+      "Caltrans RTO 讨论串（成本、资金压力与员工流失担忧）。https://www.reddit.com/r/CAStateWorkers/comments/1tjpj73/caltrans_rto/",
+      "Caltrans 7/1 4 天游程通知原文转帖（“默认至少 4 天”措辞）。https://www.reddit.com/r/CAStateWorkers/comments/1tebgcv/caltrans_rto_effective_7126/",
+      "ACSS May Revise 文章对 RTO/AB 1729 的表态与预算论点。https://www.acss.org/News/Article/3465/May-Revision-of-the-2026-2027-State-Budget-Status-Quo-and-RTO",
+      "SEIU Local 1000 RTO 专页（部门备忘录 + AB 1729 叙事）。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今日焦点从“是否要 4 天”进一步转向“预算与执行成本由谁承担、如何落地”。"
+  },
+  {
     "date": "2026-05-20",
     "date_label": "2026年5月20日",
     "title": "今日 CA State Worker RTO 情报",

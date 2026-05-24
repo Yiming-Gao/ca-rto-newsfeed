@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-05-23",
+    "date_label": "2026年5月23日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Caltrans RTO 讨论继续发酵：不少人把焦点从“口号式协作”转到现实成本（通勤/停车/项目经费挤压）与执行差异，评论区也反复提到“工位不够/要轮换”的可能落地。https://www.reddit.com/r/CAStateWorkers/comments/1tjpj73/caltrans_rto/",
+      "【Reddit热议】某 District 的 RTO WebEx 纪要：管理层 2026-07-01 起 4x/周到岗；rank-and-file 依是否共享工位分流（独占工位→4x，共享工位→3/2、2/3 轮换），并计划把会议室改成工位/保密谈话室；帖主称“除 RA 外无豁免”，且停车/安全与上班时间等细节仍悬而未决。https://www.reddit.com/r/CAStateWorkers/comments/1tht70d/rto_district_wide_webex_meeting_recap/",
+      "【官方】CSLEA 发文称 CalHR 已指示各部门开始就 RTO Executive Order 的实施与各工会沟通，并提到 CSLEA 已向 CalHR 提交延后或缓解影响等提案。https://cslea.com/2026/05/calhr-directs-agencies-to-begin-notifying-labor-organizations-of-return-to-office-executive-order-implementation/",
+      "【官方】AB 1729（telework bill）最新状态：LegInfo 显示 2026-05-19 已“Read second time. Ordered to third reading”，并进入 Assembly 3rd Reading File（File Date: 05-26-2026）。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 RTO 页面继续强调：Governor’s Office 已发 RTO memo 要求为 2026-07-01 起“至少每周 4 天到岗”做准备，并呼吁支持 AB 1729 与参与行动。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "Caltrans：通勤/停车/预算与“空间不够导致轮换”的落地焦虑继续升温。https://www.reddit.com/r/CAStateWorkers/comments/1tjpj73/caltrans_rto/",
+      "工位与会议室改造：3/2、2/3 轮换、会议室改工位、管理层也可能被塞进工位等细节引发争论。https://www.reddit.com/r/CAStateWorkers/comments/1tht70d/rto_district_wide_webex_meeting_recap/",
+      "豁免口径：帖内称“除 RA 外无豁免”，且“必须回本 District/HQ”与停车安全问题被集中吐槽。https://www.reddit.com/r/CAStateWorkers/comments/1tht70d/rto_district_wide_webex_meeting_recap/",
+      "AB 1729：进入三读流程后，关注 Assembly floor vote 时间窗与对外联络节奏。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "RTO 话题正从“统一口径”转向“工位/停车/豁免与法案推进”的具体硬约束。"
+  },
+  {
     "date": "2026-05-22",
     "date_label": "2026年5月22日",
     "title": "今日 CA State Worker RTO 情报",

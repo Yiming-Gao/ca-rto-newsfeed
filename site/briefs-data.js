@@ -1,5 +1,26 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-05-24",
+    "date_label": "2026年5月24日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Caltrans RTO 讨论集中在“工位不够怎么落地”：有人转述先用 2天/3天 交替到岗过渡、等空间到位再冲 4天；也反复提到 hoteling/把会议室改工位等方案。https://www.reddit.com/r/CAStateWorkers/comments/1tjpj73/caltrans_rto/",
+      "【Reddit热议】RTO 豁免口径继续被追问：有帖子称某办公室/团队拿到“RTO exemption（EPRs）”通知，引发大家对“谁能豁免、豁免多久、是否会被收回”的讨论。https://www.reddit.com/r/CAStateWorkers/comments/1tiq9u3/rto_exemption_for_my_office/",
+      "【Rumor】关于 telework/到岗的 Reasonable Accommodation（RA）申请量：帖内称 HR 近期收到更多 RA 请求（过敏/通风/自然光/通勤压力等），评论区也提醒“能否批准取决于 essential functions 与合理性”。https://www.reddit.com/r/CAStateWorkers/comments/1tbp2jt/seems_increasing_reasonable_accommodation/",
+      "【Reddit热议】CPUC 传出仍维持 2天/周到岗（不升到 4天），评论区把焦点放在“独立机构 vs. Governor 指令的适用范围”以及各部门是否会出现差异化执行。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/",
+      "【官方】SEIU Local 1000 更新 RTO 口径：称 Governor’s Office 已向各部门发 memo，要求为 2026-07-01 起“至少每周 4 天到岗”做准备，并表示将通过谈判与立法（含 AB 1729）争取 telework protections。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729（State employment: telework programs）信息页持续更新 bill 状态与文本摘要，作为跟踪立法进展的一个聚合入口。https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1729"
+    ],
+    "hot_topics": [
+      "Caltrans：空间不足→2/3 交替、hoteling、会议室改工位等“先过渡再加码”讨论。https://www.reddit.com/r/CAStateWorkers/comments/1tjpj73/caltrans_rto/",
+      "豁免与岗位差异：EPRs 等岗位是否更容易拿到 RTO exemption、后续是否会统一收紧。https://www.reddit.com/r/CAStateWorkers/comments/1tiq9u3/rto_exemption_for_my_office/",
+      "RA/ADA 路线：RA 请求增多但争议也更大，关键在 duty/essential functions 与“是否合理”。https://www.reddit.com/r/CAStateWorkers/comments/1tbp2jt/seems_increasing_reasonable_accommodation/",
+      "部门差异化执行：CPUC 维持 2天 的消息再次刺激“哪些单位能不跟 4天”的对比。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/",
+      "AB 1729：被视为对冲 7/1 4天 RTO 的立法抓手之一，关注后续投票/推进节奏。https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1729"
+    ],
+    "summary": "本周讨论点从“4天口号”进一步下沉到“空间/豁免/RA 与部门差异化执行”。"
+  },
+  {
     "date": "2026-05-23",
     "date_label": "2026年5月23日",
     "title": "今日 CA State Worker RTO 情报",
@@ -119,4 +140,5 @@ window.BRIEFS_DATA = [
     ],
     "summary": "Caltrans 等部门的 7/1 倒计时、工位/排班落地细节，以及工会与 AB 1729 的攻防，是当前讨论主轴。"
   }
-];
+]
+;

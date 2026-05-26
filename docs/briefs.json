@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-05-25",
+    "date_label": "2026年5月25日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】有帖称某部门邮件要求当前 hybrid telework 的 Office Tech 取消 telework agreement，并被指向“直接回 5 天到岗”（而非 4 天）；评论区把这解读为“先从支持岗/低职类开刀、推动流失/压编制”，也引发对停车/通勤成本与士气的集中吐槽。https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/",
+      "【Reddit热议】AB 1729（telework bill）进度被反复追问：评论区转述“作者 Alex Lee 的 staffer 说会在下周投票”，也有人提醒在 Assembly 通过存在时间窗口；同时不少人预期即便推进也可能面临 veto，但“过程中的票数/支持度本身能施压”。https://www.reddit.com/r/CAStateWorkers/comments/1tl18r9/ab_1729_status/",
+      "【官方】AB 1729 的正式进度以 LegInfo 为准（委员会/读二读三/表决记录都会更新）；同时 Digital Democracy 页面更适合快速浏览文本与时间线。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1729",
+      "【Reddit热议】PECG 称已与 CalHR 恢复就 Side Letter #27 的讨论：该 side letter 去年把“4天/周 RTO”暂停一年，但条款指向 2026-07-01 恢复；PECG 要求 CalHR 提供支持 RTO 的客观数据/成本与对招聘留人的影响评估，但帖文称州府仍只给出“collaboration/mentorship”等理由。https://www.reddit.com/r/CAStateWorkers/comments/1tkw4sb/pecg_bargaining_team_met_with_calhr/",
+      "【Reddit热议】围绕 4天 RTO 的线下动员继续升温：CAPS-UAW 相关帖呼吁 6/3 午间在各地工地做 practice pickets，直接向 Governor 与 CalHR 施压。https://www.reddit.com/r/CAStateWorkers/comments/1tljh20/june_3rd_respect_our_rights_rally/"
+    ],
+    "hot_topics": [
+      "“4天”还没落地，部分岗位已被讨论/传达为“回 5 天”：大家最担心的是政策在部门/岗位之间不对称加码。https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/",
+      "AB 1729 的关键看点变成“下周能否表决 + 票数能否形成政治压力”，而不只是最终能否成为法律。https://www.reddit.com/r/CAStateWorkers/comments/1tl18r9/ab_1729_status/",
+      "工会/协会 meet & confer 的焦点从“口号式协作”转向要 CalHR 拿出数据：成本、空间、招聘留人影响、对员工的直接经济冲击。https://www.reddit.com/r/CAStateWorkers/comments/1tkw4sb/pecg_bargaining_team_met_with_calhr/",
+      "线下行动（6/3 午间 practice pickets）被视为在“谈判 + 立法”之外，能快速聚焦注意力的一条路径。https://www.reddit.com/r/CAStateWorkers/comments/1tljh20/june_3rd_respect_our_rights_rally/",
+      "官方追踪入口：LegInfo 用于看正式流程/投票，Digital Democracy 用于看文本摘要与时间线。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "今天的主线是“政策可能在部分岗位上直接加码到 5 天”，对冲路线集中在 AB 1729 推进与工会/协会 meet & confer + 线下动员。"
+  },
+  {
     "date": "2026-05-24",
     "date_label": "2026年5月24日",
     "title": "今日 CA State Worker RTO 情报",

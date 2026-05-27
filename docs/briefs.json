@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-05-26",
+    "date_label": "2026年5月26日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Caltrans 帖子称：本周将由 division heads 逐级向员工“吹风/解释”RTO 落地；不少评论把焦点放在“工位不够”导致的 split schedules（例如 3天到岗+2天远程、下一周 2天到岗+3天远程）与 hoteling 预订混乱。https://www.reddit.com/r/CAStateWorkers/comments/1todm03/rto_hoopla/",
+      "【Reddit热议】Caltrans 某区 district-wide WebEx 会议 recap：转述 7/1 起主管/经理先行 4天到岗；共享工位者被安排 3/2、2/3 轮换；也提到把会议室改工位、RA 作为主要例外，以及停车/安全与工位不足的现实阻力。https://www.reddit.com/r/CAStateWorkers/comments/1tht70d/rto_district_wide_webex_meeting_recap/",
+      "【Reddit热议】转贴的 Caltrans 通知强调“默认至少每周 4 个 in-person days”，并称这是 statewide requirement，依据 Executive Order N-22-25 与 CalHR guidance；评论区继续追问 AWS/part-time、RDO 是否必须放在 telework day、以及跨区/远距离通勤的豁免口径。https://www.reddit.com/r/CAStateWorkers/comments/1tebgcv/caltrans_rto_effective_7126/",
+      "【官方】SEIU Local 1000 RTO 页面继续把 2026-07-01“至少每周 4 天到岗”作为时间节点，称 Governor’s Office 已向各部门发 RTO memo 要求准备，并表示将通过谈判/法律与推动 AB 1729（telework bill）来对冲执行强度。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729（telework bill）进度以官方跟踪页为准：Digital Democracy 汇总了版本、时间线与当前所处环节，便于快速核对“是否进入表决窗口/下一步动作”。https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1729"
+    ],
+    "hot_topics": [
+      "Caltrans “RTO 吹风”与 split schedules/工位不足讨论升温（hoteling、预订权限、跨组共享工位）。https://www.reddit.com/r/CAStateWorkers/comments/1todm03/rto_hoopla/",
+      "Caltrans WebEx 会议 recap：主管先 4 天、共享工位轮换、会议室改工位与停车/安全焦虑。https://www.reddit.com/r/CAStateWorkers/comments/1tht70d/rto_district_wide_webex_meeting_recap/",
+      "“默认至少每周 4 个 in-person days”措辞被反复引用，并被用来推测各部门将如何解释 EO/CalHR guidance。https://www.reddit.com/r/CAStateWorkers/comments/1tebgcv/caltrans_rto_effective_7126/",
+      "SEIU Local 1000 的公开口径：把 7/1 节点与 AB 1729、谈判/法律路线绑定，持续动员关注。https://www.seiu1000.org/rto/",
+      "AB 1729 快速核对入口（版本/时间线/进度）。https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1729"
+    ],
+    "summary": "今天的主线是 Caltrans 把“7/1 前的吹风 + 工位/排班落地”推到台前，而对冲路线仍集中在工会动作与 AB 1729。"
+  },
+  {
     "date": "2026-05-25",
     "date_label": "2026年5月25日",
     "title": "今日 CA State Worker RTO 情报",

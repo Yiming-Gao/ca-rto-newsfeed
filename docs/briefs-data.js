@@ -1,5 +1,26 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-05-27",
+    "date_label": "2026年5月27日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Caltrans 讨论串转贴称：主管/经理需在 2026-05-29 前把“通知模板”发给团队，并安排了 5/21 与 5/27 两场 hybrid meeting 讲解模板；下一步是 6 月集中更新 telework agreements。https://www.reddit.com/r/CAStateWorkers/comments/1tjpj73/caltrans_rto/",
+      "【Reddit热议】“RTO Hoopla”帖称：部分 Caltrans 单位被告知 7/1 可能先以 3 天到岗启动，待新增 cubicles/工位后再升到 4 天；同时有人引用“rotational program 少于 4 天不合适”的口径，继续引爆对 hoteling/工位不足的担忧。https://www.reddit.com/r/CAStateWorkers/comments/1todm03/rto_hoopla/",
+      "【Reddit热议】转贴的 Caltrans 通知再次强调“默认至少每周 4 个 in-person days”，并称是 statewide requirement（Executive Order N-22-25 + CalHR guidance）；评论区集中追问 RDO/AWS 能否挪到到岗日、以及 7/1 前后排班细则何时落地。https://www.reddit.com/r/CAStateWorkers/comments/1tebgcv/caltrans_rto_effective_7126/",
+      "【官方】SEIU Local 1000 RTO 页面继续把 2026-07-01“至少每周 4 天到岗”作为实施节点，称 Governor’s Office 已向部门发 RTO memo 要求准备，并把谈判/法律与推动 AB 1729 作为主要对冲路线。https://www.seiu1000.org/rto/",
+      "【官方】CSLEA 转述 CalHR 口径：要求部门开始就 Executive Order 的 RTO 实施与工会进行通知/沟通，并提到将持续对话与关注 AB 1729 等可能影响 telework 的立法。https://cslea.com/2026/05/calhr-directs-agencies-to-begin-notifying-labor-organizations-of-return-to-office-executive-order-implementation/",
+      "【官方】AB 1729（telework bill）以 LegInfo 官方状态页为准，便于核对最新的 committee/reading/vote 动作与下一步安排。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "hot_topics": [
+      "Caltrans：5/29 前下发通知、6 月改 telework agreements 的时间表引发焦虑。https://www.reddit.com/r/CAStateWorkers/comments/1tjpj73/caltrans_rto/",
+      "Caltrans：先 3 天后 4 天、以及“rotational program 不合适”的口径之争（工位/施工/预约）。https://www.reddit.com/r/CAStateWorkers/comments/1todm03/rto_hoopla/",
+      "“默认至少每周 4 个 in-person days”的措辞被视为全州统一模板，员工在等细则。https://www.reddit.com/r/CAStateWorkers/comments/1tebgcv/caltrans_rto_effective_7126/",
+      "工会/组织动向：SEIU 与 CSLEA 的公开口径都把 7/1 节点与 AB 1729 绑定。https://www.seiu1000.org/rto/ https://cslea.com/2026/05/calhr-directs-agencies-to-begin-notifying-labor-organizations-of-return-to-office-executive-order-implementation/",
+      "AB 1729：官方状态页快速核对入口。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "Caltrans 进入“发通知 + 6 月改协议”的倒计时，但工位不足与排班细则仍是最大不确定点。"
+  },
+  {
     "date": "2026-05-26",
     "date_label": "2026年5月26日",
     "title": "今日 CA State Worker RTO 情报",

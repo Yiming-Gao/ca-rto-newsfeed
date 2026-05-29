@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-05-28",
+    "date_label": "2026年5月28日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】有 Caltrans 员工称其部门邮件要求目前 hybrid 的 Office Tech 取消现有 telework agreement，改为每周 5 天到岗；评论区担心这类“先从某些岗位下手”的做法会快速扩散到更多单位。https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/",
+      "【Reddit热议】AB 1729 进度贴称：相关动作/表决时间被推到下周；讨论集中在该 bill 是否能把“部门必须给出经济/业务理由”写进 telework/RTO 决策流程。https://www.reddit.com/r/CAStateWorkers/comments/1tl18r9/ab_1729_status/",
+      "【官方】SEIU Local 1000 RTO 页面更新称已收到 Governor’s Office 发给各部门的 RTO memo，要求为 2026-07-01 起“至少每周 4 天到岗”的实施做准备，并鼓励成员联系 MRC、推动 AB 1729。https://www.seiu1000.org/rto/",
+      "【官方】KALW 报道：州府员工在 CalEPA 大楼外抗议 RTO 命令；报道同时提到 SEIU Local 1000 已就 RTO 提交 unfair labor practice（ULP）指控。https://www.kalw.org/bay-area-news/2026-05-26/state-workers-protest-return-to-office-order-outside-calepa",
+      "【官方】CSLEA 转述 CalHR 口径：要求各部门开始就 Executive Order 的 RTO 实施向劳动组织发出通知/沟通，并将继续对话与关注 AB 1729 等可能影响 telework 的立法。https://cslea.com/2026/05/calhr-directs-agencies-to-begin-notifying-labor-organizations-of-return-to-office-executive-order-implementation/"
+    ],
+    "hot_topics": [
+      "Caltrans：Office Tech 被要求“5 天到岗”的冲击面、以及是否会外溢到更多岗位。https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/",
+      "立法：AB 1729 下一步时间点与能否形成“RTO 论证/审计”抓手。https://www.reddit.com/r/CAStateWorkers/comments/1tl18r9/ab_1729_status/",
+      "工会与法律：有帖子转述 CASE/相关工会尝试以 CEQA 等角度对 RTO 施压，引发“能否逼州府做环境/排放评估”的讨论。https://www.reddit.com/r/CAStateWorkers/comments/1tq78bg/state_worker_union_tries_novel_legal_angle_to/",
+      "舆论外溢：Hilton 等私企收紧 hybrid 的新闻被拿来对比“公共部门为何更硬”，讨论士气与留任风险。https://www.reddit.com/r/CAStateWorkers/comments/1tl9t5j/hilton_ending_hybrid_work_its_reportedly_the/",
+      "媒体跟进：RTO 执行被报道与“工位不足不是理由”“部门需准备 4 天到岗”的叙事绑定。https://www.sacbee.com/news/politics-government/the-state-worker/article315739400.html"
+    ],
+    "summary": "随着 7/1 倒计时推进，Caltrans 内部已出现“从特定岗位直接拉回 5 天”的强硬信号，反弹焦点转向工会/立法与可执行的约束工具。"
+  },
+  {
     "date": "2026-05-27",
     "date_label": "2026年5月27日",
     "title": "今日 CA State Worker RTO 情报",

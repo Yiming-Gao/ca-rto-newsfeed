@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-05-29",
+    "date_label": "2026年5月29日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Caltrans 员工在帖中集中吐槽“项目/预算紧张却推进 RTO”，并担心 7/1 前后会以更硬的到岗天数与更少弹性落地；讨论也延伸到通勤成本、士气与离职风险。https://www.reddit.com/r/CAStateWorkers/comments/1tjpj73/caltrans_rto/",
+      "【Reddit热议】“RTO Hoopla”帖称 Caltrans 领导层要求本周由各 division head 向员工做 RTO 流程简报；评论区讨论轮换到岗、hoteling/工位不足与执行口径不一。https://www.reddit.com/r/CAStateWorkers/comments/1todm03/rto_hoopla/",
+      "【官方】SEIU Local 1000 表示已收到 Governor’s Office 向各部门发送的 RTO memo，要求为 2026-07-01 起对 telework 员工“至少每周 4 天到岗”的实施做准备，并强调将通过谈判与行动争取更强 telework 保障（含 ULP 路径）。https://www.seiu1000.org/rto/",
+      "【官方】ACSS 通报：AB 1729（State employment: telework programs）于 2026-05-27 在 Assembly 以 67-7 通过；文中将其定位为对“4 天到岗”口径的直接反制，后续将进入 Senate 流程。https://www.acss.org/News/Article/3467/AB-1729-ACSS-Sponsored-Bill-to-Maintain-Flexible-Telework-Passes-in-the-Assembly",
+      "【官方】KALW 报道：州府员工在 CalEPA 大楼外抗议 RTO 命令；报道同时提到 SEIU Local 1000 已就 RTO 提交 unfair labor practice（ULP）指控。https://www.kalw.org/bay-area-news/2026-05-26/state-workers-protest-return-to-office-order-outside-calepa"
+    ],
+    "hot_topics": [
+      "立法：AB 1729 通过 Assembly 后的 Senate 节点与“能否落地约束部门 RTO 决策”的期待。https://www.reddit.com/r/CAStateWorkers/comments/1tpqy7s/ab_1729_has_passed_lets_celebrate_and_highlight/",
+      "Caltrans：7/1/2026 起“4 天到岗/混合模式”落地细则、以及空间与业务需求如何被引用。https://www.reddit.com/r/CAStateWorkers/comments/1tebgcv/caltrans_rto_effective_7126/",
+      "Sacramento 部门扩散：DOT 员工贴出管理层邮件称将于 7/1 执行 4-day RTO、更多细节待会后发布。https://www.reddit.com/r/CAStateWorkers/comments/1te4dqz/dot_rto/",
+      "工会动员：SEIU Local 1000 把 2026 合同谈判与 telework 保护绑定，号召成员参与行动与调查。https://www.seiu1000.org/2026contract/"
+    ],
+    "summary": "在 7/1 倒计时与 AB 1729 过 Assembly 的双重推动下，RTO 讨论焦点正从“会不会执行”转向“各部门如何执行与如何被约束”。"
+  },
+  {
     "date": "2026-05-28",
     "date_label": "2026年5月28日",
     "title": "今日 CA State Worker RTO 情报",

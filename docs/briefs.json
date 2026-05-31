@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-05-30",
+    "date_label": "2026年5月30日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Caltrans D10 员工称部门在会里提到因工位不足，可能出现“本周 3 天/下周 2 天”之类的轮换到岗；讨论点集中在空间约束、排班通知方式与公平性。https://www.reddit.com/r/CAStateWorkers/comments/1tqgu9d/rto_notice_memo_personalized_to_each_member_in_my/",
+      "【Reddit热议】“RTO Hoopla”帖继续发酵：有 Caltrans 员工表示 7/1 可能先按 3 天到岗启动，待增设 cubicle 后再提升到 4 天；同时帖内引用“5/29 前由主管通知个人排班”的说法，引发对执行口径不一的担忧。https://www.reddit.com/r/CAStateWorkers/comments/1todm03/rto_hoopla/",
+      "【Rumor】有帖子称多部门被要求在 6/30 前完成新版 telework agreement，并提到某些单位的 RTO 生效日被传为 7/6；评论区也把希望寄托在 AB 1729 与下一轮合同谈判对“恢复既有 telework 协议”的约束力上。https://www.reddit.com/r/CAStateWorkers/comments/1tkld0h/telework_agreement/",
+      "【官方】ACSS 通报：AB 1729（State employment: telework programs）已于 2026-05-27 在 Assembly 以 67-7 通过，接下来将进入 Senate 流程；工会/员工圈普遍把它视为对“默认 4 天到岗”路线的关键立法抓手。https://www.acss.org/News/Article/3467/AB-1729-ACSS-Sponsored-Bill-to-Maintain-Flexible-Telework-Passes-in-the-Assembly",
+      "【官方】CalHR Benefits 发布/更新 RTO 转换资源页，明确 RTO “至少每周 4 天到岗”的执行时间已从 2025-07-01 延后至 2026-07-01，并提供通勤、健康与变更管理等资源入口（供各部门宣传引用）。https://benefits.calhr.ca.gov/rto/",
+      "【官方】CSLEA 发文称 CalHR 已指示各机构开始向 labor organizations 发出 RTO EO 落地通知，并表示 2025 年发布的相关指引仍适用于 2026 年 7/1 的实施节点。https://cslea.com/2026/05/calhr-directs-agencies-to-begin-notifying-labor-organizations-of-return-to-office-executive-order-implementation/"
+    ],
+    "hot_topics": [
+      "Caltrans：工位不足下的轮换/两周节奏（3天/2天）是否会成为“4 天到岗”前的过渡形态。https://www.reddit.com/r/CAStateWorkers/comments/1tqgu9d/rto_notice_memo_personalized_to_each_member_in_my/",
+      "立法：AB 1729 的 Senate 节点与文本要求（telework programs）是否能形成可执行的部门约束。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "全州口径：CalHR RTO 资源页被引用/转发，可能影响部门对员工的宣导措辞与“统一标准”叙事。https://benefits.calhr.ca.gov/rto/",
+      "协议与执行：新版 telework agreement 的签署节奏、RTO 生效日（7/1 vs 7/6 传闻）与个人排班通知方式。https://www.reddit.com/r/CAStateWorkers/comments/1tkld0h/telework_agreement/"
+    ],
+    "summary": "临近 2026-07-01，讨论正在从“是否 RTO”转向“排班怎么排、空间怎么撑、以及 AB 1729 能否形成硬约束”。"
+  },
+  {
     "date": "2026-05-29",
     "date_label": "2026年5月29日",
     "title": "今日 CA State Worker RTO 情报",

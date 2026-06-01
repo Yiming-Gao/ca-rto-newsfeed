@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-05-31",
+    "date_label": "2026年5月31日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】临近 7/1，Caltrans 员工持续讨论“主管逐个通知个人排班/到岗安排”的执行细节与口径差异，担心各单位在同一大方向下出现不同解释与落地强度。https://www.reddit.com/r/CAStateWorkers/comments/1todm03/rto_hoopla/",
+      "【Reddit热议】有 Caltrans 员工贴出“个人化 RTO notice memo”，并引发对工位不足下轮换到岗（例如两周 3 天/2 天节奏）、hoteling 安排与公平性的讨论。https://www.reddit.com/r/CAStateWorkers/comments/1tqgu9d/rto_notice_memo_personalized_to_each_member_in_my/",
+      "【Rumor】telework agreement 相关帖继续发酵：有人称被要求在 6 月底前完成新版协议/排班落地，评论区也把焦点转向 AB 1729 与合同谈判能否把“telework 保障”写成更硬的部门义务。https://www.reddit.com/r/CAStateWorkers/comments/1tkld0h/telework_agreement/",
+      "【官方】SEIU Local 1000 更新 RTO 页面：称已收到 Governor’s Office 向部门发送的 RTO memo，要求为 2026-07-01 起对 telework 员工“至少每周 4 天到岗”的实施做准备，并持续通过谈判/行动争取更强 telework 保障。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729（State employment: telework programs）进入 Senate 前的关注度上升；员工社区将其视为对“默认 4 天到岗”路线的核心立法抓手，并持续跟踪 bill status 与后续听证/表决节点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】CSLEA 转述：CalHR 指示各机构开始向 labor organizations 发出 RTO EO 落地通知/沟通，相关口径仍围绕 2026-07-01 的实施节点展开。https://cslea.com/2026/05/calhr-directs-agencies-to-begin-notifying-labor-organizations-of-return-to-office-executive-order-implementation/"
+    ],
+    "hot_topics": [
+      "Caltrans：个人排班通知、hoteling/工位不足与轮换到岗（3天/2天）会不会成为“4 天到岗”前的常态过渡。https://www.reddit.com/r/CAStateWorkers/comments/1tqgu9d/rto_notice_memo_personalized_to_each_member_in_my/",
+      "执行口径：同一套 EO/CalHR 叙事下，各部门“先 3 天再 4 天”或“直接 4 天”的落地差异。https://www.reddit.com/r/CAStateWorkers/comments/1todm03/rto_hoopla/",
+      "协议与约束：新版 telework agreement 的签署节奏、条款收紧幅度，以及是否会被用于强推排班。https://www.reddit.com/r/CAStateWorkers/comments/1tkld0h/telework_agreement/",
+      "立法：AB 1729 后续 Senate 流程与关键节点，是否能形成可执行的 telework/RTO 约束。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "眼下的争议重点是“7/1 前各单位怎么把排班与空间问题落地”，以及 AB 1729/工会是否能给 RTO 加上可执行的约束。"
+  },
+  {
     "date": "2026-05-30",
     "date_label": "2026年5月30日",
     "title": "今日 CA State Worker RTO 情报",

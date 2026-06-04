@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-03",
+    "date_label": "2026年6月3日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Caltrans 6/3 RTO webcast 的核心口径已经非常硬：7/1 起默认每周至少 4 天到岗/field，5/29 已发 30 天排班变更通知，新的 telework agreement 要在 6/30 前交，等于正式进入执行倒计时。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "【Reddit热议】同一场 Q&A 里最受关注的是“例外收紧”：帖子转述 CalHR 允许 case-by-case exemptions，但 Caltrans 目前除 RA/FMLA 外基本不放其他豁免；full-day field work 可计入 4 天到岗要求。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "【Reddit热议】员工对 webcast 反应激烈：有人称 7000+ 人上线却关闭聊天、只读 canned Q&A；评论区同时把火力集中到 San Bernardino 与 Sacramento 一类办公室的停车、共享工位、Teams 噪音和“根本没空间”问题。https://www.reddit.com/r/CAStateWorkers/comments/1tvvr4t/caltrans_rto_webcast/ https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "【官方】CalHR 的 RTO 资源页仍保持“Updated for 2026”状态，并明确把 2026-07-01 作为回办公室节点，还直接列出 downtown Sacramento 停车 lottery、通勤补助与交通资源，说明官方准备方向仍是实施而不是回撤。https://benefits.calhr.ca.gov/rto/",
+      "【官方】AB 1729 目前仍是员工群体最现实的立法抓手；ACSS 5/27 公告确认该 bill 已在 Assembly 以 67-7 通过并带 urgency provision，下一步转 Senate，6/3 的讨论也继续把它与 RTO 延后/限缩预期绑在一起。https://www.acss.org/News/Article/3467/AB-1729-ACSS-Sponsored-Bill-to-Maintain-Flexible-Telework-Passes-in-the-Assembly https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "hot_topics": [
+      "Caltrans：7/1 前的最后执行细则基本落到 telework agreement、field day 认定和主管排班通知。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "例外与豁免：RA/FMLA 之外是否还有 case-by-case 空间，成了 webcast 后最直接的焦点。https://www.reddit.com/r/CAStateWorkers/comments/1tvvr4t/caltrans_rto_webcast/ https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "Sacramento/地方办公点容量：停车 lottery、共享工位、会议室改工位和 Teams 噪音问题继续升温。https://benefits.calhr.ca.gov/rto/ https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "立法与诉讼预期：AB 1729、CASE 环境诉讼、以及“7/1 downtown chaos 会不会逼出再评估”是社区最常见的希望点。https://www.reddit.com/r/CAStateWorkers/comments/1tw0gwz/rto/ https://www.reddit.com/r/CAStateWorkers/comments/1tpqiwt/case_files_lawsuit_against_state_over/"
+    ],
+    "summary": "今天的信号很明确：Caltrans 已从“预告”切到“执行”，真正变量只剩豁免口径、空间承载和 Senate/诉讼会不会在 7/1 前制造变数。"
+  },
+  {
     "date": "2026-05-31",
     "date_label": "2026年5月31日",
     "title": "今日 CA State Worker RTO 情报",
@@ -280,4 +299,5 @@ window.BRIEFS_DATA = [
     ],
     "summary": "Caltrans 等部门的 7/1 倒计时、工位/排班落地细节，以及工会与 AB 1729 的攻防，是当前讨论主轴。"
   }
-];
+]
+;

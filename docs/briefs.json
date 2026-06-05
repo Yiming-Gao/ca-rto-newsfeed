@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-06-04",
+    "date_label": "2026年6月4日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】今天最实用的新信息仍来自 Caltrans webcast 后续整理：7/1 起默认每周至少 4 天到岗或 field，5/29 已发 30 天排班变更通知，full-day field work 可计入到岗天数，新 telework agreement 要在 6/30 前交，说明执行层面已经进入最后倒计时。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "【Reddit热议】同一份 Q&A 摘要再次点燃豁免争议：帖主称 CalHR 允许 case-by-case exemptions，但 Caltrans 当前除 RA/FMLA 外基本不放其他例外；这让很多人把焦点转向“部门口径比州级口径更硬”。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "【Reddit热议】今天新帖开始集中讨论“rotational schedules 是否还行得通”。帖内直接引用 CalHR 给高层的邮件口径，称每周少于 4 天到岗的轮换方案“不合适”，等于给 hoteling/工位不足部门的过渡安排泼了冷水。https://www.reddit.com/r/CAStateWorkers/comments/1tx1vjh/rto_rotational_schedules/",
+      "【官方】SEIU Local 1000 已把 RTO/telework 明确并入 6 月合同动员节奏：Contract Action Center 公布 6/10 对 CalHR 的 statewide wake-up call，以及 Sacramento 在 CDE、EDD 一带的 pop-up solidarity action，说明 union 正把 RTO 与工资、合同谈判捆在一起施压。https://www.seiu1000.org/contract-action-center/",
+      "【官方】官方大盘没有松动迹象：CalHR 的 RTO 资源页仍写明 2026-07-01 恢复至少 4 天到岗，并继续单列 downtown Sacramento 停车 lottery/通勤支持；AB 1729 则已于 5/28 转入 Senate、状态为 pending referral，仍是目前最直接的立法变量。https://benefits.calhr.ca.gov/rto/ https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "hot_topics": [
+      "Caltrans 执行细则：4 天到岗、field day 抵扣、6/30 telework agreement 截止日。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "轮换与 hotelling：CalHR 对“少于 4 天到岗轮换”的否定，直接冲击空间不足部门。https://www.reddit.com/r/CAStateWorkers/comments/1tx1vjh/rto_rotational_schedules/",
+      "Sacramento 行动：SEIU 6/10 在 CDE、EDD 附近做 wake-up call 与 solidarity action。https://www.seiu1000.org/contract-action-center/",
+      "立法观察：AB 1729 已到 Senate，是否被快速分配委员会仍是关键。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "官方准备方向：CalHR 继续把停车、通勤和回办公室资源当作既定实施前提。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "summary": "今天的核心判断是：RTO 现在卡的已不是口号，而是 Caltrans 执行细则、轮换空间还能否存在，以及 union/AB 1729 能不能在 7/1 前制造实质变数。"
+  },
+  {
     "date": "2026-06-03",
     "date_label": "2026年6月3日",
     "title": "今日 CA State Worker RTO 情报",

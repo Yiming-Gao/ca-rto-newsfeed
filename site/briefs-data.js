@@ -1,5 +1,26 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-05",
+    "date_label": "2026年6月5日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Caltrans 6/3 webcast 的执行细节今天仍在持续发酵：7/1 起默认每周至少 4 天到岗或 field，5/29 已发 30 天排班变更通知，新 telework agreement 要在 6/30 前交，说明部门已进入最后落地阶段。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "【Reddit热议】最刺耳的争议点仍是豁免和空间：帖内整理称 CalHR 允许 case-by-case exemptions，但 Caltrans 目前除 RA/FMLA 外基本不放其他例外；同时 Sacramento 的空间仍在和 DGS 协调，工位与 hotelling 压力没有消失。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "【Reddit热议】今天 subreddit 又冒出更硬的执行案例：有帖称某部门要求原本 hybrid 的 Office Tech 直接取消 telework agreement，改成每周 5 天到办公室，引发大家对“部门自行加码”与低层级岗位先被收紧的担忧。https://www.reddit.com/r/CAStateWorkers/new/",
+      "【官方】AB 1729 目前没有像部分员工期待的那样在本周突然再推进；LegInfo 当前仍显示它于 2026-05-27 在 Assembly 三读通过、2026-05-28 转入 Senate 并交 Rules 分配，短期内仍是 telework 阵营最关键的立法变量。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.seiu1000.org/rto/",
+      "【官方】Union 线也继续加压而不是收兵：SEIU Local 1000 的 RTO 页面仍把 5/12 提交 PERB unfair labor practice charge、5/27 宣布 AB 1729 过 Assembly 作为主轴；PECG 的 Side Letter #27 则再次提醒，BU 9 去年争取到的暂停将在 2026-07-01 reinstitute。https://www.seiu1000.org/rto/ https://pecg.org/2025-2028-mou/sideletter_27/",
+      "【官方】CalHR 的 2026 RTO 资源页继续把“回办公室”当成既定事实处理，重点放在 Sacramento 停车 lottery、commute program、childcare 和 leave/flexible work arrangements 资源，而不是政策回撤；这也说明州级准备方向仍是执行。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "hot_topics": [
+      "Caltrans 倒计时：7/1 生效、6/30 前重签 telework agreement。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "Sacramento 空间与 hotelling：DGS 协调还在继续，工位不足没解决。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "部门加码风险：部分岗位被传从 hybrid 直接收紧到 5 天到岗。https://www.reddit.com/r/CAStateWorkers/new/",
+      "AB 1729 观察点：已过 Assembly，现停在 Senate 分配阶段。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "Union 动作：SEIU 的 PERB/立法双线，PECG 的 7/1 reinstitute 提醒。https://www.seiu1000.org/rto/ https://pecg.org/2025-2028-mou/sideletter_27/"
+    ],
+    "summary": "今天的结论很简单：7/1 前真正要看的不是口号，而是部门会不会继续加码执行、Sacramento 空间能否撑住，以及 Senate 端的 AB 1729 能不能突然加速。"
+  },
+  {
     "date": "2026-06-04",
     "date_label": "2026年6月4日",
     "title": "今日 CA State Worker RTO 情报",
@@ -320,4 +341,3 @@ window.BRIEFS_DATA = [
     "summary": "Caltrans 等部门的 7/1 倒计时、工位/排班落地细节，以及工会与 AB 1729 的攻防，是当前讨论主轴。"
   }
 ]
-;

@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-06",
+    "date_label": "2026年6月6日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Caltrans 6/3 webcast 的落地细则今天仍是讨论中心：7/1 起默认每周至少 4 天到岗或 field，5/29 已发 30 天排班变更通知，新的 telework agreement 需在 6/30 前交，说明执行窗口已经非常短。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "【Reddit热议】员工焦点继续卡在豁免与空间：帖内整理称 CalHR 允许 case-by-case exemptions，但 Caltrans 目前除 RA/FMLA 外基本不放其他例外；Sacramento 办公空间仍在和 DGS 协调，hoteling 压力没有缓解。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "【Reddit热议】subreddit 今天的情绪明显转向“7/1 前最后动员”：一边有人发帖催大家给 Senate 打电话支持 AB 1729，另一边也有人直说若部门不给弹性就准备换更灵活的 agency，反映 telework 已直接影响去留判断。https://www.reddit.com/r/CAStateWorkers/comments/1txqwww/keep_reaching_out_to_your_senator_re_ab_1729_now/ https://www.reddit.com/r/CAStateWorkers/comments/1tttzja/ab_1729_is_onward_to_the_senate_what_we_might/",
+      "【官方】AB 1729 今天看不到新的 Senate 动作；LegInfo 仍显示 5/28 已转 Senate 并送 Rules 分配，ACSS 继续强调该 bill 带 urgency provision，若过 Senate 且签署可立即生效，因此它仍是 7/1 前最重要的立法变量。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.acss.org/News/Article/3467/AB-1729-ACSS-Sponsored-Bill-to-Maintain-Flexible-Telework-Passes-in-the-Assembly",
+      "【官方】Union 线没有降温：SEIU Local 1000 维持 5/12 的 PERB unfair labor practice charge，并把 6/10 Sacramento 的 CDPH/EDD pop-up solidarity action 挂在 Contract Action Center；PECG 与 CSLEA 页面也都仍把 7/1 reinstitute 当作现行基线。https://www.seiu1000.org/rto/ https://www.seiu1000.org/contract-action-center/ https://pecg.org/2025-2028-mou/sideletter_27/ https://cslea.com/2026/05/calhr-directs-agencies-to-begin-notifying-labor-organizations-of-return-to-office-executive-order-implementation/"
+    ],
+    "hot_topics": [
+      "Caltrans 倒计时：6/30 前重签 telework agreement，7/1 起按 4 天到岗执行。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "Sacramento 空间与 hoteling 仍未解，DGS 协调继续被反复提起。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "AB 1729 现停在 Senate Rules 分配阶段，员工开始集中联络参议员。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/comments/1txqwww/keep_reaching_out_to_your_senator_re_ab_1729_now/",
+      "6/10 Sacramento union 动作已排上日程，地点包括 CDPH 与 EDD。https://www.seiu1000.org/contract-action-center/",
+      "BU 9/Unit 7 这类已延期单位，现在也都把 7/1 reinstitute 当成默认前提。https://pecg.org/2025-2028-mou/sideletter_27/ https://cslea.com/2026/05/calhr-directs-agencies-to-begin-notifying-labor-organizations-of-return-to-office-executive-order-implementation/"
+    ],
+    "summary": "今天的判断是：RTO 已进入最后执行倒计时，真正变量只剩 Senate 端的 AB 1729、union 压力，以及 Sacramento 空间能否撑住。"
+  },
+  {
     "date": "2026-06-05",
     "date_label": "2026年6月5日",
     "title": "今日 CA State Worker RTO 情报",

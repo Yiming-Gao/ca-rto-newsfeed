@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-07",
+    "date_label": "2026年6月7日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】今天 subreddit 仍把 Caltrans 6/3 webcast 当成 7/1 前最关键的执行说明：7/1 起默认每周至少 4 天到岗或 field，5/29 已发 30 天通知，新的 telework agreement 要在 6/30 前交，说明部门已经进入最后排班锁定期。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "【Reddit热议】围绕豁免和空间的争议没有降温：帖内继续强调 CalHR 虽允许 case-by-case exemptions，但 Caltrans 目前除 RA/FMLA 外基本不放其他例外；Sacramento 办公位与 DGS 协调仍未讲清，hoteling 焦虑持续。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/ https://www.reddit.com/r/CAStateWorkers/comments/1tw0gwz/rto/",
+      "【Reddit热议】SEIU 最新 telework 邮件在社区引出两种判断：一派把 AB 1729 和合同谈判视为最后抓手，另一派则直说若 7/1 落地又没拿到像样 raise，就会离开更差的 Oakland/Sacramento 办公环境，反映 telework 已和留任直接绑定。https://www.reddit.com/r/CAStateWorkers/comments/1tws4gf/seiu_telework_email/",
+      "【官方】AB 1729 今天仍没有新的 Senate 动作；LegInfo 依旧显示该 bill 在 2026-05-28 进入 Senate、送 Rules 分配，状态还是 Pending Referral，意味着 7/1 前能否突然推进仍是州府 telework 线最现实的立法变量。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】Union 端则继续把压力往 Sacramento 街头和合同桌上推：SEIU Contract Action Center 已挂出 6/10 在 CDPH、EDD 的 pop-up solidarity action，并预告 7/1 Capitol rally；CalHR RTO 资源页也仍把 2026-07-01 的至少 4 天到岗当成既定前提。https://www.seiu1000.org/contract-action-center/ https://benefits.calhr.ca.gov/rto/ https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "Caltrans 最后的硬节点没变：6/30 前重签 telework agreement，7/1 起按 4 天到岗或 field 计算。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "Sacramento 的空间、停车和 hoteling 仍是最现实的执行风险，员工继续担心 downtown 会在 7/1 前后失控。https://www.reddit.com/r/CAStateWorkers/comments/1tw0gwz/rto/ https://benefits.calhr.ca.gov/rto/",
+      "AB 1729 还卡在 Senate Rules 分配，短期看不到正式加速信号。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "SEIU 已把 6/10 Sacramento 行动和 7/1 Capitol rally 排上日程，telework 继续和合同动员捆绑。https://www.seiu1000.org/contract-action-center/",
+      "BU 9、Unit 7 这类去年延期单位，官方页面仍把 7/1 reinstitute 视为默认基线。https://pecg.org/2025-2028-mou/sideletter_27/ https://cslea.com/2026/05/calhr-directs-agencies-to-begin-notifying-labor-organizations-of-return-to-office-executive-order-implementation/"
+    ],
+    "summary": "今天的结论是：RTO 已经从“会不会来”转成“7/1 如何硬落地”，真正变量只剩 Senate、union 压力和 Sacramento 空间承载。"
+  },
+  {
     "date": "2026-06-06",
     "date_label": "2026年6月6日",
     "title": "今日 CA State Worker RTO 情报",
@@ -360,4 +380,4 @@ window.BRIEFS_DATA = [
     ],
     "summary": "Caltrans 等部门的 7/1 倒计时、工位/排班落地细节，以及工会与 AB 1729 的攻防，是当前讨论主轴。"
   }
-]
+];

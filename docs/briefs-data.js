@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-08",
+    "date_label": "2026年6月8日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】今天 subreddit 最新的实质变化来自 CASE 线：有 BU2 员工称今早收到 telework agreement 截止日延到 6/30 的通知，且 6/24 还有 meet and confer；同帖回复又说部分 Caltrans 员工今天也收到 6/30 截止提醒，说明各单位现在更像是在锁定协议和口径，而不是回撤 RTO。https://www.reddit.com/r/CAStateWorkers/comments/1u0hjbh/telework_agreement_deadline_delayed_for_case/",
+      "【Reddit热议】另一个今天爆开的帖子来自 Department of Cannabis Control：员工称部门原本长期受制于空间不足、只能勉强维持 2 天到岗，如今突然拿到 Natomas 新空间并计划 8 月推 4 天到岗；这让 Sacramento 圈对“先补空间、后加码 RTO”的路径更警惕。https://www.reddit.com/r/CAStateWorkers/comments/1u0f3wu/well_rto_finally_got_to_cannabis/",
+      "【官方】AB 1729 截至今天仍无新的 Senate 动作；LegInfo 继续显示它停在 2026-05-28 的 “In Senate. Read first time. To Com. on RLS. for assignment.”，法律面现在还没有为 7/1 前提供新的缓冲。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】Union 动员则在继续升温。SEIU Local 1000 的 Contract Action Center 仍把 6/10 定为下一次 statewide action，Sacramento 线明确写了 CDE 与 EDD 两站 pop-up solidarity action，加上给 CalHR 的 wake-up call，说明 union 本周重点是把 telework 议题继续推到街头和谈判桌。https://www.seiu1000.org/contract-action-center/",
+      "【官方】CalHR 的 RTO 资源页今天看不到任何松动信号，页面仍把 2026-07-01 作为至少每周 4 天到岗的既定节点，并继续单列 downtown Sacramento 停车 lottery、通勤和 childcare 资源；官方准备方向依旧是“怎么回去”，不是“要不要回去”。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "hot_topics": [
+      "CASE/BU2 是否会出现更多 6/30 前的延期、过渡或补充 meet and confer，现在成了观察其他 bargaining unit 的先行指标。https://www.reddit.com/r/CAStateWorkers/comments/1u0hjbh/telework_agreement_deadline_delayed_for_case/",
+      "Sacramento 办公空间逻辑正在变化：DCC 拿到 Natomas 空间后准备推 4 天到岗，说明“没位置所以先缓一缓”未必还能撑到 7 月后。https://www.reddit.com/r/CAStateWorkers/comments/1u0f3wu/well_rto_finally_got_to_cannabis/",
+      "AB 1729 还卡在 Senate Rules 分配，短线仍看不到立法加速。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "SEIU 6/10 的 Sacramento 行动和对 CalHR 的 statewide wake-up call，是本周最明确的公开施压节点。https://www.seiu1000.org/contract-action-center/",
+      "CalHR 继续把停车、通勤和 childcare 当成 RTO 落地配套，默认 7/1 节点不会变。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "summary": "今天的信号很明确：政策没有松，部门在补空间、锁协议，7月前真正还在动的只剩 union 压力和 Senate 节奏。"
+  },
+  {
     "date": "2026-06-07",
     "date_label": "2026年6月7日",
     "title": "今日 CA State Worker RTO 情报",
@@ -380,4 +400,5 @@ window.BRIEFS_DATA = [
     ],
     "summary": "Caltrans 等部门的 7/1 倒计时、工位/排班落地细节，以及工会与 AB 1729 的攻防，是当前讨论主轴。"
   }
-];
+]
+;

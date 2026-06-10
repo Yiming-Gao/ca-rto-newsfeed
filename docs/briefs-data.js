@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-09",
+    "date_label": "2026年6月9日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】今天 subreddit 最直接的新变化，是有员工发帖称部门刚收到 executive team 通知，内容指向 Governor 向各 department heads 推进 RTO order；评论区随即把焦点拉回 Sacramento 最现实的落地难题：共享工位、Teams 通话冲突和根本不够的空间。https://www.reddit.com/r/CAStateWorkers/comments/1tbiwp4/just_received_notice_re_rto/",
+      "【Rumor】CPUC 这两天在版上最受羡慕的消息仍是“维持每周 2 天到岗、不升到 4 天”；虽然这不是适用于多数行政部门的官方州级口径，但它强化了一个对比：具备更强自治空间的单位仍可能顶住 4-day RTO。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/",
+      "【Reddit热议】Caltrans 线今天没有出现“回撤 4 天”的新证据，反而在 CPUC 讨论串里继续被拿来对照：员工直说 Caltrans 看起来仍会按 4 天推进，而且 HQ 容量、停车和 hoteling 到现在都没看见可行解法。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/",
+      "【官方】CalHR 的 2026 RTO 资源页截至 2026年6月9日 仍维持原口径：州长命令要求 state employees 至少每周 4 天回办公室，实施时间从 2025-07-01 延到 2026-07-01；页面重点还是 Sacramento 停车 lottery、通勤和 childcare 准备，而不是政策放松。https://benefits.calhr.ca.gov/rto/",
+      "【官方】立法面今天也没有新缓冲。AB 1729 在 LegInfo 仍停留在 2026-05-28 的 “In Senate. Read first time. To Com. on RLS. for assignment.”；与此同时，SEIU Local 1000 继续把 6/10 定为 statewide wake-up call，并在 Sacramento 排了 CDPH、EDD 两站 solidarity action。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.seiu1000.org/contract-action-center/"
+    ],
+    "hot_topics": [
+      "部门是否会像今天帖子暗示的那样陆续下发新通知，正在成为 6/10 前最敏感的观察点。https://www.reddit.com/r/CAStateWorkers/comments/1tbiwp4/just_received_notice_re_rto/",
+      "CPUC 维持 2 天到岗，让更多人继续追问“为什么少数单位能顶住，普通部门不能”。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/",
+      "Caltrans 和 Sacramento HQ 的空间、停车、hoteling 仍被视为 7/1 前最大执行雷点。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/ https://benefits.calhr.ca.gov/rto/",
+      "AB 1729 还卡在 Senate Rules 分配，短线没有新动作。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "SEIU 6/10 wake-up call 和 Sacramento solidarity caravan，是眼下最明确的公开施压节点。https://www.seiu1000.org/contract-action-center/"
+    ],
+    "summary": "今天的判断很清楚：官方口径没松，真正的变量仍是部门通知节奏、Sacramento 空间承载和 union 明天的施压强度。"
+  },
+  {
     "date": "2026-06-08",
     "date_label": "2026年6月8日",
     "title": "今日 CA State Worker RTO 情报",
@@ -400,5 +420,4 @@ window.BRIEFS_DATA = [
     ],
     "summary": "Caltrans 等部门的 7/1 倒计时、工位/排班落地细节，以及工会与 AB 1729 的攻防，是当前讨论主轴。"
   }
-]
-;
+];

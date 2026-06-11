@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-10",
+    "date_label": "2026年6月10日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 的 RTO 页面到 2026年6月10日 仍没松口，继续写明州政府员工至少每周 4 天回办公室，执行日是 2026-07-01；配套重点还是 Sacramento 停车、通勤和 childcare，不是豁免扩围。https://benefits.calhr.ca.gov/rto/",
+      "【官方】AB 1729 目前仍卡在 Senate Rules 分配环节；LegInfo 最新状态还是 2026-05-28 “In Senate. Read first time. To Com. on RLS. for assignment.”，说明短线立法面还没有给 telework 阵营带来新缓冲。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】本周最被转发的好消息仍是 CPUC 明确维持每周 2 天到岗、不升到 4 天；评论区随即点出一个现实分化：不直接受 Governor 管辖的单位，RTO 自主空间明显更大。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/",
+      "【Rumor】subreddit 置顶讨论里，有员工称自己部门已收到 executive team 通知，内容是 Governor 正推动各部门继续执行 RTO order；虽然部门名未公开，但这被很多人视作 6 月中旬前还会有新通知落地的信号。https://www.reddit.com/r/CAStateWorkers/comments/1tbiwp4/just_received_notice_re_rto/",
+      "【Reddit热议】今天帖子下面很快把争论从政治情绪拉回执行面：有人直接问“如果部门已经没空间怎么办”，也有人吐槽 hoteling、90 分钟 Teams call 和停车库满位，说明 Sacramento 办公容量仍是最现实的落地风险。https://www.reddit.com/r/CAStateWorkers/comments/1tbiwp4/just_received_notice_re_rto/"
+    ],
+    "hot_topics": [
+      "SEIU Local 1000 的 6月10日 “Wake Up Call” 仍是今天最明确的 union 动作节点，Reddit 普遍理解为集中打电话施压。https://www.reddit.com/r/CAStateWorkers/comments/1tlmka0/seiu_local_1000_get_your_phones_ready_on_june_10/ https://bsky.app/profile/seiu1000.bsky.social/post/3mmjweeos5r2v",
+      "Caltrans 仍没看到公开“降回 2 天”的迹象，在讨论里继续被当作 Sacramento 大部门 4-day RTO 的压力样本。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/",
+      "办公室容量、hoteling、停车和“进楼后继续 Teams”仍是员工判断 7/1 会不会混乱的核心指标，而且今天帖子已出现车库满位和共用工位焦虑。https://www.reddit.com/r/CAStateWorkers/comments/1tbiwp4/just_received_notice_re_rto/ https://benefits.calhr.ca.gov/rto/",
+      "AB 1729 还没出 Senate Rules，想靠 bill 在 7 月前改变大盘，时间继续偏紧。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "今天的结论没有变：官方四天到岗线还在，真正的变量只剩部门通知节奏、Sacramento 办公容量，以及 union 施压能否放大。"
+  },
+  {
     "date": "2026-06-09",
     "date_label": "2026年6月9日",
     "title": "今日 CA State Worker RTO 情报",
@@ -420,4 +439,5 @@ window.BRIEFS_DATA = [
     ],
     "summary": "Caltrans 等部门的 7/1 倒计时、工位/排班落地细节，以及工会与 AB 1729 的攻防，是当前讨论主轴。"
   }
-];
+]
+;

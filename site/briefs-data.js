@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-11",
+    "date_label": "2026年6月11日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 截至今天仍维持硬口径：州政府员工至少每周 4 天回办公室，生效日还是 2026-07-01；页面新增内容仍集中在 Sacramento 停车、通勤和 childcare 过渡，说明州级准备重点还是“怎么执行”而不是“会不会放松”。https://benefits.calhr.ca.gov/rto/",
+      "【官方】AB 1729 今天最大的实质进展不是过关，而是 LegInfo 已把它记为 2026-06-10 转到 Senate 的 Labor, Public Employment and Retirement 与 G.O. 两个委员会，且 hearing date 已挂到 2026-06-17，代表 telework 阵营至少拿到了下一站正式时间表。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 的 Contract Action Center 现在把 2026-07-01 Sacramento Capitol 的 “Holding the Line Rally” 放到最显眼位置，说明 union 的公开动作已从 6/10 电话施压转向 7/1 当天线下集结。https://www.seiu1000.org/contract-action-center/",
+      "【官方】PECG 的 Side Letter #27 口径今天没有变化：BU 9 的 RTO suspension 只到 2026-06-30，7/1 reinstitute；对 Caltrans 和相关工程岗位来说，这继续是最直接的倒计时信号。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "【Reddit热议】subreddit 这两天最刺痛的新案例，是有部门通知 Office Tech 直接取消 telework agreement，发帖人补充说不是改成 4 天，而是 5 天全到岗；评论区普遍把这看作部门可能在州长命令之上继续自行加码。https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/"
+    ],
+    "hot_topics": [
+      "AB 1729 现在的硬观察点就是 6/17 Senate hearing，员工讨论已从“有没有戏”转成“能不能继续给州长施压”。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/comments/1tl18r9/ab_1729_status/",
+      "Sacramento 线下动员并没有结束，SEIU 已把 7/1 Capitol rally 当成下一个集中节点。https://www.seiu1000.org/contract-action-center/",
+      "Caltrans/BU 9 人群最关心的仍是 6/30 之后会不会还有延期，因为 PECG 文本目前写死了 7/1 reinstitute。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "部门会不会把 4-day RTO 再加码成 5 天，正在变成 Reddit 上新的恐慌点。https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/"
+    ],
+    "summary": "今天的核心变化是时间表更具体了，但官方并没松口，真正的变量只剩 6/17 Senate hearing、7/1 union 动员，以及部门是否继续加码执行。"
+  },
+  {
     "date": "2026-06-10",
     "date_label": "2026年6月10日",
     "title": "今日 CA State Worker RTO 情报",
@@ -439,5 +458,4 @@ window.BRIEFS_DATA = [
     ],
     "summary": "Caltrans 等部门的 7/1 倒计时、工位/排班落地细节，以及工会与 AB 1729 的攻防，是当前讨论主轴。"
   }
-]
-;
+];

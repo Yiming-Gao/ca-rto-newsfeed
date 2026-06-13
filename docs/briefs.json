@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-06-12",
+    "date_label": "2026年6月12日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 今天页面口径仍未松动，继续写明州政府员工至少每周 4 天回办公室，推迟后的统一生效日仍是 2026-07-01；这说明州级现在还是把重点放在通勤、停车和 childcare 配套，而不是扩大豁免。https://benefits.calhr.ca.gov/rto/",
+      "【官方】AB 1729 现在最硬的新节点已经明确：LegInfo 显示 bill 已在 2026-06-10 转入 Senate 的 Labor, Public Employment and Retirement 与 G.O.，听证日期挂在 2026-06-17；短线看，telework 阵营的窗口就是下周委员会关。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】PECG 本周与 CalHR 继续就 Side Letter #27 meet and confer，公开说州府仍坚持 2026-07-01 起每周 4 天到岗，而且拿不出支持 RTO 的客观数据、招录留任分析和纳税人成本测算；对 Caltrans/BU 9 来说，这比口号更像最后一轮硬碰硬。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/PECG/comments/1tkw4eg/pecg_bargaining_team_met_with_calhr/",
+      "【Reddit热议】r/CAStateWorkers 今天前台仍把 CalEPA HQ 的 “Hell No RTO Rally TODAY” 挂在社区高位，评论区一边催 Sacramento 员工中午去现场，一边继续争论 turnout 会不会太小；至少从舆论面看，线下反 RTO 动员还没退场。https://www.reddit.com/r/CAStateWorkers/comments/1tjoa4f/hell_no_rto_rally_today_calepa_hq_10th_and_i_1200/",
+      "【Reddit热议】最让人紧张的新案例仍是 Office Tech 帖子：发帖人称部门要求目前 hybrid 员工直接取消 telework agreement，且不是改成 4 天，而是 5 天全到岗；同一波讨论里，CDCR/CCHCS 员工转贴的部门邮件也明确写了会按 2026-07-01 执行 statewide 4-day RTO。https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/ https://www.reddit.com/r/CAStateWorkers/comments/1txz3wb/rto_email_cdcrcchcs_519/"
+    ],
+    "hot_topics": [
+      "6/17 的 AB 1729 Senate hearing 现在是最明确的下周观察点，版上情绪已经从等消息转成催推进。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/comments/1tl18r9/ab_1729_status/",
+      "Caltrans/BU 9 仍盯着 7/1 reinstitute 会不会再谈出缓冲，但 PECG 公开更新看起来州府还没让步。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/PECG/comments/1tkw4eg/pecg_bargaining_team_met_with_calhr/",
+      "Sacramento 的反 RTO 线下动员没停，CalEPA rally 和 7/1 Capitol rally 被员工一起拿来衡量 union 压力值。https://www.reddit.com/r/CAStateWorkers/comments/1tjoa4f/hell_no_rto_rally_today_calepa_hq_10th_and_i_1200/ https://www.seiu1000.org/contract-action-center/",
+      "部门会不会在 4-day RTO 之上继续加码成 5 天，已经成了 subreddit 里最刺耳的执行恐慌点。https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/"
+    ],
+    "summary": "今天的关键信号是时间表越来越硬，但官方和管理层都没松口，真正变量只剩 6/17 hearing、7/1 前 union 压力，以及部门会不会继续加码执行。"
+  },
+  {
     "date": "2026-06-11",
     "date_label": "2026年6月11日",
     "title": "今日 CA State Worker RTO 情报",

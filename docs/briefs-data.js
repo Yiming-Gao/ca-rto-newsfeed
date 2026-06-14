@@ -1,5 +1,26 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-13",
+    "date_label": "2026年6月13日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 到今天仍把州政府员工至少每周 4 天回办公室当成既定前提，资源页继续主打 Sacramento 停车、通勤、childcare 和 leave 安排，没有看到扩大豁免或延后执行的新口径。https://benefits.calhr.ca.gov/rto/",
+      "【官方】AB 1729 现在最明确的时间点还是 2026-06-17 的 Senate Labor, Public Employment and Retirement hearing；LegInfo 显示它 6/10 已转入 L., P.E. & R. 和 G.O.，说明 telework 阵营下周仍有正式立法窗口。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】PECG 的 Side Letter #27 页面今天仍写明 BU 9 的 RTO suspension 只到 2026-06-30，7/1 reinstitute；对 Caltrans 工程类岗位来说，这继续是最硬的官方倒计时。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "【官方】SEIU Local 1000 的 Contract Action Center 继续把 7/1 Sacramento Capitol 的 “Holding the Line Rally” 放在前排，说明 union 公开动作已把焦点对准 RTO 生效当天，而不是预期州府会自行松口。https://www.seiu1000.org/contract-action-center/",
+      "【Reddit热议】r/CAStateWorkers 这两天最刺眼的对照组仍是 CPUC：发帖人称维持每周 2 天到岗，不升到 4 天；评论区随即把矛头指向 Caltrans，直说 HQ 空间、停车和 hoteling 根本撑不起全面 4-day RTO。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/ https://www.reddit.com/r/CAStateWorkers/comments/1tk158w/office_space_2026_edition/",
+      "【Reddit热议】CalEPA HQ 的 “Hell No RTO” rally 虽然 turnout 争议很大，但帖子和评论仍在发酵，外加更早的“Just Received Notice RE: RTO”讨论继续有人吐槽共享工位、90 分钟 Teams call 和停车位，说明 Sacramento 员工焦虑仍集中在执行落地而不是口号本身。https://www.reddit.com/r/CAStateWorkers/comments/1tjoa4f/hell_no_rto_rally_today_calepa_hq_10th_and_i_1200/ https://www.reddit.com/r/CAStateWorkers/comments/1tbiwp4/just_received_notice_re_rto/"
+    ],
+    "hot_topics": [
+      "6/17 的 AB 1729 Senate hearing 仍是下周第一观察点，决定 telework 阵营能否把议题继续推上正式轨道。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "Caltrans/BU 9 现在最硬的日期仍是 6/30 suspension 到期、7/1 reinstitute，没有公开延期信号。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "Sacramento 办公容量、停车和 hoteling 焦虑没有降温，员工继续把 HQ 空间不足当成 4-day RTO 最大执行雷点。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/ https://www.reddit.com/r/CAStateWorkers/comments/1tbiwp4/just_received_notice_re_rto/",
+      "7/1 Capitol rally 仍是 union 公开施压的最大已知节点。https://www.seiu1000.org/contract-action-center/",
+      "少数自治机构维持 2 天到岗，让“为什么普通 Sacramento 部门不能更灵活”继续成为版上高频争论。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/"
+    ],
+    "summary": "今天没有看到官方松动，核心仍是 6/17 hearing、7/1 union 动员，以及 Sacramento 办公空间能否扛住硬落地。"
+  },
+  {
     "date": "2026-06-12",
     "date_label": "2026年6月12日",
     "title": "今日 CA State Worker RTO 情报",

@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-06-15",
+    "date_label": "2026年6月15日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 到今天仍维持统一硬口径：州政府员工至少每周 4 天回办公室，执行日仍是 2026-07-01；官方资源重点继续放在 Sacramento 停车、通勤和 childcare 过渡，而不是扩大豁免。https://benefits.calhr.ca.gov/rto/",
+      "【官方】AB 1729 目前最明确的新节点仍是 2026-06-17 的 Senate Labor, Public Employment and Retirement hearing；LegInfo 继续显示它已在 6/10 转入 L., P.E. & R. 与 G.O.，所以 telework 阵营眼下仍只能押注明天委员会这一关。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】PECG 的 Side Letter #27 仍写明 BU 9 的 RTO suspension 只到 2026-06-30、7/1 reinstitute；而今天 subreddit 转贴的 PECG 更新继续强调，CalHR 仍坚持 7/1 四天到岗，也没有拿出支撑政策所需的成本、留任或招募数据。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/CAStateWorkers/new/",
+      "【官方】SEIU Local 1000 的 Contract Action Center 目前仍把 7/1 Sacramento Capitol 的 “Holding the Line Rally” 放在最前面，说明 union 公开施压节奏没有后退，焦点就是 RTO 生效当天。https://www.seiu1000.org/contract-action-center/",
+      "【Reddit热议】subreddit 今天的新帖里，最刺耳的执行信号仍是有 Office Tech 被部门要求直接取消 telework agreement，而且发帖人补充不是改成 4 天，而是 5 天全到岗；这让“部门会不会自行加码”继续升温。https://www.reddit.com/r/CAStateWorkers/new/",
+      "【Reddit热议】Sacramento 员工讨论也继续转向现实成本：有人开始纠结是否要提前搬回 Sacramento 以应对 7/1，另一些帖子则继续吐槽 office space、hoteling、进楼后照样 Teams 开会，说明办公容量仍是最大落地雷点。https://www.reddit.com/r/CAStateWorkers/new/ https://www.reddit.com/r/CAStateWorkers/comments/1tk158w/office_space_2026_edition/"
+    ],
+    "hot_topics": [
+      "6/17 的 AB 1729 Senate hearing 还是最近 24 小时最硬的正式观察点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "Caltrans/BU 9 仍盯着 6/30 suspension 到期、7/1 reinstitute，没有公开延期信号。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "Sacramento 的停车、工位、hoteling 和搬家成本，继续压过抽象口号，成为员工最现实的 RTO 焦虑。https://benefits.calhr.ca.gov/rto/ https://www.reddit.com/r/CAStateWorkers/comments/1tk158w/office_space_2026_edition/ https://www.reddit.com/r/CAStateWorkers/new/",
+      "7/1 Capitol rally 仍是 union 公开施压的最大已知节点。https://www.seiu1000.org/contract-action-center/"
+    ],
+    "summary": "今天的增量不是官方松动，而是员工已开始按 7/1 硬落地做最坏准备，明天的 AB 1729 hearing 反而更关键。"
+  },
+  {
     "date": "2026-06-14",
     "date_label": "2026年6月14日",
     "title": "今日 CA State Worker RTO 情报",

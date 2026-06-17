@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-16",
+    "date_label": "2026年6月16日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 到 2026-06-16 仍维持硬口径：州政府员工至少每周 4 天回办公室，统一执行日还是 2026-07-01；官方资源继续围绕 Sacramento 停车、通勤与 childcare 过渡，没有新增放宽豁免信号。https://benefits.calhr.ca.gov/rto/",
+      "【官方】AB 1729 目前最新正式状态仍是 2026-06-10 转入 Senate 的 L., P.E. & R. 与 G.O.，听证点锁定 2026-06-17；这意味着 telework 阵营明天的委员会结果，仍是最近的制度型观察点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】PECG 的 Side Letter #27 仍写明 BU 9 对州长 RTO 命令的 suspension 只到 2026-06-30，并在 2026-07-01 reinstitute；对 Caltrans 和工程岗位来说，今天依然没有公开延期或再缓冲的明确信号。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "【官方】SEIU Local 1000 目前仍把 2026-07-01 Sacramento Capitol 的 “Holding the Line Rally” 放在 Contract Action Center 首页，说明 union 的公开施压重点仍是 RTO 生效当天，而不是预期州府会先自行退让。https://www.seiu1000.org/contract-action-center/",
+      "【Reddit热议】版上今天仍在发酵两类现实焦虑：一类是 Office Tech 帖子称本单位要求直接取消 telework agreement、改成 5 天到岗；另一类是有人已开始犹豫是否提前搬回 Sacramento，反映大家越来越按 7/1 硬落地做财务和通勤准备。https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/ https://www.reddit.com/r/CAStateWorkers/comments/1tkrqgc/should_i_move_back_to_sacramento/",
+      "【Reddit热议】社区还在扩散跨部门反 RTO 联署与政治风险讨论：有人转发反对 4-day mandate 的 coalition sign-on letter，也有人贴出候选人 Steve Hilton 对 telework 的强硬表态，令“未来是不是不只四天、甚至伴随裁减”再度升温。https://www.reddit.com/r/CAStateWorkers/comments/1tkqkmp/california_state_workers_coalition_signon_letter/ https://www.reddit.com/r/CAStateWorkers/comments/1tktshe/hilton_on_telework_state_needs_a_reduction_state/"
+    ],
+    "hot_topics": [
+      "6/17 的 AB 1729 Senate hearing 仍是最近 24 小时最明确的正式观察点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/comments/1tl18r9/ab_1729_status/",
+      "Caltrans/BU 9 仍盯着 6/30 suspension 到期、7/1 reinstitute，目前看不到公开延期口径。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "Sacramento 的搬家、停车、工位和 hoteling 成本，继续压过抽象口号，成为员工最现实的 RTO 焦虑。https://benefits.calhr.ca.gov/rto/ https://www.reddit.com/r/CAStateWorkers/comments/1tkrqgc/should_i_move_back_to_sacramento/",
+      "7/1 Capitol rally 仍是 union 公开施压的最大已知节点。https://www.seiu1000.org/contract-action-center/"
+    ],
+    "summary": "今天没有看到官方松动，市场情绪已从“会不会变”转成“按 7/1 硬执行做准备”，明天的 AB 1729 hearing 更关键。"
+  },
+  {
     "date": "2026-06-15",
     "date_label": "2026年6月15日",
     "title": "今日 CA State Worker RTO 情报",

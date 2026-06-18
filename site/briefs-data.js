@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-17",
+    "date_label": "2026年6月17日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 到 2026-06-17 晚间公开页面仍维持原口径：州政府员工至少每周 4 天回办公室，统一节点还是 2026-07-01；官方新增资源仍主要围绕 Sacramento 通勤、停车和 childcare 过渡，没有看到新的普遍豁免信号。https://benefits.calhr.ca.gov/rto/",
+      "【官方】AB 1729 今晚能查到的最新正式 history action 仍是 2026-06-10 转入 Senate 的 L., P.E. & R. 与 G.O.；但 subreddit 新帖已经在追问 6/17 hearing 为什么还没刷出状态，说明员工正盯着今天委员会结果。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/new/",
+      "【官方】PECG Side Letter #27 仍写明 BU 9 对州长 RTO 命令的 suspension 只到 2026-06-30，并在 2026-07-01 reinstitute；同时版上转贴的 PECG 更新继续强调，CalHR 仍坚持 7/1 四天到岗，也没拿出支持政策所需的成本、留任或招募数据。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/CAStateWorkers/new/",
+      "【官方】SEIU Local 1000 目前仍把 2026-07-01 Sacramento Capitol 的 “Holding the Line Rally” 放在 Contract Action Center 首位，表示 union 公开施压主轴仍是 RTO 生效当天，而不是预期州府会先退让。https://www.seiu1000.org/contract-action-center/",
+      "【Reddit热议】subreddit 今天最刺耳的执行案例仍是 Office Tech 帖子：发帖人称部门要求直接取消 telework agreement，而且不是改成 4 天而是 5 天到岗；同页新帖还在抱怨油价、通勤 4 小时和 RTO 成本，说明 Sacramento 圈焦点已经回到“谁来承担落地代价”。https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/ https://www.reddit.com/r/CAStateWorkers/new/"
+    ],
+    "hot_topics": [
+      "AB 1729 在 6/17 晚间仍没看到新的官方 history action，员工现在最关心的是 hearing 到底有没有实质推进。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/new/",
+      "Caltrans/BU 9 仍盯着 6/30 suspension 到期、7/1 reinstitute；PECG 公开口径依然是州府坚持四天到岗。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/CAStateWorkers/new/",
+      "Sacramento 的停车、油价、长通勤、工位和 hoteling 压力没有降温，Office Tech 5 天案例进一步放大执行焦虑。https://benefits.calhr.ca.gov/rto/ https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/ https://www.reddit.com/r/CAStateWorkers/new/",
+      "越来越多人开始寻找“不受 governor 直接管辖”或 telework 更灵活的岗位，把自治机构当成 RTO 避风港。https://www.reddit.com/r/CAStateWorkers/comments/1tgrug4/cpuc_rto_announcement/ https://www.reddit.com/r/CAStateWorkers/new/"
+    ],
+    "summary": "今晚官方仍未显示松动，短线就看 AB 1729 是否补刷进展，以及 7/1 前各部门会不会继续把四天口径往更硬的方向执行。"
+  },
+  {
     "date": "2026-06-16",
     "date_label": "2026年6月16日",
     "title": "今日 CA State Worker RTO 情报",

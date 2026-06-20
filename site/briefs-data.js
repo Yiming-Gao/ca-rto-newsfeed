@@ -1,5 +1,26 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-19",
+    "date_label": "2026年6月19日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 今晚最关键的正式增量，是 LegInfo 已把法案挂到 Senate Governmental Organization，hearing date 写成 2026-06-23；这说明 bill 还在往前走，但 7/1 前能否快到改变大盘，时间窗口已经非常紧。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】CalHR 的 RTO 资源页到 2026-06-19 仍没有松口，继续写明州政府员工至少每周 4 天回办公室，并把执行节点维持在 2026-07-01；官方新增内容仍集中在 Sacramento 停车、通勤和 childcare 过渡，不是扩大豁免。https://benefits.calhr.ca.gov/rto/",
+      "【官方】Caltrans/BU 9 线还是硬日历：PECG Side Letter #27 继续写明对 Executive Order N-22-25 的 suspension 只到 2026-06-30，并在 2026-07-01 reinstitute；PECG 讨论更新也继续称，CalHR 的立场仍是 7/1 起每周 4 天到岗。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/PECG/comments/1tkw4eg/pecg_bargaining_team_met_with_calhr/",
+      "【官方】SEIU Local 1000 目前仍把 Sacramento Capitol 的 “Holding the Line Rally” 放在 Contract Action Center 顶部，时间还是 7/1 11:00am-1:00pm；union 公开动作并没有改成“等 AB 1729 结果”，而是继续把 RTO 生效当天当成主战场。https://www.seiu1000.org/contract-action-center/",
+      "【Reddit热议】subreddit 今天的情绪仍偏悲观：一边有人追问 AB 1729 下一步并默认 governor 大概率 veto；另一边 Office Tech 贴子继续发酵，发帖人反复强调本单位不是改成 4 天，而是直接取消 telework agreement、要求 5 天到岗，放大了 Sacramento 部门“层层加码”的担心。https://www.reddit.com/r/CAStateWorkers/comments/1tl18r9/ab_1729_status/ https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/",
+      "【Reddit热议】另一个持续升温的执行面信号，是更多人提到 6 月底前重签 telework agreement、7/6 左右切到 4-day RTO；配合今天新帖里对油价和 4 小时通勤的抱怨，说明 Sacramento 员工已在按“不会延期”做成本准备。https://www.reddit.com/r/CAStateWorkers/comments/1tkld0h/telework_agreement/ https://www.reddit.com/r/CAStateWorkers/new/"
+    ],
+    "hot_topics": [
+      "AB 1729 已排到 Senate G.O. 的 6/23 hearing，但能否在 7/1 前形成实质缓冲，大家普遍不乐观。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/comments/1tl18r9/ab_1729_status/",
+      "Caltrans/BU 9 仍盯着 6/30 suspension 到期、7/1 reinstitute，没有公开延期信号。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/PECG/comments/1tkw4eg/pecg_bargaining_team_met_with_calhr/",
+      "Sacramento 的停车、油价、长通勤和 hoteling 成本还在压过口号，员工更关心谁来买单。https://benefits.calhr.ca.gov/rto/ https://www.reddit.com/r/CAStateWorkers/new/",
+      "部门会不会在 4-day RTO 之外继续自行加码成 5 天，仍是最刺耳的执行焦虑。https://www.reddit.com/r/CAStateWorkers/comments/1tl0hql/department_email_telling_currently_hybrid/",
+      "7/1 Capitol rally 还是 union 已公开排定的最大节点。https://www.seiu1000.org/contract-action-center/"
+    ],
+    "summary": "今天的判断很清楚：立法还在推进，但公开执行面完全没松，7/1 前的核心问题只剩 bill 速度能不能跑赢各部门落地。"
+  },
+  {
     "date": "2026-06-18",
     "date_label": "2026年6月18日",
     "title": "今日 CA State Worker RTO 情报",

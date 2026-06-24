@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-23",
+    "date_label": "2026年6月23日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 今天确实进入 Senate Governmental Organization 的 6月23日 agenda，委员会主页现已显示当天 hearing 已 adjourned，议程里也明确列出 A.B. No. 1729；但截至今晚，LegInfo 仍只显示 2026-06-17 从 Senate Labor, Public Employment and Retirement 过关并转去 G.O.，还没刷出新的 history action。https://sgov.senate.ca.gov/agenda https://sgov.senate.ca.gov/committeehome https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】CalHR 今天公开口径没有变化，RTO 资源页仍写明州政府员工至少每周回办公室 4 天，统一节点仍是 2026-07-01；官方继续把重点放在 Sacramento 通勤、停车、childcare 和 DCRA permitting events，而不是新增普遍豁免。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 今天仍把两条线并行推进：RTO 专页继续挂着 6月23日 AB 1729 Senate hearing 动员，同时 Contract Action Center 仍把 7月1日 Sacramento Capitol 的 Holding the Line Rally 放在首页最显眼位置，说明 union 没把希望只押在立法，还在同步准备 7/1 当天的公开施压。https://www.seiu1000.org/rto/ https://www.seiu1000.org/contract-action-center/",
+      "【官方】Caltrans/BU 9 这边的硬日历也没变。PECG Side Letter #27 仍写明 Unit 9 对 Executive Order N-22-25 的 suspension 只到 2026-06-30，并在 2026-07-01 reinstitute；与此同时，subreddit 今天继续热议 Caltrans downtown HQ 免费停车位从每月 4 次缩到 2 次，Sacramento 落地成本被重新点燃。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/CAStateWorkers/comments/1uadbnj/caltrans_parking_for_rto/",
+      "【Reddit热议】社区今天的主流气氛仍是“继续施压，但先按 7/1 会落地来准备”。置顶的 AB 1729 动员帖继续催大家给 Senate 打电话、交 position letter、现场出席；另一边 “Please Level With Me” 里有人提到 revised telework agreements 本周已开始交回，显示很多部门已按执行节奏往前推。https://www.reddit.com/r/CAStateWorkers/comments/1u6h88x/ab_1729_state_telework_bill_senate_advocacy/ https://www.reddit.com/r/CAStateWorkers/comments/1uaygho/please_level_with_me/",
+      "【Reddit热议】Sacramento 办公空间和 hoteling 还是最现实的落地雷点。今天的 “Return To Office Space” 讨论继续围着“楼里到底装不装得下人”打转，配合停车补助缩水，大家担心的已不只是政策口号，而是 4-day RTO 真执行后 HQ、停车和共享工位会不会一起失灵。https://www.reddit.com/r/CAStateWorkers/comments/1uannde/return_to_office_space/ https://www.reddit.com/r/CAStateWorkers/comments/1uadbnj/caltrans_parking_for_rto/"
+    ],
+    "hot_topics": [
+      "AB 1729 今天已经在 Senate G.O. 正式上会，但公开系统暂时还没刷出新的过会动作。https://sgov.senate.ca.gov/agenda https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "CalHR 口径今晚仍是 4-day RTO + 2026-07-01，没有统一新增豁免。https://benefits.calhr.ca.gov/rto/",
+      "SEIU 一边推 AB 1729，一边继续为 7月1日 Capitol rally 集结，说明工会仍走立法和街头双线。https://www.seiu1000.org/rto/ https://www.seiu1000.org/contract-action-center/",
+      "Caltrans 停车位从每月 4 次免费缩到 2 次，让 Sacramento 员工更直观感到回岗现金成本。https://www.reddit.com/r/CAStateWorkers/comments/1uadbnj/caltrans_parking_for_rto/ https://pecg.org/2025-2028-mou/sideletter_27/",
+      "社区主流判断仍是先按 7/1 会执行来准备，telework agreement 和办公空间问题持续发酵。https://www.reddit.com/r/CAStateWorkers/comments/1uaygho/please_level_with_me/ https://www.reddit.com/r/CAStateWorkers/comments/1uannde/return_to_office_space/"
+    ],
+    "summary": "今天最关键的变化是：AB 1729 已在 Senate G.O. 上会，但在公开状态真正更新前，各部门和员工都还是按 7/1 硬落地继续准备。"
+  },
+  {
     "date": "2026-06-22",
     "date_label": "2026年6月22日",
     "title": "今日 CA State Worker RTO 情报",

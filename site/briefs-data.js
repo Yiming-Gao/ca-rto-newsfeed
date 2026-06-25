@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-24",
+    "date_label": "2026年6月24日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 今天最实质的新状态，是 LegInfo 现已刷出 2026-06-23 在 Senate Governmental Organization 以 13-0 通过，并 re-refer 到 Sen Appropriations；这代表法案还活着，但 7/1 前能不能形成实际缓冲，时间已经非常紧。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】CalHR 今天公开口径仍没松，RTO 资源页继续写明州政府员工至少每周回办公室 4 天，执行节点是 2026-07-01；页面新增重点仍是 DCRA permitting events、通勤和 childcare 资源，不是统一豁免。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 现在把话说得更直白：RTO FAQ 明确写着，除非部门另有通知，员工应准备从 7月1日开始每周最多 4 天到岗；同时 union 也公开承认 PERB 流程来不及阻止 7/1 落地，但仍继续推 AB 1729、部门 meet-and-confer 和 Capitol rally。https://www.seiu1000.org/rto/",
+      "【官方】Caltrans/BU 9 这条线今天也没有回撤信号。PECG Side Letter #27 仍写明 Unit 9 的 statewide RTO suspension 只到 2026-06-30、7月1日 reinstitute；而 subreddit 新帖又把 downtown HQ 停车矛盾顶上来，有员工称每月免费车位从 4 次缩到 2 次，额外车位也难申请。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/CAStateWorkers/comments/1uadbnj/caltrans_parking_for_rto/",
+      "【Reddit热议】今天版面最集中的执行焦虑，还是 Sacramento 的工位容量和心理预期管理。“Return To Office Space” 继续追问楼里是否真的坐得下，“Please Level With Me” 则明显转向“如果翻不了盘，就按 7/1 会执行来准备”；再加上 billboard 和华语媒体曝光，说明舆论战还在，但基层已经更务实。https://www.reddit.com/r/CAStateWorkers/comments/1uannde/return_to_office_space/ https://www.reddit.com/r/CAStateWorkers/comments/1uaygho/please_level_with_me/ https://www.reddit.com/r/CAStateWorkers/comments/1ualsqr/our_rto_efforts_and_billboard_even_made_it_on_the/"
+    ],
+    "hot_topics": [
+      "AB 1729 已过 Senate G.O. 并转 Appropriations，但窗口只剩 7/1 前最后几天。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "CalHR 和 SEIU 两边今天都默认 7月1日会按现口径推进，区别只在继续不继续打。https://benefits.calhr.ca.gov/rto/ https://www.seiu1000.org/rto/",
+      "Caltrans 停车补助缩水，把 Sacramento 员工最现实的现金成本问题重新点燃。https://www.reddit.com/r/CAStateWorkers/comments/1uadbnj/caltrans_parking_for_rto/ https://pecg.org/2025-2028-mou/sideletter_27/",
+      "办公空间、hoteling 和“楼里坐不坐得下”仍是落地面最容易爆的雷。https://www.reddit.com/r/CAStateWorkers/comments/1uannde/return_to_office_space/",
+      "billboard 继续扩散到华语媒体，说明反 RTO 叙事还在往 Sacramento 体制外传播。https://www.reddit.com/r/CAStateWorkers/comments/1ualsqr/our_rto_efforts_and_billboard_even_made_it_on_the/ https://www.reddit.com/r/CAStateWorkers/comments/1uaydjt/we_need_more_billboards/"
+    ],
+    "summary": "今天的核心判断是：法案还在推进，但官方与 union 公开口径都已默认 7月1日大概率照常落地。"
+  },
+  {
     "date": "2026-06-23",
     "date_label": "2026年6月23日",
     "title": "今日 CA State Worker RTO 情报",

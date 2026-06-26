@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-25",
+    "date_label": "2026年6月25日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】今天最硬的新进展来自 SEIU：其 RTO 页面在 2026-06-25 新增“PERB Issues Complaint Regarding RTO”，说明 5月12日提交的 ULP 已过初审并被 PERB 正式发 complaint，下一步会进 informal mediation；但这更像程序突破，不是 7/1 前的刹车令。https://www.seiu1000.org/rto/",
+      "【官方】SEIU 同页 6月24日更新也把现实说死了：大多数部门仍准备推进 four-day RTO，且除非部门另行通知，员工应准备从 7月1日开始每周最多进办公室 4 天；工会明确承认 PERB 案不会阻止 7/1 落地。https://www.seiu1000.org/rto/",
+      "【官方】立法面今天没有新增过关动作。LegInfo 仍显示 AB 1729 于 2026-06-23 在 Senate Governmental Organization 以 13-0 通过，并 re-refer 到 Sen Appropriations；这说明 bill 还活着，但离改变下周执行节奏只剩很窄时间窗。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】CalHR 公共口径今天依旧没松：RTO 资源页仍写明州雇员至少每周回办公室 4 天，生效日是 2026-07-01；官方继续强调 Sacramento 通勤、停车和 DCRA childcare 过渡资源，而不是统一豁免。https://benefits.calhr.ca.gov/rto/",
+      "【Reddit热议】subreddit 今天最实的执行焦虑还是 Sacramento 成本和工位。新帖继续讨论 “Please Level With Me” 的认命情绪、Caltrans downtown HQ 免费停车从每月 4 次缩到 2 次，以及 “Return To Office Space” 对楼里坐不坐得下、hoteling 会不会失控的担心。https://www.reddit.com/r/CAStateWorkers/comments/1uaygho/please_level_with_me/ https://www.reddit.com/r/CAStateWorkers/comments/1uadbnj/caltrans_parking_for_rto/ https://www.reddit.com/r/CAStateWorkers/comments/1uannde/return_to_office_space/"
+    ],
+    "hot_topics": [
+      "PERB 正式发 complaint 是今天唯一明显新增的官方程序利好，但短期不等于 7/1 暂停。https://www.seiu1000.org/rto/",
+      "AB 1729 现停在 Senate Appropriations，是否还能在下周前产生实际缓冲，时间非常紧。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "CalHR 与 SEIU 公开口径已经趋同：7月1日 four-day RTO 大概率照常推进。https://benefits.calhr.ca.gov/rto/ https://www.seiu1000.org/rto/",
+      "Caltrans 停车、Sacramento 办公空间和 hoteling，仍是员工最在意的落地雷点。https://www.reddit.com/r/CAStateWorkers/comments/1uadbnj/caltrans_parking_for_rto/ https://www.reddit.com/r/CAStateWorkers/comments/1uannde/return_to_office_space/ https://pecg.org/2025-2028-mou/sideletter_27/"
+    ],
+    "summary": "今天的判断更清楚了：程序上有新进展，但 7月1日 RTO 落地预期并没有因此松动。"
+  },
+  {
     "date": "2026-06-24",
     "date_label": "2026年6月24日",
     "title": "今日 CA State Worker RTO 情报",
@@ -721,5 +740,4 @@ window.BRIEFS_DATA = [
     ],
     "summary": "Caltrans 等部门的 7/1 倒计时、工位/排班落地细节，以及工会与 AB 1729 的攻防，是当前讨论主轴。"
   }
-]
-;
+];

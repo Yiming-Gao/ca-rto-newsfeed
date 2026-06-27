@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-26",
+    "date_label": "2026年6月26日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】立法线今天没有新过关，但 AB 1729 的公开状态已很清楚：LegInfo 仍显示它在 2026-06-23 以 13-0 通过 Senate Governmental Organization、现转入 Sen Appropriations，下一次 hearing date 已挂到 2026-08-03。这代表 bill 还活着，但对 7月1日前的执行节奏，短期已很难形成直接刹车。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】CalHR 今天的公开口径仍未松动。其 RTO 资源页继续写明州雇员至少每周回办公室 4 天，原定 2025-07-01 的要求已延期到 2026-07-01；页面重点仍是 Sacramento 通勤、停车、DCRA childcare 等过渡资源，而不是统一豁免或延后。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 目前把两件事同时摆在台面上：一方面，6月25日页面确认 PERB 已就 RTO 发出 complaint，案件会进入 informal mediation；另一方面，FAQ 仍明确写着除非部门另有通知，员工应准备从 7月1日开始每周最多到岗 4 天，且工会承认 PERB 流程来不及阻止 7/1 落地。https://www.seiu1000.org/rto/",
+      "【官方】Caltrans/BU 9 相关的硬时间表今天也没变。PECG Side Letter #27 仍写明：对 Bargaining Unit 9，Executive Order N-22-25 的 RTO suspension 只持续到 2026-06-30，并在 2026-07-01 reinstitute；这让 Caltrans 员工对 HQ 工位、停车和 telework agreement 是否再收紧的担忧继续升温。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "【Reddit热议】subreddit 今天的风向比前几天更务实。新帖一边讨论 AB 1729 接下来应改打“透明度、问责、办公空间配置”叙事，直指 cubicle 挤压和 office space 失序；另一边首页热帖则把情绪转向“先别互相举报、按 7/1 会落地来准备”，配合 billboard 继续炒高 Sacramento 通勤和舆论压力。https://www.reddit.com/r/CAStateWorkers/comments/1uc8d1k/ab_1729_state_telework_bill_keep_messaging_sharp/ https://www.reddit.com/r/CAStateWorkers/ https://www.reddit.com/r/CAStateWorkers/comments/1tucv3x/rto_billboard_is_up/"
+    ],
+    "hot_topics": [
+      "AB 1729 现卡在 Sen Appropriations，法律线还在，但对 2026-07-01 前的现实执行影响已明显变小。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "CalHR 与 SEIU 的公开口径已经基本对齐：继续抗争可以，但多数员工仍要按 7月1日 four-day RTO 做准备。https://benefits.calhr.ca.gov/rto/ https://www.seiu1000.org/rto/",
+      "Caltrans/BU 9 的 6月30日 suspension 到期，是 Sacramento 交通、停车、hoteling 和 HQ 容量焦虑的直接引爆点。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/CAStateWorkers/comments/1uc8d1k/ab_1729_state_telework_bill_keep_messaging_sharp/",
+      "社区讨论重点已从“会不会翻盘”转向“怎么承受落地后果”，包括 billboard、办公室拥挤和同事之间的执行摩擦。https://www.reddit.com/r/CAStateWorkers/comments/1tucv3x/rto_billboard_is_up/ https://www.reddit.com/r/CAStateWorkers/"
+    ],
+    "summary": "今天的核心判断是：法案和工会动作还在推进，但 7月1日 RTO 落地预期并没有被新的官方信息实质扭转。"
+  },
+  {
     "date": "2026-06-25",
     "date_label": "2026年6月25日",
     "title": "今日 CA State Worker RTO 情报",

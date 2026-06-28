@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-06-27",
+    "date_label": "2026年6月27日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】今天最硬的正式状态仍是 AB 1729 暂时过不了 7月1日前这道时间门槛。LegInfo 继续显示它已于 2026-06-23 在 Senate Governmental Organization 13-0 过关，但目前停在 Sen Appropriations，下一次 hearing date 已挂到 2026-08-03；这意味着 bill 还活着，但对下周执行已难形成即时缓冲。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】CalHR 今天公开口径依旧没有松动，其 RTO 资源页仍写明州雇员至少每周回办公室 4 天，原定 2025-07-01 的要求已延期到 2026-07-01；页面继续主打 Sacramento 通勤、停车和 DCRA childcare 过渡资源，而不是统一豁免、远程例外或延后。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 现在的说法也更偏“边打边执行”：FAQ 继续明确写着除非部门另行通知，员工应准备从 7月1日开始每周最多到岗 4 天，并承认 PERB 案不会阻止 7/1 落地；同时 RTO 页面仍在滚动发布 CalSTA、BCDC 等部门的 meet-and-confer 更新，说明 union 已把重心放到部门级 bargaining 和 7/1 Capitol rally。https://www.seiu1000.org/rto/",
+      "【官方】Caltrans/BU 9 的硬时间表今天也没变。PECG Side Letter #27 仍写明 Unit 9 对 Executive Order N-22-25 的 RTO suspension 只持续到 2026-06-30，并在 2026-07-01 reinstitute；这条线没有公开延期信号，所以 Sacramento 尤其是 Caltrans HQ 的工位、停车和 telework agreement 收紧担忧继续升温。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "【Reddit热议】subreddit 今天的新帖风向已经明显转向“按会落地来准备”。一条刚发出的《Please Level With Me》里，多名用户直接建议先接受 7/1 RTO 现实，并提到 revised telework agreements 本周已开始交回；另一边《Return To Office Space》《Caltrans parking for RTO》和 billboard 相关帖继续把焦点压在楼里坐不坐得下、免费停车从每月 4 次缩到 2 次、以及 Sacramento 之外舆论扩散。https://www.reddit.com/r/CAStateWorkers/comments/1uaygho/please_level_with_me/ https://www.reddit.com/r/CAStateWorkers/comments/1uannde/return_to_office_space/ https://www.reddit.com/r/CAStateWorkers/comments/1uadbnj/caltrans_parking_for_rto/ https://www.reddit.com/r/CAStateWorkers/comments/1ualsqr/our_rto_efforts_and_billboard_even_made_it_on_the/"
+    ],
+    "hot_topics": [
+      "AB 1729 还在推进，但 2026-08-03 的 Sen Appropriations hearing date 基本宣告它赶不上 7月1日前改变执行节奏。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "CalHR 与 SEIU 当前公开口径已基本一致：继续抗争可以，但大多数员工仍应按 7月1日 four-day RTO 做准备。https://benefits.calhr.ca.gov/rto/ https://www.seiu1000.org/rto/",
+      "Caltrans/BU 9 的 6月30日 suspension 到期，仍是 Sacramento 停车、办公空间、hoteling 和 HQ 容量焦虑的直接引爆点。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/CAStateWorkers/comments/1uadbnj/caltrans_parking_for_rto/ https://www.reddit.com/r/CAStateWorkers/comments/1uannde/return_to_office_space/",
+      "Reddit 今日情绪已从“会不会翻盘”转向“怎么熬过落地”，同时 billboard 和华语媒体曝光继续扩大外部关注。https://www.reddit.com/r/CAStateWorkers/comments/1uaygho/please_level_with_me/ https://www.reddit.com/r/CAStateWorkers/comments/1ualsqr/our_rto_efforts_and_billboard_even_made_it_on_the/"
+    ],
+    "summary": "今天的核心判断是：官方没有新增缓冲，法案与工会动作仍在推进，但 7月1日 RTO 落地预期继续增强。"
+  },
+  {
     "date": "2026-06-26",
     "date_label": "2026年6月26日",
     "title": "今日 CA State Worker RTO 情报",

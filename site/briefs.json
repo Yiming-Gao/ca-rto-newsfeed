@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-06-28",
+    "date_label": "2026年6月28日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】今天最硬的正式现实仍是 7月1日前看不到新的 statewide 缓冲。CalHR 的 RTO 页面继续写明州雇员至少每周回办公室 4 天，且执行日仍是 2026-07-01；页面重点仍放在 Sacramento 通勤、停车、childcare 和 DCRA 过渡资源，而不是统一豁免或延后。https://benefits.calhr.ca.gov/rto/",
+      "【官方】立法线今天也没有新增推进。LegInfo 目前最新动作仍是 AB 1729 已于 2026-06-23 在 Senate Governmental Organization 13-0 通过并转 Sen Appropriations，公开页面未出现新的 hearing 或 floor 动作，说明 bill 还在，但短期更像后续问责工具，不像能在本周前直接改变执行节奏。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 的公开口径仍是“继续打，但先按会执行来准备”。其 RTO 页面继续保留 6月25日的 PERB complaint 更新，同时 FAQ 仍明确写着除非部门另行通知，员工应准备从 7月1日开始每周最多到岗 4 天；这说明 union 仍在推进 PERB、bargaining 和 rally，但没有公开宣称能挡住 7/1。https://www.seiu1000.org/rto/",
+      "【官方】Caltrans/BU 9 这条线今天也没有看到公开回撤。PECG Side Letter #27 仍写明 Unit 9 的 RTO suspension 只到 2026-06-30，并在 2026-07-01 reinstitute；对 Sacramento 尤其是 Caltrans HQ 来说，停车、工位容量、hoteling 和 telework agreement 收紧担忧仍然是下周前最现实的问题。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "【Reddit热议】周末 subreddit 的情绪继续从“会不会翻盘”滑向“落地后怎么扛”。首页热帖里，《RTO to an Empty Office》把通勤、停车和空办公室的荒诞感说得很直白；《DIR RTO Memo & Theory》则显示至少有部门把落地时间放到 7月27日并要求 7月重新交 telework agreement；《Does AB 1729 have any teeth?》里的高赞讨论则普遍怀疑法案短期约束力有限。https://www.reddit.com/r/CAStateWorkers/comments/1ud0bwx/rto_to_an_empty_office/ https://www.reddit.com/r/CAStateWorkers/comments/1ucxl2o/dir_rto_memo_theory/ https://www.reddit.com/r/CAStateWorkers/comments/1uctl0e/does_ab_1729_have_any_teeth/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍停在 Sen Appropriations，今天没有新的公开动作，社区已把它更多看成透明度和后续诉求工具，而不是 7月1日前的刹车。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/comments/1uctl0e/does_ab_1729_have_any_teeth/",
+      "CalHR 与 SEIU 当前公开口径仍然对齐在一个现实判断上：继续抗争，但大多数人要按 7月1日 four-day RTO 做准备。https://benefits.calhr.ca.gov/rto/ https://www.seiu1000.org/rto/",
+      "Caltrans/BU 9 的 6月30日 suspension 到期，继续放大 Sacramento 的停车、办公空间、HQ 容量和 hoteling 焦虑。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/CAStateWorkers/",
+      "“空办公室也得回去”正在成为周末最能引发共鸣的话题，说明员工对成本、效率和 morale 的不满还在升温。https://www.reddit.com/r/CAStateWorkers/comments/1ud0bwx/rto_to_an_empty_office/",
+      "并非所有部门都在 7月1日同一天硬切换；DIR 相关帖子提到 7月27日节点，说明实施节奏可能继续呈现部门差异。https://www.reddit.com/r/CAStateWorkers/comments/1ucxl2o/dir_rto_memo_theory/"
+    ],
+    "summary": "今天的核心判断是：官方口径没有松动，7月执行预期继续稳固，但部门落地节奏和员工承压点正变得更具体。"
+  },
+  {
     "date": "2026-06-27",
     "date_label": "2026年6月27日",
     "title": "今日 CA State Worker RTO 情报",

@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-06-29",
+    "date_label": "2026年6月29日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 今天仍未给出 statewide 延后或统一豁免信号，页面继续写明州雇员至少每周回办公室 4 天，统一节点仍是 2026-07-01；官方重点还是 Sacramento 通勤、停车和 DCRA childcare 过渡资源。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 当前最明确的口径没有变：PERB 已正式发 complaint，但 union 也明确提醒，多数部门仍打算在 7月1日推进 four-day RTO，员工若未收到不同通知，仍应按 7月1日到岗准备。https://www.seiu1000.org/rto/",
+      "【官方】立法面今天没有看到 AB 1729 的新增动作。LegInfo 仍显示法案已转到 Sen Appropriations，hearing date 仍挂在 2026-08-03；短期更像透明度和书面 justification 工具，难在 7月1日前改变执行节奏。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】Caltrans/BU 9 这条线也没有新缓冲。PECG Side Letter #27 仍写明 Unit 9 的 RTO suspension 只到 2026-06-30，并在 2026-07-01 reinstitute；对 Sacramento 尤其是 Caltrans HQ 来说，停车、工位容量和 hoteling 仍是最现实的落地压力。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "【Reddit热议】subreddit 今天进入“最后两天倒计时”模式：热帖《RTO-don’t be that guy》在劝大家别互相举报、默认 RTO 会落地；《DIR RTO Memo & Theory》继续流传 7月27日切换的部门差异；《Does AB 1729 have any teeth?》的高赞讨论则普遍认为 bill 约束力有限。https://www.reddit.com/r/CAStateWorkers/comments/1ucocpj/rtodont_be_that_guy/ https://www.reddit.com/r/CAStateWorkers/comments/1ucxl2o/dir_rto_memo_theory/ https://www.reddit.com/r/CAStateWorkers/comments/1uctl0e/does_ab_1729_have_any_teeth/"
+    ],
+    "hot_topics": [
+      "7月1日 statewide 口径仍没松，CalHR 和 SEIU 的公开表述都指向“先按 four-day RTO 准备”。https://benefits.calhr.ca.gov/rto/ https://www.seiu1000.org/rto/",
+      "AB 1729 还在 Sen Appropriations，公开 hearing date 已到 2026-08-03，短期更像后续问责抓手。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/comments/1uctl0e/does_ab_1729_have_any_teeth/",
+      "Caltrans/BU 9 的 6月30日到期点继续放大 Sacramento 停车、HQ 容量和 hoteling 焦虑。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/CAStateWorkers/",
+      "DIR 相关讨论里的 7月27日节点，让“不是所有部门同天硬切”成为今天高频话题。https://www.reddit.com/r/CAStateWorkers/comments/1ucxl2o/dir_rto_memo_theory/",
+      "员工社区的重点已转向落地后的内部摩擦管理，典型口径是不举报、先保住现有灵活度。https://www.reddit.com/r/CAStateWorkers/comments/1ucocpj/rtodont_be_that_guy/"
+    ],
+    "summary": "今天的核心判断是：官方执行口径未变，7月1日预期继续稳固，但部门节奏差异和落地摩擦正在变成最后两天的主线。"
+  },
+  {
     "date": "2026-06-28",
     "date_label": "2026年6月28日",
     "title": "今日 CA State Worker RTO 情报",

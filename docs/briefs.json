@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-06-30",
+    "date_label": "2026年6月30日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 今天公开口径仍未变：州雇员 statewide 仍按 2026-07-01 起每周至少进办公室 4 天准备，页面重点还是 Sacramento 通勤、停车 lottery 和 DCRA childcare 过渡资源，没有看到统一延后或额外豁免。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 现在同时给出两条线：PERB 已在 2026-06-25 正式发 complaint，但 FAQ 仍明确写着除非部门另有通知，员工要准备 7月1日开始 up to four-day RTO；union 还在为 7月1日 Sacramento Capitol rally 继续动员。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729 今天没有新跨关卡。LegInfo 仍显示法案目前在 Sen Appropriations，committee hearing date 是 2026-08-03；这说明 bill 还在推进，但在 7月1日前更像后续透明度和书面 justification 抓手，而不是即时刹车。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】Caltrans 相关焦点仍卡在 BU 9 时间点。PECG Side Letter #27 继续写明 RTO suspension operative through 2026-06-30，并在 2026-07-01 reinstitute；对 Sacramento 尤其是 Caltrans HQ 来说，停车、工位容量和 hoteling 仍是最直接的落地压力。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "【Reddit热议】今天 subreddit 的情绪明显转向“默认会落地、重点改成怎么应对和怎么施压”：热帖《RTO-don’t be “that guy”》劝大家别互相举报，《RTO Billboard is Up》继续放大通勤与舆论压力，而《AB 1729 - State Telework Bill - Senate Advocacy Actions before Wednesday!》和《Does AB 1729 have any teeth?》则分别代表继续催参议员与怀疑 bill 短期效力两派。https://www.reddit.com/r/CAStateWorkers/ https://www.reddit.com/r/CAStateWorkers/comments/1tucv3x/rto_billboard_is_up/ https://www.reddit.com/r/CAStateWorkers/comments/1u6h88x/ab_1729_state_telework_bill_senate_advocacy/ https://www.reddit.com/r/CAStateWorkers/comments/1uctl0e/does_ab_1729_have_any_teeth/"
+    ],
+    "hot_topics": [
+      "7月1日 four-day RTO 仍是官方主线，CalHR 与 SEIU 的公开口径都没有出现 statewide 松动。https://benefits.calhr.ca.gov/rto/ https://www.seiu1000.org/rto/",
+      "Sacramento 的停车、office space 和 hoteling 还是 Caltrans/市中心部门最现实的执行痛点。https://benefits.calhr.ca.gov/rto/ https://pecg.org/2025-2028-mou/sideletter_27/",
+      "Union 动作没有停，PERB complaint 与 7月1日 Capitol rally 让“边执行边继续 fight”成为主流节奏。https://www.seiu1000.org/rto/ https://www.reddit.com/r/CAStateWorkers/comments/1u9jw22/great_work_to_everyone_who_showed_up_this/",
+      "AB 1729 仍被关注，但社区越来越把它看成中期问责工具，而不是明天前能挡下 RTO 的按钮。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/comments/1uctl0e/does_ab_1729_have_any_teeth/"
+    ],
+    "summary": "今天的判断很直接：7月1日落地预期仍稳，焦点已从“会不会取消”转向“怎么承受、怎么继续施压”。"
+  },
+  {
     "date": "2026-06-29",
     "date_label": "2026年6月29日",
     "title": "今日 CA State Worker RTO 情报",

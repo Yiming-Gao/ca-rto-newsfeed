@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-01",
+    "date_label": "2026年7月1日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 今天公开页面口径仍未松动：州雇员至少每周进办公室 4 天，生效时间明确写到 2026-07-01；官方资源重点还是 Sacramento 通勤、停车和 childcare 过渡，没有出现 statewide 延后或统一豁免。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 今天的 RTO 页面继续同时释放两层信号：一边确认 PERB 已就 RTO 发 complaint，另一边继续写明 7月1日州工人将去 Sacramento Capitol rally，而且州政府仍在推进 mandate；这说明 union 还在打，但并未公开宣称今天会挡下执行。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729 到今天仍卡在 Sen Appropriations，LegInfo 页面显示 committee hearing date 仍是 2026-08-03；对今天的落地现实来说，它更像后续要求部门提交书面 justification 的问责抓手，而不是即时暂停按钮。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】Caltrans/BU 9 的时间点今天正式踩线。PECG Side Letter #27 仍写明 RTO suspension operative through 2026-06-30，并提到 Executive Order 会在 2026-07-01 reinstitution；对 Sacramento 尤其是 Caltrans HQ 来说，停车、工位容量和 hoteling 压力没有看到公开缓冲。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "【Reddit热议】今天 subreddit 讨论几乎都转向“已经开始执行后怎么活下去”：热帖《RTO-don’t be “that guy”》劝同事别互相举报，《Please Level With Me》高赞回复基本默认 7/1 已成现实，而《Return To Office Space》《Caltrans parking for RTO》继续把焦点压在 office space、hoteling 和 downtown Sacramento 停车成本。https://www.reddit.com/r/CAStateWorkers/ https://www.reddit.com/r/CAStateWorkers/new/ https://www.reddit.com/r/CAStateWorkers/comments/1uaygho/please_level_with_me/ https://www.reddit.com/r/CAStateWorkers/comments/1uannde/return_to_office_space/ https://www.reddit.com/r/CAStateWorkers/comments/1uadbnj/caltrans_parking_for_rto/"
+    ],
+    "hot_topics": [
+      "今天最明确的官方结论仍是 four-day RTO 已到执行日，CalHR 页面没有出现 statewide 松口。https://benefits.calhr.ca.gov/rto/",
+      "Sacramento 的停车、office space 和 hoteling 继续是 Caltrans 与市中心部门最现实的落地痛点。https://pecg.org/2025-2028-mou/sideletter_27/ https://www.reddit.com/r/CAStateWorkers/comments/1uannde/return_to_office_space/ https://www.reddit.com/r/CAStateWorkers/comments/1uadbnj/caltrans_parking_for_rto/",
+      "Union 线下没有停，PERB complaint 加上 7月1日 Capitol rally，意味着策略正从“阻止”转向“边执行边继续施压”。https://www.seiu1000.org/rto/",
+      "AB 1729 仍被持续讨论，但今天社区更普遍把它看成中期透明度和 justification 工具。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/comments/1uctl0e/does_ab_1729_have_any_teeth/"
+    ],
+    "summary": "今天的核心判断是：7月1日 RTO 已进入执行现实，接下来主线从“能否挡住”切到“部门怎么落地、员工怎么继续施压”。"
+  },
+  {
     "date": "2026-06-30",
     "date_label": "2026年6月30日",
     "title": "今日 CA State Worker RTO 情报",

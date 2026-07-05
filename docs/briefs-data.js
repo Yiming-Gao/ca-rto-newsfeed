@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-04",
+    "date_label": "2026年7月4日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 目前仍在 Senate Appropriations，LegInfo 显示 6月23日已从 Senate Labor, Public Employment and Retirement 过关并转入 Appropriations，听证日期排到 2026-08-03。法案文本主轴没变：要求部门在需要员工回办公室时给出书面理由，并推动 DGS 建 telework dashboard 公开节省的 office space 与运营成本。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1729",
+      "【官方】CalHR 的 RTO 资源页在 7月4日 仍维持统一口径：州雇员原则上已进入每周至少 4 天回办公室阶段，页面重点还是 Sacramento 通勤、停车 lottery、childcare 与 DCRA 过渡资源，没有出现 statewide 延后或统一豁免的新通知。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 最新公开更新仍强调两件事并行：一是 6月25日 PERB 已就 union 的 ULP 发 complaint；二是 6月24日 FAQ 继续写明，除非部门另行通知，员工应准备自 7月1日开始每周最多进办公室 4 天，说明 legal challenge 在推进，但执行并未暂停。https://www.seiu1000.org/rto/",
+      "【Reddit热议】Caltrans Sacramento HQ 员工今天最具体的抱怨仍是停车位。新帖称 downtown HQ 原先每月可申请 4 次免费 DOT TOT 车位，现在被降到 2 次；其余车位不是只给 executive staff，就是 waitlist 已满，说明 Caltrans 的落地摩擦仍集中在停车与进城成本。https://www.reddit.com/r/CAStateWorkers/new/",
+      "【Reddit热议】subreddit 的风向继续围绕“宣传施压 + 办公空间焦虑”。一边有 billboard 被旧金山中文媒体报道、也有人呼吁继续加 billboard；另一边连续出现《Return To Office Space》《Please Level With Me》这类帖，说明 Sacramento 员工现在最在意的已是 office space、hoteling 能否撑住，以及工会和立法到底还能不能逼出后续调整。https://www.reddit.com/r/CAStateWorkers/new/ https://www.reddit.com/r/CAStateWorkers/"
+    ],
+    "hot_topics": [
+      "AB 1729 还没到能立刻改变 7月执行的阶段，但它仍是 written justification 和 telework dashboard 的核心抓手。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1729",
+      "Sacramento 的现实痛点仍是停车、工位和 hoteling，不是抽象口号。https://www.reddit.com/r/CAStateWorkers/new/",
+      "Caltrans/PECG 这条线已正式越过 side letter 的 6月30日 suspension 截点，7月后的执行细节更受关注。https://pecg.org/2025-2028-mou/sideletter_27/",
+      "union 动作没有停，但公开口径仍是“先按部门要求报到，同时继续 fight”。https://www.seiu1000.org/rto/ https://www.reddit.com/r/CAStateWorkers/"
+    ],
+    "summary": "今天的判断很直接：RTO 已经进入执行期，接下来真正决定体感的，是 Sacramento 落地成本、Caltrans 等部门的空间安排，以及 AB 1729 和 union 能否逼出后续透明化。"
+  },
+  {
     "date": "2026-07-03",
     "date_label": "2026年7月3日",
     "title": "今日 CA State Worker RTO 情报",
@@ -895,4 +914,5 @@ window.BRIEFS_DATA = [
     ],
     "summary": "Caltrans 等部门的 7/1 倒计时、工位/排班落地细节，以及工会与 AB 1729 的攻防，是当前讨论主轴。"
   }
-];
+]
+;

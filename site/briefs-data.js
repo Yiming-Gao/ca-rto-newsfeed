@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-10",
+    "date_label": "2026年7月10日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 的 RTO 页面仍维持每周至少 4 天到岗，没有发布 statewide 延后或统一豁免；现有资源继续集中在 Sacramento 通勤、停车抽签、托儿和返岗支持，说明官方重心仍是执行而非撤回。https://benefits.calhr.ca.gov/rto/",
+      "【官方】AB 1729 仍在参议院拨款委员会，下一场听证列为 8月3日；修订文本要求部门为必须到岗提供书面理由，并建立 telework 成本、办公空间、排放和招聘留才成效看板，今天没有能立即暂停 RTO 的新动作。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】首个完整 4 天到岗周结束，热门帖集中报告长通勤、疲劳、办公室内仍开线上会议及生产力下降；多名 Caltrans 员工称全系统不提供 50 英里豁免，但这是员工说法，尚无新公开文件佐证。https://www.reddit.com/r/CAStateWorkers/comments/1usobp0/first_4_day_work_weekhow_we_holding_up/",
+      "【Reddit热议】豁免差异开始制造部门内摩擦：有帖子称同岗员工因住处超过 50 英里获豁免，评论则指出 Caltrans 不给同类豁免，并建议向 HR 或 union 核对 telework agreement；各部门执行明显不一致。https://www.reddit.com/r/CAStateWorkers/comments/1us6bvk/do_i_have_a_reason_to_be_upset/",
+      "【Reddit热议】一则员工离开州政府、转任县政府并获得加薪和每周 2 天居家办公的帖子成为本周高热讨论，强化了 RTO 对招聘留才的现实压力；另一热帖呼吁只参加 union 正式宣布的合法集体行动。https://www.reddit.com/r/CAStateWorkers/comments/1uqi3dn/rto_pushed_me_out_accepted_a_county_offer_with_a/ https://www.reddit.com/r/CAStateWorkers/comments/1usdgsn/strike/"
+    ],
+    "hot_topics": [
+      "Caltrans 的 50 英里豁免口径与其他部门差异，仍需书面政策确认。https://www.reddit.com/r/CAStateWorkers/comments/1us6bvk/do_i_have_a_reason_to_be_upset/",
+      "Sacramento 到岗后的疲劳、通勤和办公室内线上会议成为首周主线。https://www.reddit.com/r/CAStateWorkers/comments/1usobp0/first_4_day_work_weekhow_we_holding_up/",
+      "RTO 引发人才流向县政府等更灵活雇主的风险升温。https://www.reddit.com/r/CAStateWorkers/comments/1uqi3dn/rto_pushed_me_out_accepted_a_county_offer_with_a/",
+      "AB 1729 的书面理由和办公空间成本看板仍是后续制度焦点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "今天没有 RTO 翻盘信号，重点已转向首周执行代价、豁免不一致、人才流失与 union 后续行动。"
+  },
+  {
     "date": "2026-07-09",
     "date_label": "2026年7月9日",
     "title": "今日 CA State Worker RTO 情报",
@@ -1010,5 +1029,4 @@ window.BRIEFS_DATA = [
     ],
     "summary": "Caltrans 等部门的 7/1 倒计时、工位/排班落地细节，以及工会与 AB 1729 的攻防，是当前讨论主轴。"
   }
-]
-;
+];

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-07-11",
+    "date_label": "2026年7月11日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】周六核查未见 statewide RTO 新政或统一豁免。CalHR 页面仍写明州雇员每周至少到岗 4 天，并继续提供 Sacramento 通勤、停车和托儿支持；公开重心仍是执行，而非撤回。https://benefits.calhr.ca.gov/rto/",
+      "【官方】AB 1729 状态仍为参议院拨款委员会，听证日期列为 8月3日；法案要求部门说明到岗理由，并追踪 telework、办公空间、成本和留才成效，但目前不能暂停已实施的 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】首个完整 4 天到岗周后的讨论仍围绕疲劳、长通勤、办公室内继续开线上会议和生产力下降；这是员工经验汇总，不代表所有部门，但显示 Sacramento 执行摩擦尚未缓解。https://www.reddit.com/r/CAStateWorkers/comments/1usobp0/first_4_day_work_weekhow_we_holding_up/",
+      "【Reddit热议】Caltrans 豁免口径继续受关注：员工讨论称其他部门可能对远距离通勤作例外，而 Caltrans 同岗人员未获同类安排；尚无新公开文件确认，申请人应向 HR 或 union 索取书面答复。https://www.reddit.com/r/CAStateWorkers/comments/1us6bvk/do_i_have_a_reason_to_be_upset/"
+    ],
+    "hot_topics": [
+      "周末未出现 statewide 延后或回撤信号。https://benefits.calhr.ca.gov/rto/",
+      "Caltrans 远距离通勤豁免是否一致，仍需书面政策确认。https://www.reddit.com/r/CAStateWorkers/comments/1us6bvk/do_i_have_a_reason_to_be_upset/",
+      "Sacramento 到岗后的通勤疲劳与办公室内线上会议仍是主线。https://www.reddit.com/r/CAStateWorkers/comments/1usobp0/first_4_day_work_weekhow_we_holding_up/",
+      "AB 1729 的书面理由与办公空间成本看板，仍是下一制度节点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "今天没有 RTO 翻盘消息，下一步继续盯 Caltrans 豁免一致性、Sacramento 落地成本和 AB 1729。"
+  },
+  {
     "date": "2026-07-10",
     "date_label": "2026年7月10日",
     "title": "今日 CA State Worker RTO 情报",

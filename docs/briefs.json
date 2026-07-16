@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-07-15",
+    "date_label": "2026年7月15日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】今晚核查未见 statewide RTO 延后、回撤或新增统一豁免。SEIU Local 1000 仍要求员工遵循本部门现行安排，并称 PERB 案、telework 合同谈判和部门级会商继续；PERB 程序本身不会暂停当前到岗要求。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729 仍在参议院拨款委员会，下一听证日期为 8月3日；法案已于 5月27日 通过 Assembly，但目前尚未暂停现行 RTO，也未形成新的全州 telework 权利。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】Caltrans 跨地区执行差异进一步具体化：员工称 D2、D3、D4 多为每周 4 天，HQ 因空间不足出现 3/2 或同楼层不同安排，D6 也有人在工位间频繁轮换；这些是员工回报，不是官方完整清单。https://www.reddit.com/r/CAStateWorkers/comments/1uwdrlt/caltrans_rto_info_sharing_what_is_your/",
+      "【Reddit热议】同一 Caltrans 讨论串还报告 D3 停车不足、D6 工位分配不均及部分单位要求重签 telework agreement；焦点已从是否 RTO 转向工位、停车、hoteling 和同职类是否被一致对待。https://www.reddit.com/r/CAStateWorkers/comments/1uwdrlt/caltrans_rto_info_sharing_what_is_your/",
+      "【Rumor】今日一名员工称提交医生说明后，HR 仍优先寻找办公室内合理便利，把 telework 视为最后选项，并多次追加资料要求。该经历不能代表全州政策；申请人应保存书面记录并向 HR、union 或相应顾问核对个案程序。https://www.reddit.com/r/CAStateWorkers/comments/1uxiuzf/last_option_is_telework/"
+    ],
+    "hot_topics": [
+      "Caltrans D2/D3/D4、HQ 与 D6 的到岗天数和空间安排并不完全一致。https://www.reddit.com/r/CAStateWorkers/comments/1uwdrlt/caltrans_rto_info_sharing_what_is_your/",
+      "停车不足、共享工位和反复换座成为 Caltrans 落地痛点。https://www.reddit.com/r/CAStateWorkers/comments/1uwdrlt/caltrans_rto_info_sharing_what_is_your/",
+      "telework 合理便利申请是否被当作最后选项，引发程序透明度讨论。https://www.reddit.com/r/CAStateWorkers/comments/1uxiuzf/last_option_is_telework/",
+      "AB 1729 的 8月3日听证仍是下一明确立法节点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "union 继续沿 PERB、合同谈判与部门级会商推进。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天没有 RTO 翻盘消息，重点是 Caltrans 执行不一、工位停车压力与 telework 合理便利程序。"
+  },
+  {
     "date": "2026-07-14",
     "date_label": "2026年7月14日",
     "title": "今日 CA State Worker RTO 情报",

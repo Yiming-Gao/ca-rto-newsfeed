@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-16",
+    "date_label": "2026年7月16日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】今晚核查未见 statewide RTO 延后、回撤或新增统一豁免。SEIU Local 1000 仍称 PERB 案、telework 合同谈判和部门级会商继续，但这些程序不会自动暂停当前到岗安排；员工仍应按本部门书面通知执行。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729 仍是下一项关键制度观察点；法案聚焦部门到岗理由、telework、办公空间、成本与留才数据，但目前尚未形成暂停现行 RTO 的新效力。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】CalEPA 大楼和 Sacramento City Hall 停车库今天被报多部电梯停运，员工把它与轻轨中断、通勤及无障碍承载问题并列讨论，并呼吁向 union 报告。这是现场员工回报，具体维修和安全状态应以楼宇通知为准。https://www.reddit.com/r/CAStateWorkers/comments/1uydzb3/rto_update_the_elevators_are_still_teleworking/",
+      "【Reddit热议】一名负责设计团队的中层主管称，原本在 telework 和 hybrid 下绩效获肯定的团队，在 4 天到岗两周后明显出现低落；讨论集中到生产力、士气、招聘和留才，而不只是个人通勤成本。这是个案经验，并非全州调查。https://www.reddit.com/r/CAStateWorkers/comments/1uxw60j/rto_perspective_from_middle_management/",
+      "【Rumor】Caltrans 跨 District/HQ 的空间例外和到岗天数差异仍在员工间流传；D4 等地被称严格执行 4 天，部分 HQ 因容量采用不同排班。尚无公开完整清单，涉及 hoteling 或例外者应索取管理层书面安排。https://www.reddit.com/r/CAStateWorkers/comments/1uwdrlt/caltrans_rto_info_sharing_what_is_your/"
+    ],
+    "hot_topics": [
+      "CalEPA 与市政车库电梯故障把无障碍和楼宇承载推到前台。https://www.reddit.com/r/CAStateWorkers/comments/1uydzb3/rto_update_the_elevators_are_still_teleworking/",
+      "中层主管开始公开讨论 RTO 对团队士气、绩效和留才的影响。https://www.reddit.com/r/CAStateWorkers/comments/1uxw60j/rto_perspective_from_middle_management/",
+      "Caltrans District/HQ 的工位容量、hoteling 与执行一致性仍待书面澄清。https://www.reddit.com/r/CAStateWorkers/comments/1uwdrlt/caltrans_rto_info_sharing_what_is_your/",
+      "AB 1729 仍是 telework 数据和办公空间成本问责的主要法案。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "union 继续沿 PERB、合同谈判和部门会商推进。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天没有 RTO 回撤消息，焦点转向楼宇无障碍承载、团队士气留才与 Caltrans 空间差异。"
+  },
+  {
     "date": "2026-07-15",
     "date_label": "2026年7月15日",
     "title": "今日 CA State Worker RTO 情报",

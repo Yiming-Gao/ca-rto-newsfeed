@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-18",
+    "date_label": "2026年7月18日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】周六晚核查未见 statewide RTO 延后、回撤或新增统一豁免。SEIU Local 1000 的公开页仍显示 PERB 申诉、telework 合同谈判和部门级会商继续；这些程序不会自动暂停已实施排班，员工仍应按本部门书面通知执行。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729 仍在参议院拨款委员会，官方状态页列出的下一次听证为 8月3日。法案聚焦部门 telework 政策、办公空间、成本及留才数据透明度，但截至今天尚未暂停现行 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】Caltrans 跨 District/HQ 信息分享帖持续更新：D3、D4 等地被称执行每周 4 天，部分 HQ 和 1120 N 因座位不足采用 3/2 或单位自定排班；同楼不同做法、hoteling 和停车容量仍是争议中心。以上为员工回报，并非官方完整清单。https://www.reddit.com/r/CAStateWorkers/comments/1uwdrlt/caltrans_rto_info_sharing_what_is_your/",
+      "【Reddit热议】一名 Caltrans 设计团队中层主管称，团队在 full telework 与 hybrid 时绩效获肯定，但 4 天到岗两周后士气明显下滑；讨论继续聚焦生产力、招聘与留才。该帖是个案经验，不能替代全州数据。https://www.reddit.com/r/CAStateWorkers/comments/1uxw60j/rto_perspective_from_middle_management/",
+      "【Rumor】社区仍流传部分尚未全面执行的部门会在 7月底跟进 4 天到岗，也有人推演 PERB 或 AB 1729 若有进展后排班能否回调；今天未见官方确认的新名单或统一生效日，应以部门书面通知为准。https://www.reddit.com/r/CAStateWorkers/comments/1uwjmx8/rto_what_do_you_think_will_happen_next/"
+    ],
+    "hot_topics": [
+      "Caltrans District/HQ 到岗天数不一，空间不足与 hoteling 继续被追问。https://www.reddit.com/r/CAStateWorkers/comments/1uwdrlt/caltrans_rto_info_sharing_what_is_your/",
+      "中层主管把 RTO 对士气、生产力和留才的影响带入公开讨论。https://www.reddit.com/r/CAStateWorkers/comments/1uxw60j/rto_perspective_from_middle_management/",
+      "7月底更多部门跟进 4 天到岗仍属未证实传闻。https://www.reddit.com/r/CAStateWorkers/comments/1uwjmx8/rto_what_do_you_think_will_happen_next/",
+      "AB 1729 的 8月3日听证仍是下一明确立法节点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "union 继续沿 PERB、合同谈判和部门会商推进。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天没有 RTO 政策转折，焦点仍是 Caltrans 执行差异、空间承载、团队士气与 7月底跟进传闻。"
+  },
+  {
     "date": "2026-07-17",
     "date_label": "2026年7月17日",
     "title": "今日 CA State Worker RTO 情报",

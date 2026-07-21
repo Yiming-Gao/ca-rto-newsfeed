@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-20",
+    "date_label": "2026年7月20日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】周日晚核查未见全州 RTO 延后、回撤或新增统一豁免。SEIU Local 1000 的公开材料仍显示部门会商、telework 谈判和 PERB 申诉并行，但这些程序不会自动暂停现行四天到岗安排。https://www.seiu1000.org/rto/",
+      "【官方】CCC 分阶段返岗今天进入新一档：Manager 1、Manager 2（含 ISS）自 7月20日返岗；主管岗排在 7月27日，ISS、会计和人事普通员工自 8月3日起。员工应按所属批次核对书面通知。https://www.seiu1000.org/telework-update-ccc-june26/",
+      "【官方】部门执行仍不统一：CRD Riverside 暂用 hoteling，Fresno 在空间落实前每周到岗 3 天；DOC 的 Bonderson 楼及部分 Sacramento 以外办公室也因空间需求延后。50 英里规则与合理便利仍须按部门条件申请。https://www.seiu1000.org/telework-update-crd-july26/",
+      "【Reddit热议】新帖称四天 RTO 后员工更疲惫，即使同处办公室仍各自在工位用 Teams 沟通；这是一线感受，不是生产力统计，但显示“协作”目标与实际体验之间仍有落差。https://www.reddit.com/r/CAStateWorkers/comments/1v1yrhu/when_i_used_to_come_twice_a_week_people_loved/",
+      "【Reddit热议】社区同时讨论主管以 AWOL 处理未经批准缺勤或不遵守 RTO 的警告，以及 SacRT 延误、换乘接驳对 Sacramento 通勤的影响。两者均属员工个案，应保存书面指令并向 HR 或 union 核实。https://www.reddit.com/r/CAStateWorkers/comments/1v1xhs5/rto_anyone_else_being_threatened_by_supervisors/"
+    ],
+    "hot_topics": [
+      "CCC 今天启动 Manager 1/2 新一批返岗。https://www.seiu1000.org/telework-update-ccc-june26/",
+      "CRD hoteling 与 DOC 空间延后凸显办公容量差异。https://www.seiu1000.org/telework-update-crd-july26/",
+      "四天到岗后仍用 Teams 协作，引发效率与士气争论。https://www.reddit.com/r/CAStateWorkers/comments/1v1yrhu/when_i_used_to_come_twice_a_week_people_loved/",
+      "AWOL 执法警告成为新的合规焦虑。https://www.reddit.com/r/CAStateWorkers/comments/1v1xhs5/rto_anyone_else_being_threatened_by_supervisors/",
+      "SacRT 故障继续放大 Sacramento 通勤压力。https://www.reddit.com/r/CAStateWorkers/comments/1v1nepo/sacrt_needs_to_get_their_shit_together/"
+    ],
+    "summary": "今天无全州政策转折，重点是 CCC 分批返岗、空间例外，以及四天到岗后的协作、纪律与通勤压力。"
+  },
+  {
     "date": "2026-07-19",
     "date_label": "2026年7月19日",
     "title": "今日 CA State Worker RTO 情报",

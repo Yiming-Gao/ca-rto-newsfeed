@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-21",
+    "date_label": "2026年7月21日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】今晚核查未见全州 RTO 延后、回撤或新增统一豁免。SEIU Local 1000 仍要求员工遵循部门现行安排，并继续推进 PERB 申诉、telework 合同谈判和部门会商；这些程序不会自动暂停四天到岗。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729 仍在参议院拨款委员会，官方状态页列出 8月3日听证；法案已通过 Assembly，但目前尚未改变现行 RTO。其重点仍是部门 telework 决策、办公空间、成本及留才数据的透明度。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】新帖询问主管是否以 AWOL 处理未经批准缺勤或不遵守 RTO。该帖反映纪律焦虑，不是统一人事规则；员工应保存排班和请假书面记录，并向 HR 或 union 核实本单位程序。https://www.reddit.com/r/CAStateWorkers/comments/1v1xhs5/rto_anyone_else_being_threatened_by_supervisors/",
+      "【Reddit热议】社区继续吐槽开放式办公室噪音和四天到岗后的实际体验，认为所谓协作常被工位干扰取代。这是个人感受而非效率数据，但显示 office space 讨论已从座位数量延伸到工作环境质量。https://www.reddit.com/r/CAStateWorkers/comments/1v1ww0f/rto_lunch_break/",
+      "【Reddit热议】Sacramento 通勤压力持续：员工称 SacRT 近期反复出现接驳巴士、列车延误及临时停运。该信息属乘客现场回报，出发前应查 SacRT 实时公告并为到岗留出缓冲。https://www.reddit.com/r/CAStateWorkers/comments/1v1nepo/sacrt_needs_to_get_their_shit_together/"
+    ],
+    "hot_topics": [
+      "AWOL 警告让 RTO 合规与请假留痕成为新焦点。https://www.reddit.com/r/CAStateWorkers/comments/1v1xhs5/rto_anyone_else_being_threatened_by_supervisors/",
+      "开放办公室噪音与工位体验继续削弱“协作”叙事。https://www.reddit.com/r/CAStateWorkers/comments/1v1ww0f/rto_lunch_break/",
+      "SacRT 延误继续放大 Sacramento 到岗风险。https://www.reddit.com/r/CAStateWorkers/comments/1v1nepo/sacrt_needs_to_get_their_shit_together/",
+      "AB 1729 的 8月3日拨款委员会听证是下一明确立法节点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "union 继续沿 PERB、谈判与部门会商推进 telework。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天无 RTO 政策转折，重点转向纪律执行、办公室环境、Sacramento 通勤与 AB 1729 下一听证。"
+  },
+  {
     "date": "2026-07-20",
     "date_label": "2026年7月20日",
     "title": "今日 CA State Worker RTO 情报",

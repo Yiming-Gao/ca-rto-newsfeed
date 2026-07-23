@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-22",
+    "date_label": "2026年7月22日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】今晚核查未见全州 RTO 延后、回撤或新增统一豁免。SEIU Local 1000 继续推进 PERB 申诉、telework 谈判和部门会商；这些程序不会自动暂停现行四天到岗。https://www.seiu1000.org/rto/",
+      "【官方】SEIU 对 EDD call center 豁免作出澄清：只有主要接听客户电话的 Program Technician I/II 与 Tax Compliance Representative 适用整组豁免；同单位的 OT、SSA 等行政支持人员并非自动豁免。https://www.seiu1000.org/telework-update-edd-follow-up-july26/",
+      "【官方】OEIS 的 Oakland 办公室目前每周到岗 2 天，Sacramento 两处及 Lakewood 为 4 天；部门确认医疗、合理便利及符合既有协议的 50 英里情形，但不会另设四天到岗豁免。https://www.seiu1000.org/telework-update-oeis-july26/",
+      "【Reddit热议】一名 licensing 员工称同事因 RTO 退休后只剩一人处理申请，HR 又不准其在非指定 telework 日居家补工，法定时限内的积压风险因此上升。此为个案回报，不代表统一 HR 规则。https://www.reddit.com/r/CAStateWorkers/comments/1v2m55t/another_dumb_effect_of_rto/",
+      "【Reddit热议】社区质疑部分 upper management 每周只到岗一两天，而普通员工被要求四天；评论显示员工对管理层排班透明度和同等执行的关注上升，但帖子没有提供可核实的部门级名单。https://www.reddit.com/r/CAStateWorkers/comments/1v2yoga/upper_management_and_rto/"
+    ],
+    "hot_topics": [
+      "EDD call center 豁免缩小到三类主要接听客户电话的职位。https://www.seiu1000.org/telework-update-edd-follow-up-july26/",
+      "OEIS Oakland 的 2 天安排与 Sacramento、Lakewood 的 4 天形成明显差异。https://www.seiu1000.org/telework-update-oeis-july26/",
+      "RTO 引发退休和积压的 licensing 个案，把公共服务时限推到前台。https://www.reddit.com/r/CAStateWorkers/comments/1v2m55t/another_dumb_effect_of_rto/",
+      "普通员工与 upper management 是否同等执行四天到岗成为新争议。https://www.reddit.com/r/CAStateWorkers/comments/1v2yoga/upper_management_and_rto/",
+      "union 继续以 PERB、谈判、Strike School 与纠察行动推进 telework。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天无全州政策转折，重点是 EDD 豁免边界、OEIS 地点差异，以及 RTO 对积压和执行公平的影响。"
+  },
+  {
     "date": "2026-07-21",
     "date_label": "2026年7月21日",
     "title": "今日 CA State Worker RTO 情报",

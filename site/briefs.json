@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-07-23",
+    "date_label": "2026年7月23日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Governor 为四天 RTO 辩护后，社区集中反驳把 telework 误称为“三天周末”的说法；多人称到办公室后团队仍分散全州、继续用 Teams 协作。该讨论反映舆情，不是政策变化。https://www.reddit.com/r/CAStateWorkers/comments/1v3n74l/newsom_defends_californias_returntooffice_mandate/",
+      "【Reddit热议】员工发起致电 Governor 办公室行动，重点引用 State Auditor 对减少办公空间及潜在节省的估算，要求重新评估四天到岗；截至今晚未见官方回应或暂停令。https://www.reddit.com/r/CAStateWorkers/comments/1v3m9b8/call_newsoms_office/",
+      "【官方】SEIU Local 1000 的 EDD 澄清仍显示：整组 telework 豁免限于主要接听客户电话的 Program Technician I/II 与 Tax Compliance Representative；OT、SSA 等支持岗位并非自动豁免。https://www.seiu1000.org/telework-update-edd-follow-up-july26/",
+      "【Reddit热议】有员工称部门只口头要求从每周两天改为四天到岗，评论建议用邮件确认指令并联系 union；关于春季全员邮件是否已满足通知期，各单位理解仍不一致。https://www.reddit.com/r/CAStateWorkers/comments/1v34pkz/verbally_directed_to_return_4_days/",
+      "【官方】AB 1729 仍在 Senate Appropriations suspense file，下一公开节点为 8月3日听证；法案尚未改变当前 RTO 排班。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "hot_topics": [
+      "Governor 的“三天周末”说法引发强烈反弹。https://www.reddit.com/r/CAStateWorkers/comments/1v3n74l/newsom_defends_californias_returntooffice_mandate/",
+      "员工致电行动把办公空间成本与 telework 节省推回焦点。https://www.reddit.com/r/CAStateWorkers/comments/1v3m9b8/call_newsoms_office/",
+      "EDD call center 豁免边界继续造成同单位岗位差异。https://www.seiu1000.org/telework-update-edd-follow-up-july26/",
+      "口头排班指令、书面通知与 grievance 留痕成为实务焦点。https://www.reddit.com/r/CAStateWorkers/comments/1v34pkz/verbally_directed_to_return_4_days/",
+      "AB 1729 的 8月3日听证仍是下一立法节点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "今天没有全州政策转折，焦点是 Governor 公开辩护后的反弹、豁免差异、书面通知与 AB 1729。"
+  },
+  {
     "date": "2026-07-22",
     "date_label": "2026年7月22日",
     "title": "今日 CA State Worker RTO 情报",

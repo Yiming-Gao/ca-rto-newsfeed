@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-26",
+    "date_label": "2026年7月26日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】今晚核查未见全州 RTO 回撤或新增统一豁免。SEIU Local 1000 仍要求员工遵循部门现行安排，并通过 PERB、合同谈判与部门会商争取 telework；这些程序目前不会自动暂停四天到岗。https://www.seiu1000.org/rto/",
+      "【Reddit热议】员工称过去每周到岗两天时同事更愿意交流，如今四天到岗后普遍疲惫，坐在相邻工位仍用 Teams 沟通；这是个人体验，反映“协作收益”与实际办公室行为的落差。https://www.reddit.com/r/CAStateWorkers/comments/1v1yrhu/when_i_used_to_come_twice_a_week_people_loved/",
+      "【Rumor】有员工担心部门继续投入新租约、设备、停车场和保洁后，恢复更多 telework 会更困难。帖子没有提供 Caltrans 或 Sacramento 各部门的完整采购数据，应视为办公空间沉没成本担忧。https://www.reddit.com/r/CAStateWorkers/comments/1v1y60k/the_window_to_push_back_on_rto_is_closing/",
+      "【Reddit热议】回办公室后的停车费再次冲击家庭预算，甚至有人考虑退出 union 来省会费；评论强调退会不会改变 RTO，且可能削弱集体谈判。该帖说明生活成本压力，不是 union 新规。https://www.reddit.com/r/CAStateWorkers/comments/1v1zdl6/how_to_leave_the_union/",
+      "【官方】AB 1729 仍在 Senate Appropriations，官方状态页列出 8月3日听证；法案尚未改变 Caltrans 或其他部门当前排班，下一关键点仍是能否通过财政委员会。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "hot_topics": [
+      "四天到岗后仍用 Teams，办公室协作效果受质疑。https://www.reddit.com/r/CAStateWorkers/comments/1v1yrhu/when_i_used_to_come_twice_a_week_people_loved/",
+      "新租约、设备与停车投入是否锁定长期 RTO。https://www.reddit.com/r/CAStateWorkers/comments/1v1y60k/the_window_to_push_back_on_rto_is_closing/",
+      "停车费和通勤成本正在侵蚀家庭预算与 union 参与。https://www.reddit.com/r/CAStateWorkers/comments/1v1zdl6/how_to_leave_the_union/",
+      "AWOL 警告与部门执行尺度仍令员工焦虑。https://www.reddit.com/r/CAStateWorkers/comments/1v1xk4n/rto_anyone_else_being_threatened_by_supervisors/",
+      "AB 1729 的 8月3日听证是下一明确立法节点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "今天无政策转折，焦点是低效办公室协作、停车负担、办公投入沉没成本与执行焦虑。"
+  },
+  {
     "date": "2026-07-25",
     "date_label": "2026年7月25日",
     "title": "今日 CA State Worker RTO 情报",

@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-27",
+    "date_label": "2026年7月27日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】DIR 与 DHCS 的延后批次今天正式进入四天到岗。员工称通勤后工作产出没有增加，早班会议与通勤时间冲突；这是首日体验汇总，不代表部门已调整政策。https://www.reddit.com/r/CAStateWorkers/comments/1v82lgh/here_we_go_first_day_of_rto/",
+      "【Reddit热议】首日帖子出现“没有椅子”等工位准备不足反馈，延续 Sacramento 办公空间、停车和 hoteling 容量争议。信息来自个人回报，尚无 DIR、DHCS 或 DGS 的全量座位数据。https://www.reddit.com/r/CAStateWorkers/comments/1v82lgh/here_we_go_first_day_of_rto/",
+      "【Reddit热议】SEIU telework 更新讨论中，员工继续追问为何 Caltrans、社会服务部门及其他单位采用不同到岗规则；回复也显示生病但仍能工作时能否临时 telework，各部门执行并不一致。https://www.reddit.com/r/CAStateWorkers/comments/1v21uu9/seiu_local1000_telework_update/",
+      "【官方】SEIU Local 1000 今晚未公布全州 RTO 回撤或新增统一豁免；union 仍通过 PERB、合同谈判、Strike School 和纠察行动争取 telework，现行部门排班继续有效。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729 仍在 Senate Appropriations，官方状态页列出 8月3日听证；法案尚未改变 DIR、DHCS、Caltrans 或 Sacramento 部门今天的到岗安排。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "hot_topics": [
+      "DIR、DHCS 延后批次今天进入四天到岗。https://www.reddit.com/r/CAStateWorkers/comments/1v82lgh/here_we_go_first_day_of_rto/",
+      "通勤与早班会议冲突，员工要求明确非工作时间边界。https://www.reddit.com/r/CAStateWorkers/comments/1v82lgh/here_we_go_first_day_of_rto/",
+      "工位和椅子不足再次推高 office space、hoteling 争议。https://www.reddit.com/r/CAStateWorkers/comments/1v82lgh/here_we_go_first_day_of_rto/",
+      "Caltrans 与其他部门的执行差异继续受到质疑。https://www.reddit.com/r/CAStateWorkers/comments/1v21uu9/seiu_local1000_telework_update/",
+      "AB 1729 的 8月3日听证仍是下一立法节点。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "今天的重点是 DIR、DHCS 首日落地，以及通勤冲突、工位不足和跨部门执行差异。"
+  },
+  {
     "date": "2026-07-26",
     "date_label": "2026年7月26日",
     "title": "今日 CA State Worker RTO 情报",

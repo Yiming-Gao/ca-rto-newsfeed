@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-28",
+    "date_label": "2026年7月28日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】DIR、DHCS 延后批次进入四天到岗后的讨论仍在延续；员工称首日出现工位、椅子准备不足，通勤也与早班会议冲突。信息来自个人回报，尚无部门全量数据。https://www.reddit.com/r/CAStateWorkers/comments/1v82lgh/here_we_go_first_day_of_rto/",
+      "【Reddit热议】员工在办公室张贴反 RTO、支持劳工权利标语，引发政治表达与工作场所规则讨论；评论提醒部门可能要求移除，但帖子未显示全州统一新规。https://www.reddit.com/r/CAStateWorkers/comments/1v82lgh/here_we_go_first_day_of_rto/",
+      "【Reddit热议】telework 津贴仍是到岗后的现实争点。SEIU 合同讨论称 Office Centered 且有获批协议者通常为每月 25 美元，员工认为远不足以覆盖 Sacramento 通勤和停车。https://www.reddit.com/r/CAStateWorkers/comments/1uyfef2/telework_stipend/",
+      "【官方】Caltrans 继续执行四天到岗框架；此前公开问答显示，HQ 与各区按空间评估实施，空间不足时可能分阶段安排，合理便利由正式程序处理，目前未见今天发布全系统回撤。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "【官方】AB 1729 仍待 Senate Appropriations 处理，下一公开节点是 8月3日听证；在委员会和州长完成后续程序前，法案不会改变当前 RTO 排班。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "hot_topics": [
+      "首周工位、椅子与会议时间冲突仍待部门回应。https://www.reddit.com/r/CAStateWorkers/comments/1v82lgh/here_we_go_first_day_of_rto/",
+      "办公室反 RTO 标语触发工作场所表达边界讨论。https://www.reddit.com/r/CAStateWorkers/comments/1v82lgh/here_we_go_first_day_of_rto/",
+      "25 美元 Office Centered 津贴难抵通勤停车成本。https://www.reddit.com/r/CAStateWorkers/comments/1uyfef2/telework_stipend/",
+      "Caltrans 的空间评估、分阶段到岗与豁免尺度继续受关注。https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/",
+      "AB 1729 的 8月3日听证进入倒计时。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "今天没有政策转折，焦点转向首周落地问题、通勤补贴、职场表达边界和 AB 1729 听证。"
+  },
+  {
     "date": "2026-07-27",
     "date_label": "2026年7月27日",
     "title": "今日 CA State Worker RTO 情报",

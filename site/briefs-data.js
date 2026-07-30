@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-29",
+    "date_label": "2026年7月29日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】四天 RTO 进入第四周后，员工集中反映 Rocklin 至 Sacramento 等通勤路线带来的时间、充电、油费和疲劳压力；讨论普遍不认为短期会自动降回两天。此为社区体验，不是政策通知。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "【Rumor】一名评论者称某非内阁机构因 RTO 干扰业务，已把到岗从四天退回三天；帖子未披露机构名称，也无公开备忘录佐证，不能推定 Caltrans 或其他部门会跟进。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "【Reddit热议】员工把降低 RTO 天数与提高 union 会员率、参加 Strike School 和未来罢工表决相联系；评论也提醒罢工须由会员投票，当前讨论不等于已获授权。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "【官方】SEIU Local 1000 仍以 PERB 程序、合同谈判和线下行动争取 telework；今晚未见全州回撤、Caltrans 统一豁免或 Sacramento 办公空间新指令。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729 仍待 Senate Appropriations 8月3日处理；法案即使过委员会仍需后续表决和州长程序，因此目前不改变四天排班。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "hot_topics": [
+      "第四周通勤疲劳、停车与能源成本持续累积。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "匿名机构退回三天到岗的说法仍待验证。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "union 会员率、Strike School 与罢工表决成为焦点。https://www.seiu1000.org/contract-action-center/",
+      "Caltrans 和 Sacramento 部门尚无统一回撤通知。https://www.seiu1000.org/rto/",
+      "AB 1729 的 8月3日财政委员会节点临近。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "今天无政策转折，员工关注通勤耗损、匿名三天到岗传闻、union 动员和 AB 1729。"
+  },
+  {
     "date": "2026-07-28",
     "date_label": "2026年7月28日",
     "title": "今日 CA State Worker RTO 情报",

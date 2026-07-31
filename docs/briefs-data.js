@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-07-30",
+    "date_label": "2026年7月30日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】Caltrans D4 员工称办公楼 6 至 11 层目前仅一部电梯可用，高峰等待约十分钟，并反映楼层清洁不足；这是个人现场回报，尚无 Caltrans 当日设施公告佐证。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "【Reddit热议】同一讨论中，Caltrans D4 员工称生病但仍能工作时也未获临时 telework 灵活安排，并提到 PECG 员工的 telework 津贴与薪酬压力；具体待遇须以个人合同和正式通知为准。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "【Reddit热议】员工继续报告停车距离、停车费、油费和通勤疲劳侵蚀家庭时间；有人称团队虽分散在两栋楼，仍主要线上协作，四天到岗的实际协作收益再次受到质疑。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "【官方】SEIU Local 1000 仍通过合同谈判、PERB 程序和 Strike School 争取 telework；今晚未见全州 RTO 回撤、Sacramento 办公空间统一调整或新增统一豁免。https://www.seiu1000.org/rto/",
+      "【官方】Senate Appropriations 已公布 8月3日听证安排，AB 1729 仍是下一关键立法节点；委员会审议前，法案不会改变 Caltrans 或其他部门当前排班。https://sapro.senate.ca.gov/agenda"
+    ],
+    "hot_topics": [
+      "Caltrans D4 电梯、清洁与办公设施承载力受关注。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "临时 telework、合理便利与病中工作边界仍不清晰。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "停车距离、油费和通勤疲劳继续累积。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "union 动员、Strike School 与合同谈判持续。https://www.seiu1000.org/master-table-update-july-16-2026/",
+      "AB 1729 等待 8月3日 Senate Appropriations 听证。https://sapro.senate.ca.gov/agenda"
+    ],
+    "summary": "今天无政策转折，焦点是 Caltrans D4 设施与灵活性问题、通勤成本及 AB 1729 听证。"
+  },
+  {
     "date": "2026-07-29",
     "date_label": "2026年7月29日",
     "title": "今日 CA State Worker RTO 情报",

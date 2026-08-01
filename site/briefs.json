@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-07-31",
+    "date_label": "2026年7月31日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】一名招聘面试人员称，三名优先候选人均因 Sacramento 薪资与四天 RTO 不匹配而拒绝录用，显示到岗要求已影响异地人才招聘；这是个人案例，并非全州招聘统计。https://www.reddit.com/r/CAStateWorkers/comments/1vc446p/will_californias_new_guidelines_expedite_hiring/",
+      "【Reddit热议】员工继续反映部门和主管执行不一致：部分团队每周到岗一次或更少，另一些严格执行四天；空置工位仍多，削弱了统一 RTO 促进协作的说法。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "【Reddit热议】有员工称停车点距办公室八至九个街区、单位停车场每月仅能使用两天，且电动滑板车被禁止带入楼内；另一讨论称固定下班时间造成错过公交，显示通勤规则与实际交通衔接仍有冲突。https://www.reddit.com/r/CAStateWorkers/comments/1vb4e53/thank_you_rto_now_i_cant_even_commute_via_transit/",
+      "【官方】SEIU Local 1000 继续通过合同谈判、Strike School、PERB 程序和部门会商争取 telework；今晚未见全州 RTO 回撤、Caltrans 统一豁免或 Sacramento hoteling 新指令。https://www.seiu1000.org/rto/",
+      "【官方】AB 1729 仍待 Senate Appropriations 处理，8月3日听证是下一关键节点；在委员会、两院后续程序及州长行动完成前，法案不会改变当前四天到岗安排。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "hot_topics": [
+      "RTO 与 Sacramento 薪资组合被指拖累异地招聘。https://www.reddit.com/r/CAStateWorkers/comments/1vc446p/will_californias_new_guidelines_expedite_hiring/",
+      "跨部门、跨主管执行差异和空置工位继续受质疑。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "停车距离、微型交通工具限制与公交衔接成为新焦点。https://www.reddit.com/r/CAStateWorkers/comments/1vb4e53/thank_you_rto_now_i_cant_even_commute_via_transit/",
+      "union 的 Strike School、合同谈判与 telework 行动持续。https://www.seiu1000.org/rto/",
+      "AB 1729 等待 8月3日 Senate Appropriations 听证。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729"
+    ],
+    "summary": "今天无政策转折，招聘阻力、执行不一致和通勤衔接成为四天 RTO 的新增压力点。"
+  },
+  {
     "date": "2026-07-30",
     "date_label": "2026年7月30日",
     "title": "今日 CA State Worker RTO 情报",

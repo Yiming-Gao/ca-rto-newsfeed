@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-08-01",
+    "date_label": "2026年8月1日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】四天 RTO 满月后，员工继续报告执行不一致：部分主管严格要求四天，另一些团队每周仅到岗一次，办公室仍有大量空位。该帖反映个人观察，并非全州合规统计。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "【Reddit热议】社区再次讨论 strike：参与者称应参加 Strike School、在合同谈判后依法行动；帖子中的时间表和罢工预期未经 union 正式确认，不能视为已授权行动。https://www.reddit.com/r/CAStateWorkers/comments/1vbe0dq/removed/",
+      "【官方】CCC 的 ISS、Accounting 与 Human Resources 普通员工将于 8月3日进入四天到岗阶段；这是一项已公布的部门分批实施安排，不代表其他 Sacramento 部门获得延后。https://www.seiu1000.org/telework-update-ccc-june26/",
+      "【官方】SEIU Local 1000 仍通过 PERB、合同谈判、Strike School 和部门会商争取 telework；截至今晚，页面未显示全州 RTO 回撤、Caltrans 统一豁免或新的 hoteling 指令。https://www.seiu1000.org/rto/",
+      "【官方】Senate Daily File 将 AB 1729 列入 8月3日 10 时 Appropriations 听证；法案仍需后续立法程序，在此之前不会改变当前四天到岗。https://www.senate.ca.gov/dailyfile/publications/download/SEN_STD_2025_R_20260701.PDF"
+    ],
+    "hot_topics": [
+      "部门与主管执行不一致仍是员工最集中的质疑。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/",
+      "Strike School 与合同谈判后的 union 行动受到关注。https://www.seiu1000.org/rto/",
+      "CCC 下一批员工将在 8月3日进入四天到岗。https://www.seiu1000.org/telework-update-ccc-june26/",
+      "Caltrans District 与 HQ 的空间差异仍未形成统一公开调整。https://www.reddit.com/r/CAStateWorkers/comments/1uwdrlt/caltrans_rto_info_sharing_what_is_your/",
+      "AB 1729 的 8月3日拨款委员会听证进入倒计时。https://www.senate.ca.gov/dailyfile/publications/download/SEN_STD_2025_R_20260701.PDF"
+    ],
+    "summary": "今天无全州政策转折，重点是执行差异、union 动员，以及 8月3日 CCC 到岗与 AB 1729 听证。"
+  },
+  {
     "date": "2026-07-31",
     "date_label": "2026年7月31日",
     "title": "今日 CA State Worker RTO 情报",

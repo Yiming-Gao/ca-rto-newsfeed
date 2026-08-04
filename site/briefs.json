@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-08-03",
+    "date_label": "2026年8月3日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】CDPH 员工称今天收到主管转发的 30 天通知，要求 9月1日当周返岗，但邮件未说明排班、工位或 hoteling 细节；目前只能确认社区中的个别通知，仍待 CDPH 公开文件或更多单位通知交叉验证。https://www.reddit.com/r/CAStateWorkers/comments/1veq1st/cdph_rto_30_day_notice/",
+      "【官方】California Legislative Information 今晚仍把 AB 1729 列为 Senate Appropriations 审理中，听证日期为今天；页面尚未刊出新的表决或放行记录，因此法案没有即时改变四天 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】CAPS-UAW RTO 工作组宣布 8月5日午间全州行动：Sacramento 在 CalHR，Los Angeles、San Diego、San Luis Obispo 分别在 Caltrans District 7、11、5，Oakland 由 Caltrans 与 SWRCB 游行至 Snow Park；其他 union 成员也获邀参加。https://www.reddit.com/r/CAStateWorkers/comments/1vd3565/august_5th_our_raises_our_rights_rally/",
+      "【Reddit热议】今天的讨论继续出现“到办公室后仍用 Teams 与异地同事协作”的反馈，也有人称噪音和非工作聊天影响专注；这些是个人体验，不能代表所有 Sacramento 部门或 Caltrans 工点。https://www.reddit.com/r/CAStateWorkers/comments/1vd22c0/rto_is_rubbish_and_so_is_gaslight_gavin/",
+      "【Rumor】社区仍流传个别非内阁机构把到岗降回每周三天的说法，但未披露机构名称或正式备忘录；截至今晚，没有证据显示 Caltrans、CDPH 或全州政策已统一回撤。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/"
+    ],
+    "hot_topics": [
+      "CDPH 被指通知 9月1日返岗，排班与空间细节待确认。https://www.reddit.com/r/CAStateWorkers/comments/1veq1st/cdph_rto_30_day_notice/",
+      "AB 1729 今日听证后仍显示在 Senate Appropriations。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "8月5日 CalHR 与多个 Caltrans District 将有联合行动。https://www.reddit.com/r/CAStateWorkers/comments/1vd3565/august_5th_our_raises_our_rights_rally/",
+      "到岗后继续用 Teams 协作的实际收益受到质疑。https://www.reddit.com/r/CAStateWorkers/comments/1vd22c0/rto_is_rubbish_and_so_is_gaslight_gavin/",
+      "三天到岗传闻仍无可核实的部门文件。https://www.reddit.com/r/CAStateWorkers/comments/1v9w3sh/any_hopes_rto/"
+    ],
+    "summary": "今天的新增焦点是 CDPH 九月返岗通知与 8月5日跨 union 行动，AB 1729 尚无公开的新结果。"
+  },
+  {
     "date": "2026-08-02",
     "date_label": "2026年8月2日",
     "title": "今日 CA State Worker RTO 情报",

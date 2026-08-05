@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-08-04",
+    "date_label": "2026年8月4日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 于 8月3日在 Senate Appropriations 以 7–0 通过“列入 suspense file”的动作，仍属委员会程序；法案尚未送交 Senate 全体表决，也不会立即改变四天 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】CAPS-UAW RTO 工作组确认明天 8月5日午间举行全州行动：Sacramento 集合点为 CalHR，Los Angeles、San Diego、San Luis Obispo 分别设在 Caltrans District 7、11、5，Oakland 由 Caltrans 与 SWRCB 员工前往 Snow Park；其他 union 成员也获邀。https://www.reddit.com/r/CAStateWorkers/comments/1vd3565/august_5th_our_raises_our_rights_rally/",
+      "【Reddit热议】今天的新帖进一步询问 Sacramento 地区行动地点，社区回复聚焦 CalHR 与 Natomas 的 DCA；帖子未附 union 正式地点表，参加者应以主办方通知为准。https://www.reddit.com/r/CAStateWorkers/comments/1vfgz44/informational_picket_8526/",
+      "【官方】SEIU Local 1000 的 RTO 页面仍列出 PERB、合同谈判和部门会商行动；截至今晚，未见全州 RTO 回撤、Caltrans 统一豁免，或 Sacramento 办公空间与 hoteling 的新指令。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "AB 1729 已进 suspense file，尚未完成 Senate 程序。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "8月5日 CalHR 与多个 Caltrans District 将举行午间行动。https://www.reddit.com/r/CAStateWorkers/comments/1vd3565/august_5th_our_raises_our_rights_rally/",
+      "DCA Natomas 是否为 Sacramento 行动点受到询问。https://www.reddit.com/r/CAStateWorkers/comments/1vfgz44/informational_picket_8526/",
+      "全州四天 RTO、Caltrans 豁免与 hoteling 暂无公开调整。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天的实质更新是 AB 1729 进入 suspense file，明天的跨 union、跨 Caltrans 地点行动成为近期焦点。"
+  },
+  {
     "date": "2026-08-03",
     "date_label": "2026年8月3日",
     "title": "今日 CA State Worker RTO 情报",

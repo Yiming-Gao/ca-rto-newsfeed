@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-08-06",
+    "date_label": "2026年8月6日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】一名未透露部门的员工称，今天全部门只获两周 RTO 通知；共享 cubicle 的员工将由每周两天到岗改为隔周 3/2、2/3 排班。通知据称只在 Teams 会议口头宣布，尚无备忘录，部门与生效日仍待核实。https://www.reddit.com/r/CAStateWorkers/comments/1vgujvk/rto_2_week_notice/",
+      "【Reddit热议】该帖评论集中质疑为何不是 30 天书面通知，并建议向 union 报告；这反映实施程序争议，不能据此认定所有 Sacramento 部门或 Caltrans 都采用两周通知。https://www.reddit.com/r/CAStateWorkers/comments/1vgujvk/rto_2_week_notice/",
+      "【Reddit热议】昨日 CAPS-UAW 的全州午间行动后，员工继续要求 CalHR 就 RTO 诚信谈判并履行合同；行动覆盖 Sacramento CalHR、多个 Caltrans District 与 Oakland 等地，但截至今晚未见官方宣布政策回撤。https://www.reddit.com/r/CAStateWorkers/comments/1vd3565/august_5th_our_raises_our_rights_rally/",
+      "【官方】AB 1729 仍在 Senate Appropriations suspense file，尚未进入 Senate 全体表决；因此目前没有改变四天 RTO、Caltrans 豁免或 office space／hoteling 安排。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 的公开 RTO 页面仍列出 PERB、合同谈判和部门会商路线；截至今晚，未发布全州统一的新豁免或排班指令。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "两周口头通知与 30 天书面通知要求成为新争议。https://www.reddit.com/r/CAStateWorkers/comments/1vgujvk/rto_2_week_notice/",
+      "共享 cubicle 员工被指改用隔周 3/2、2/3 排班。https://www.reddit.com/r/CAStateWorkers/comments/1vgujvk/rto_2_week_notice/",
+      "昨日 CalHR 与多个 Caltrans District 行动继续发酵。https://www.reddit.com/r/CAStateWorkers/comments/1vd3565/august_5th_our_raises_our_rights_rally/",
+      "AB 1729 仍在 suspense file，尚无即时政策效力。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "PERB 与合同会商继续，暂无全州统一豁免。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天的新增焦点是短通知与共享工位排班争议，州级 RTO 政策和 AB 1729 暂无转折。"
+  },
+  {
     "date": "2026-08-05",
     "date_label": "2026年8月5日",
     "title": "今日 CA State Worker RTO 情报",

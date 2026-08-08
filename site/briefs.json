@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-08-07",
+    "date_label": "2026年8月7日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Rumor】CDSS HQ 员工转述内部邮件：多数员工将从 9月8日起每周到岗 4 天；新 telework agreement 预计 8月17日开放、9月4日前提交，旧协议同日失效，已批准豁免者除外。部门尚未在公开网页确认，细节以正式通知为准。https://www.reddit.com/r/CAStateWorkers/comments/1viem5t/cdss_hq_returning_to_4x_a_week_september_8th/",
+      "【Reddit热议】CCHCS/CDCR 员工称不同地点执行不一：有人报告 HQ 或区域团队仍全远程，另有人已每周到岗 4 天并跨项目共享 cubicle、周中换工位；这些是员工说法，未证明统一豁免规则。https://www.reddit.com/r/CAStateWorkers/comments/1vgur0f/cdcr_cchcs_telework_joke/",
+      "【Reddit热议】指定 telework 日遇周一节假日是否可补休成为焦点；多名员工称管理层按“每周到岗 4 天”解释，不允许换到其他天，也有人表示具体安排仍取决于部门、工位覆盖和主管。https://www.reddit.com/r/CAStateWorkers/comments/1vh9z7o/assigned_telework_day_on_a_holiday_too_bad/",
+      "【官方】AB 1729 仍在 Senate Appropriations suspense file，官方页面列出 8月13日委员会听证；法案目前没有改变 Caltrans、Sacramento 部门或其他机构的现行 RTO 安排。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 仍把 PERB 案、合同谈判和部门会商列为 telework 主线，并说明员工在争议处理期间应遵循部门现行指示；截至今晚未宣布全州统一豁免。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "CDSS HQ 被指 9月8日启动每周 4 天到岗。https://www.reddit.com/r/CAStateWorkers/comments/1viem5t/cdss_hq_returning_to_4x_a_week_september_8th/",
+      "CCHCS/CDCR 的工位共享与地点执行差异受关注。https://www.reddit.com/r/CAStateWorkers/comments/1vgur0f/cdcr_cchcs_telework_joke/",
+      "telework 日遇节假日能否改期，各部门口径不一。https://www.reddit.com/r/CAStateWorkers/comments/1vh9z7o/assigned_telework_day_on_a_holiday_too_bad/",
+      "AB 1729 下一关键节点为 8月13日听证。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "PERB 与合同谈判继续，暂无全州统一豁免。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天的新增重点是 CDSS 9月排期，以及各部门在工位、节假日与豁免上的执行差异。"
+  },
+  {
     "date": "2026-08-06",
     "date_label": "2026年8月6日",
     "title": "今日 CA State Worker RTO 情报",

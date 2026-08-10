@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-09",
+    "date_label": "2026年8月9日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 仍在 Senate Appropriations suspense file，官方页面继续列出 8月13日听证；截至今晚没有新的表决或放行记录，尚未改变 Caltrans、Sacramento 部门或其他机构的现行 RTO 安排。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 仍以 PERB 案、合同谈判和部门会商推进 telework；工会说明争议期间员工应遵循部门现行指示，任何 PERB 救济可追溯适用，目前没有全州统一豁免新公告。https://www.seiu1000.org/rto/",
+      "【Reddit热议】共享 cubicle 的隔周 3/2、2/3 排班继续引发讨论；今天有员工追问在轮换工位下如何存放个人物品，反映 hoteling 的日常摩擦，但原帖未公开部门或正式方案。https://www.reddit.com/r/CAStateWorkers/comments/1vgujvk/rto_2_week_notice/",
+      "【Reddit热议】同帖员工反馈显示 Caltrans District 12 与 HQ 被指采用空间不足下的轮换排班，District 3 则有人称自 7月1日起每周到岗 4 天；这些个案显示 District／HQ 执行差异，不能视为 Caltrans 新统一口径。https://www.reddit.com/r/CAStateWorkers/comments/1vgujvk/rto_2_week_notice/",
+      "【Reddit热议】社区对 RTO 成本的看法出现分歧：有人强调共享工位与搬运物品负担，也有人指出从未享有 WFH、仍承担通行费；今天没有可信信息显示争论促成政策调整。https://www.reddit.com/r/CAStateWorkers/comments/1vgujvk/rto_2_week_notice/"
+    ],
+    "hot_topics": [
+      "AB 1729 下一关键节点仍是 8月13日听证。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "PERB 与合同谈判继续，暂无全州统一豁免。https://www.seiu1000.org/rto/",
+      "共享 cubicle 下的储物与每日搬运问题升温。https://www.reddit.com/r/CAStateWorkers/comments/1vgujvk/rto_2_week_notice/",
+      "Caltrans District 12、District 3 与 HQ 的排班差异受关注。https://www.reddit.com/r/CAStateWorkers/comments/1vgujvk/rto_2_week_notice/"
+    ],
+    "summary": "今天没有全州政策转折；焦点是 AB 1729 听证前夕，以及共享工位和 Caltrans 各地执行差异。"
+  },
+  {
     "date": "2026-08-08",
     "date_label": "2026年8月8日",
     "title": "今日 CA State Worker RTO 情报",

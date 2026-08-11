@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-08-10",
+    "date_label": "2026年8月10日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 仍在 Senate Appropriations suspense file，官方状态页继续列出 8月13日听证；截至今晚没有新表决或放行记录，Caltrans、Sacramento 部门及其他机构的现行 RTO 安排未因此改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 的 RTO 页面仍称工会正通过 PERB、合同谈判和部门会商争取 telework；争议处理期间员工须遵循现行部门指示，目前没有全州统一豁免或回到每周 2 天的新公告。https://www.seiu1000.org/rto/",
+      "【Reddit热议】一名已返办公室的员工询问如何退出工会，称家庭收入紧张、需要把会费转用于停车；讨论反映 Sacramento 到岗成本与工会信任压力，但不代表成员整体态度。https://www.reddit.com/r/CAStateWorkers/comments/1v1zdl6/how_to_leave_the_union/",
+      "【Reddit热议】员工继续形容 RTO 后同事疲惫、坐在 cubicle 里仍通过 Teams 沟通；评论对社交和生产率体验并不一致，原帖也未提供部门数据，因此只能视为个人观察。https://www.reddit.com/r/CAStateWorkers/comments/1v1yrhu/removed_by_moderator/",
+      "【Rumor】社区继续讨论 strike、合同谈判和 RTO 反制时点，但截至今晚未见 SEIU Local 1000 发布罢工授权或全州行动日期；员工应以工会正式通知为准。https://www.reddit.com/r/CAStateWorkers/comments/1v1xv61/where_we_stand_with_rto_pushback/"
+    ],
+    "hot_topics": [
+      "AB 1729 的下一关键节点仍是 8月13日听证。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "PERB、合同谈判与部门会商继续，暂无统一豁免。https://www.seiu1000.org/rto/",
+      "停车费与通勤成本正影响部分员工的工会选择。https://www.reddit.com/r/CAStateWorkers/comments/1v1zdl6/how_to_leave_the_union/",
+      "到办公室后仍用 Teams 的协作落差持续受议。https://www.reddit.com/r/CAStateWorkers/comments/1v1yrhu/removed_by_moderator/"
+    ],
+    "summary": "今天没有全州 RTO 政策转折；焦点是 AB 1729 听证前夕、到岗成本与工会行动预期。"
+  },
+  {
     "date": "2026-08-09",
     "date_label": "2026年8月9日",
     "title": "今日 CA State Worker RTO 情报",

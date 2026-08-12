@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-08-11",
+    "date_label": "2026年8月11日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 仍在 Senate Appropriations suspense file，官方状态页列出的下一步仍是 8月13日听证；截至今晚没有新表决，Caltrans、Sacramento 部门及其他机构的现行 RTO 安排未改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 确认 PERB 案继续推进，telework 也仍在 2026 合同谈判桌上；工会提醒员工在争议期间遵循部门指示，目前没有全州统一豁免或排班回撤。https://www.seiu1000.org/rto/",
+      "【Reddit热议】当天一帖询问 RTO 对招聘与留任的实际数据；评论者称有人因每周 4 天到岗、临时 telework 缺乏弹性及执行不一而求职或避开职位，但这些是个人样本，不是全州统计。https://www.reddit.com/r/CAStateWorkers/comments/1vlp9r2/rto_data_on_recruitmentretention/",
+      "【Rumor】Caltrans Office of Discipline Services 旧帖今天新增回复，称团队因办公空间不足暂行 3/2 排班；这与 Caltrans 普遍严格执行 RTO 的反馈并存，尚无公开部门文件证明是 HQ 或全州统一方案。https://www.reddit.com/r/CAStateWorkers/comments/1v8lv50/any_insight_on_caltrans_office_of_discipline/",
+      "【Reddit热议】社区拿 PERB Decision 2969-M 与 SEIU RTO 案比较：该先例涉及雇主单方面改变已谈判的 telework 试点并恢复旧安排，但事实与合同不同，不能预测本案结果。https://www.reddit.com/r/CAStateWorkers/comments/1vjh0bp/while_we_wait_for_the_seiu_rto_case_to_move/"
+    ],
+    "hot_topics": [
+      "AB 1729 的关键节点仍是 8月13日听证。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "RTO 对招聘与留任的影响需要正式数据。https://www.reddit.com/r/CAStateWorkers/comments/1vlp9r2/rto_data_on_recruitmentretention/",
+      "Caltrans ODS 被指因空间不足采用 3/2 轮换。https://www.reddit.com/r/CAStateWorkers/comments/1v8lv50/any_insight_on_caltrans_office_of_discipline/",
+      "PERB telework 先例受关注，但不能直接套用。https://www.reddit.com/r/CAStateWorkers/comments/1vjh0bp/while_we_wait_for_the_seiu_rto_case_to_move/"
+    ],
+    "summary": "今天没有全州政策转折；焦点转向招聘留任、Caltrans 空间例外与 PERB 案走向。"
+  },
+  {
     "date": "2026-08-10",
     "date_label": "2026年8月10日",
     "title": "今日 CA State Worker RTO 情报",

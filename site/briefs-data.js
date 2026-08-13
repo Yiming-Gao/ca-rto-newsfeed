@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-08-12",
+    "date_label": "2026年8月12日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 明天进入 Senate Appropriations suspense hearing；官方议程确认 8月13日开会，截至今晚仍无放行或否决结果，因此 Caltrans、Sacramento 部门及其他机构的现行 RTO 安排未改变。https://sapro.senate.ca.gov/billhearings/2026-bill-hearings",
+      "【官方】SEIU Local 1000 昨晚的 Ask the Officers 电话会把 telework、RTO 和 2026 合同谈判列为议题；今天员工转述，工会呼吁对议员强调 telework 的纳税人成本、效率与政府运营价值，而非只讲个人通勤负担。https://www.reddit.com/r/CAStateWorkers/comments/1vmglw6/any_updates_from_ask_the_officers_meeting/",
+      "【Reddit热议】CalHR 在 Workforce & National Wellness Month 期间宣传健康活动，引发员工反弹；帖中有人称既有病况过去获准 telework、如今却被告知无法继续。相关豁免经历未经 CalHR 个案文件核实。https://www.reddit.com/r/CAStateWorkers/comments/1vmr1nm/calhr_make_a_mockery_of_workforce_national/",
+      "【Reddit热议】Sacramento 744 P Street 今天中午举行信息纠察，组织帖将加薪与“telework that works”并列，要求 Newsom、CalHR 与 Becerra 回应；公开帖未提供到场人数或谈判成果。https://www.reddit.com/r/CAStateWorkers/comments/1vky29w/info_picket_81226/",
+      "【Reddit热议】员工继续追问 RTO 对招聘与留任的数据，评论认为 telework 扩大了合格申请人范围、每周 4 天到岗可能逆转趋势；目前仍是个人观察，未见 CalHR 发布新的全州量化报告。https://www.reddit.com/r/CAStateWorkers/comments/1vlp9r2/rto_data_on_recruitmentretention/"
+    ],
+    "hot_topics": [
+      "AB 1729 明天迎来 suspense hearing。https://sapro.senate.ca.gov/billhearings/2026-bill-hearings",
+      "工会建议用节省税款与运营效率争取 telework。https://www.reddit.com/r/CAStateWorkers/comments/1vmglw6/any_updates_from_ask_the_officers_meeting/",
+      "医疗 telework 豁免执行差异再受质疑。https://www.reddit.com/r/CAStateWorkers/comments/1vmr1nm/calhr_make_a_mockery_of_workforce_national/",
+      "744 P Street 信息纠察同时聚焦加薪与 telework。https://www.reddit.com/r/CAStateWorkers/comments/1vky29w/info_picket_81226/"
+    ],
+    "summary": "今天焦点是 AB 1729 表决前夕、Sacramento 工会行动，以及医疗豁免与招聘留任争议。"
+  },
+  {
     "date": "2026-08-11",
     "date_label": "2026年8月11日",
     "title": "今日 CA State Worker RTO 情报",

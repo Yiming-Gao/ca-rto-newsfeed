@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-13",
+    "date_label": "2026年8月13日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 今天获 Senate Appropriations 放出 suspense file，下一步是 Senate floor 表决；法案尚未送交 Governor，也尚未改变 Caltrans、Sacramento 部门或其他机构的现行 RTO 排班。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】当天高赞讨论补充说明：AB 1729 通过的只是 Appropriations 关卡，仍须 Senate floor 通过，之后才可能在 9月送交 Governor；员工庆祝进展，也担心最终签署前景。https://www.reddit.com/r/CAStateWorkers/comments/1vnnbrz/removed/",
+      "【Reddit热议】8月12日 SEIU Local 1000 Strike School 的员工笔记称，合同谈判自 4月22日至7月31日密集进行，电子 strike vote 将开放约一个月，下一场课程为8月27日；这是参会者整理，具体投票通知仍应以工会正式发布为准。https://www.reddit.com/r/CAStateWorkers/comments/1vmybf6/strike_school_august_12th_2026_summary/",
+      "【Reddit热议】Sacramento 社区今天集中抱怨 RTO 与开学季叠加后的 downtown 交通；有人称约22分钟车程增至45分钟，Q Street 信号故障也加剧拥堵，因此不能把全部延误归因于州府 RTO。https://www.reddit.com/r/Sacramento/comments/1vnes8s/rto_traffic/",
+      "【Rumor】Caltrans Office of Discipline Services 帖中近期回复称因办公空间不足暂行 3/2 排班；这与部分 District 每周到岗4天并存，仍未见公开文件证明是 Caltrans 全州统一 hoteling 方案。https://www.reddit.com/r/CAStateWorkers/comments/1v8lv50/any_insight_on_caltrans_office_of_discipline/"
+    ],
+    "hot_topics": [
+      "AB 1729 已过 Appropriations，等待 Senate floor。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "Strike School 讨论一个月电子投票窗口。https://www.reddit.com/r/CAStateWorkers/comments/1vmybf6/strike_school_august_12th_2026_summary/",
+      "Sacramento RTO 与开学季通勤压力叠加。https://www.reddit.com/r/Sacramento/comments/1vnes8s/rto_traffic/",
+      "Caltrans ODS 的 3/2 空间安排仍属员工转述。https://www.reddit.com/r/CAStateWorkers/comments/1v8lv50/any_insight_on_caltrans_office_of_discipline/"
+    ],
+    "summary": "今天最大进展是 AB 1729 走出 suspense file；工会动员、Sacramento 拥堵与 Caltrans 空间差异同步升温。"
+  },
+  {
     "date": "2026-08-12",
     "date_label": "2026年8月12日",
     "title": "今日 CA State Worker RTO 情报",

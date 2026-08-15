@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-08-14",
+    "date_label": "2026年8月14日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 已在 Senate 二读后进入三读，官方 Daily File 排定 8月17日处理；该紧急法案仍须 Senate 以三分之二票通过并送 Governor，今天尚未改变 Caltrans、Sacramento 部门或其他机构的四天 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 已把行动重点转向 Senate floor，呼吁成员联系州参议员支持 AB 1729；PERB 案与合同谈判仍同步进行，目前没有全州统一豁免或排班回撤。https://www.seiu1000.org/rto/",
+      "【Reddit热议】多帖今天澄清 AB 1729 的实际效力：法案要求适合岗位制定 telework 计划，并要求机构为必须到岗提供详细书面理由，但并不保证员工自动恢复旧排班；是否足以制约现行命令仍有争论。https://www.reddit.com/r/CAStateWorkers/comments/1vomljc/setting_the_record_straight_on_ab1729/",
+      "【Rumor】员工称 California Natural Resources Agency 昨日为多个机构高层举办半天 RTO Transition Forum，随后其部门通知新员工不再因远距通勤获准每周仅到岗一天；尚无公开议程或跨部门指令，不能确认两者有关。https://www.reddit.com/r/CAStateWorkers/comments/1vomjv9/rto_transition_forum/",
+      "【Reddit热议】当天高热讨论把四天到岗视为实际减薪，员工自行估算平均每年增加约4200美元、154小时通勤负担；计算器使用平均假设，评论也指出 EV、托儿及个人里程差异，不能当作官方成本数据。https://www.reddit.com/r/CAStateWorkers/comments/1vodlvb/rto_pay_cut_enforcing_it_alongside_a_0_increase/"
+    ],
+    "hot_topics": [
+      "AB 1729 已进入 Senate 三读，8月17日可能处理。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "工会呼吁联系州参议员，PERB 与合同谈判继续。https://www.seiu1000.org/rto/",
+      "法案要求书面理由，但不会自动取消四天 RTO。https://www.reddit.com/r/CAStateWorkers/comments/1vomljc/setting_the_record_straight_on_ab1729/",
+      "高层 RTO 论坛与远距通勤豁免收紧传闻待核实。https://www.reddit.com/r/CAStateWorkers/comments/1vomjv9/rto_transition_forum/",
+      "通勤、停车与托儿成本继续放大实际收入压力。https://www.reddit.com/r/CAStateWorkers/comments/1vodlvb/rto_pay_cut_enforcing_it_alongside_a_0_increase/"
+    ],
+    "summary": "今天焦点从委员会转向 Senate floor，同时法案效力、豁免收紧与到岗成本争议升温。"
+  },
+  {
     "date": "2026-08-13",
     "date_label": "2026年8月13日",
     "title": "今日 CA State Worker RTO 情报",

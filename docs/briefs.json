@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-08-15",
+    "date_label": "2026年8月15日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 已获 Senate Appropriations 以5比0通过，并在二读后进入三读；官方 Daily File 排定8月17日处理。法案仍须 Senate 以三分之二票通过并送 Governor，今晚尚未改变 Caltrans、Sacramento 部门或其他机构的现行 RTO 排班。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 正呼吁成员联系州参议员支持 AB 1729，并继续通过 PERB、合同谈判和信息纠察争取 telework；工会明确表示，争议期间员工仍应遵循部门当前指示，暂无全州统一豁免。https://www.seiu1000.org/rto/",
+      "【Reddit热议】当天高热帖担心反 RTO 动能正在减弱：发帖人称同事仍不满四天到岗，却逐渐转为接受现状；高赞回复主张现在推动 strike vote，也有人强调组织跨部门成员并不容易。此帖反映情绪，不能代表全体州雇员。https://www.reddit.com/r/CAStateWorkers/comments/1vpa9bc/i_am_getting_worried_we_are_loosing_momentum_at/",
+      "【Rumor】Caltrans Office of Discipline Services 的近期员工回复称，因工位不足暂行每周3天／2天轮换；这与部分 District 或 HQ 严格四天到岗并存，仍无公开文件证明是 Caltrans 全州 hoteling 政策。https://www.reddit.com/r/CAStateWorkers/comments/1v8lv50/any_insight_on_caltrans_office_of_discipline/"
+    ],
+    "hot_topics": [
+      "AB 1729 已进入 Senate 三读，8月17日可能处理。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "工会催促联系州参议员，PERB 与合同路线继续。https://www.seiu1000.org/rto/",
+      "员工担心反 RTO 动能下降，并讨论 strike vote。https://www.reddit.com/r/CAStateWorkers/comments/1vpa9bc/i_am_getting_worried_we_are_loosing_momentum_at/",
+      "Caltrans ODS 的 3/2 空间轮换仍属员工转述。https://www.reddit.com/r/CAStateWorkers/comments/1v8lv50/any_insight_on_caltrans_office_of_discipline/"
+    ],
+    "summary": "今天焦点是 AB 1729 等待 Senate 三读，以及员工如何把持续不满转化为工会与立法行动。"
+  },
+  {
     "date": "2026-08-14",
     "date_label": "2026年8月14日",
     "title": "今日 CA State Worker RTO 情报",

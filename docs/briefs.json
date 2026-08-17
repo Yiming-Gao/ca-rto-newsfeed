@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-16",
+    "date_label": "2026年8月16日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 已进入 Senate 三读，官方 Daily File 排定8月17日处理；周日没有新表决。该紧急法案仍须 Senate 以三分之二票通过并送 Governor，今晚尚未改变 Caltrans、Sacramento 部门或其他机构的现行 RTO 排班。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 继续呼吁成员联系州参议员支持 AB 1729，并通过 PERB 与合同谈判争取 telework；工会尚未宣布全州统一豁免、排班回撤或罢工日期。https://www.seiu1000.org/rto/",
+      "【Reddit热议】当天高热帖称，一名员工续办以 telework 为主的 Reasonable Accommodation 时遭遇阻力，并转述工会代表称多个部门出现类似拒绝；评论分享申诉与获批经历，但没有全州数据或裁决证明这些拒绝一概违法。https://www.reddit.com/r/CAStateWorkers/comments/1vpnjxr/sharing_info_confirmed_by_union_rep_illegal/",
+      "【Rumor】CCHCS／CDCR 讨论帖新增员工转述：部分 HQ 人员每周到岗4天，telework 日由管理层指定，还可能轮换 cubicle 并需说明保留居家设备的理由；具体单位与书面政策未公开，不能视为全系统规则。https://www.reddit.com/r/CAStateWorkers/comments/1vgur0f/cdcr_cchcs_telework_joke/",
+      "【Reddit热议】AB 1729 的效力继续引发分歧：支持者认为书面说明会留下可审查记录，质疑者认为法案不会自动撤销四天 RTO；最终影响仍取决于 Senate、Governor 与后续执行。https://www.reddit.com/r/CAStateWorkers/comments/1vomljc/setting_the_record_straight_on_ab1729/"
+    ],
+    "hot_topics": [
+      "AB 1729 明日可能进入 Senate floor 处理。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "医疗 telework 豁免的拒绝与申诉成为当天焦点。https://www.reddit.com/r/CAStateWorkers/comments/1vpnjxr/sharing_info_confirmed_by_union_rep_illegal/",
+      "CCHCS／CDCR 的工位轮换与设备要求待书面核实。https://www.reddit.com/r/CAStateWorkers/comments/1vgur0f/cdcr_cchcs_telework_joke/",
+      "AB 1729 是否足以约束四天 RTO 仍有争论。https://www.reddit.com/r/CAStateWorkers/comments/1vomljc/setting_the_record_straight_on_ab1729/"
+    ],
+    "summary": "周日没有官方政策转折；焦点转向明日 Senate 动向、医疗豁免争议与办公室空间执行。"
+  },
+  {
     "date": "2026-08-15",
     "date_label": "2026年8月15日",
     "title": "今日 CA State Worker RTO 情报",

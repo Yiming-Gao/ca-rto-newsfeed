@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-17",
+    "date_label": "2026年8月17日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 今天列入 Senate 三读 Daily File 第550项；截至晚间，LegInfo 最新记录仍是8月13日二读后转三读，尚无 floor 通过记录。法案仍需三分之二票，当前不会自动改变 Caltrans、Sacramento 部门或其他机构的四天 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 继续动员成员联系州参议员支持 AB 1729，并称 telework protections 也是2026合同谈判内容；其 RTO 页面同时保留 PERB、合理便利咨询与反 RTO 请愿渠道，尚未公布全州排班回撤。https://www.seiu1000.org/rto/",
+      "【Reddit热议】当天讨论追问工会在谈判桌上的 telework 具体目标：员工希望明确减少到岗天数、stipend 与合同化保障，而不只依赖 AB 1729；回复对州方是否愿谈及罢工策略说法不一，均非正式谈判纪要。https://www.reddit.com/r/CAStateWorkers/comments/1vqwpil/the_union_fight_and_telework/",
+      "【Reddit热议】合理便利争议继续升温：员工转述以 telework 为主的医疗 RA 遭拒，并讨论工会申诉、法律援助及替代便利是否有效。个案细节与所谓大规模拒绝尚无部门数据或裁决支持，不能认定所有拒绝违法。https://www.reddit.com/r/CAStateWorkers/comments/1vpnjxr/sharing_info_confirmed_by_union_rep_illegal/",
+      "【Reddit热议】AB 1729 支持者今天强调，法案若通过将要求机构为到岗需求提供更具体的书面运营理由，但不会直接规定每周 telework 天数；评论因此同时主张继续立法、谈判与工会行动。https://www.reddit.com/r/CAStateWorkers/comments/1vqtowp/817_ab_1729_bill_update_one_more_legislative/"
+    ],
+    "hot_topics": [
+      "AB 1729 已列 Senate 三读议程，今晚尚无通过记录。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "工会合同谈判中的 telework 具体诉求受追问。https://www.reddit.com/r/CAStateWorkers/comments/1vqwpil/the_union_fight_and_telework/",
+      "医疗 RA 拒绝、申诉与替代便利成为焦点。https://www.reddit.com/r/CAStateWorkers/comments/1vpnjxr/sharing_info_confirmed_by_union_rep_illegal/",
+      "法案可增加书面问责，但不会自动取消四天 RTO。https://www.reddit.com/r/CAStateWorkers/comments/1vqtowp/817_ab_1729_bill_update_one_more_legislative/"
+    ],
+    "summary": "今天没有正式排班转折；焦点集中在 AB 1729 三读、合同诉求与医疗便利争议。"
+  },
+  {
     "date": "2026-08-16",
     "date_label": "2026年8月16日",
     "title": "今日 CA State Worker RTO 情报",

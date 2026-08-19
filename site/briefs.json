@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-08-18",
+    "date_label": "2026年8月18日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 截至今晚仍处 Senate 三读阶段；LegInfo 最新动作仍是8月13日以5比0通过 Appropriations、二读后转三读，尚无 Senate floor 表决记录。该紧急法案不会在表决、签署前改变 Caltrans、Sacramento 部门或其他机构的四天 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 表示2026合同提案包括维持 telework protections，并已就州方被指拒绝善意谈判提出 Unfair Practice Charge；工会 FAQ 同时说明尚未宣布罢工，任何行动须经过内部程序和受影响成员多数票。https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】当天帖子动员 Sacramento、Folsom 与 Rancho Cordova 一带员工联系 Senator Niello 支持 AB 1729，重点提到 Highway 50、80 通勤以及支出应留在居住社区；这是基层游说，不代表参议员立场或表决结果。https://www.reddit.com/r/CAStateWorkers/comments/1vs7i0x/senator_niello_and_ab_1729/",
+      "【Reddit热议】办公空间不足继续成为执行痛点：员工称部分 space-impacted 单位只能交替周到岗，另有主管保留少数远程安排；具体部门和书面规则未公开，不能推定为 Caltrans 或全州统一 hoteling 政策。https://www.reddit.com/r/CAStateWorkers/comments/1vqvdbt/when_rto_benefits_the_department/",
+      "【Rumor】员工转述工会代表称，以全时 telework 为主的医疗 Reasonable Accommodation 续期近期遭遇更多拒绝，并建议尽早联系工会；目前没有全州部门数据或裁决，个案是否违法仍须依互动程序与证据判断。https://www.reddit.com/r/CAStateWorkers/comments/1vpnjxr/sharing_info_confirmed_by_union_rep_illegal/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍待 Senate 三读表决。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "员工集中游说 Senator Niello 支持 telework 法案。https://www.reddit.com/r/CAStateWorkers/comments/1vs7i0x/senator_niello_and_ab_1729/",
+      "空间不足下的交替到岗与 hoteling 安排受关注。https://www.reddit.com/r/CAStateWorkers/comments/1vqvdbt/when_rto_benefits_the_department/",
+      "医疗 telework 合理便利的拒绝与申诉继续升温。https://www.reddit.com/r/CAStateWorkers/comments/1vpnjxr/sharing_info_confirmed_by_union_rep_illegal/",
+      "工会称 telework protections 在合同提案内，但尚未宣布罢工。https://www.seiu1000.org/2026contract/"
+    ],
+    "summary": "今天没有正式排班转折；焦点是 Senate 游说、空间不足、医疗便利争议与合同谈判。"
+  },
+  {
     "date": "2026-08-17",
     "date_label": "2026年8月17日",
     "title": "今日 CA State Worker RTO 情报",

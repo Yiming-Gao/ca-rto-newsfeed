@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-08-19",
+    "date_label": "2026年8月19日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 今天列入 Senate 三读 Daily File 第304项；截至晚间，LegInfo 最新动作仍是8月13日以5比0通过 Appropriations、二读后转三读，尚无 floor 表决记录。法案不会在 Senate 通过、Assembly 同意修订并获 Governor 签署前改变 Caltrans 或 Sacramento 部门现行四天 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 继续把 telework protections 纳入2026合同谈判，并开展 Virtual Strike School 与各地 informational pickets；其 RTO 页面仍称尚未宣布罢工，员工应继续遵循部门现行到岗指示。https://www.seiu1000.org/rto/",
+      "【Reddit热议】当天高热帖集中描述四天到岗后的长途通勤疲劳、开放办公室噪音与在办公室仍靠耳机或线上协作的孤立感；这些是个人体验，不能推定为 Caltrans 或全州生产率数据。https://www.reddit.com/r/CAStateWorkers/comments/1vslifq/good_morning/",
+      "【Reddit热议】员工称医疗 telework Reasonable Accommodation 处理缓慢或遭拒，办公室还出现维护、人体工学与基础设施问题；回复包含部门执行差异，但没有公开的全州拒绝统计或裁决。https://www.reddit.com/r/CAStateWorkers/comments/1vsteef/frustrated_with_the_4day_rto_transition_and_lack/",
+      "【Rumor】多名员工称工会代表进入 cubicle 区逐一发放罢工资料并答疑，部分同事与基层主管支持 telework；现场范围、参与人数和未来 strike vote 时间均未获工会正式公告确认。https://www.reddit.com/r/CAStateWorkers/comments/1vsx4bx/the_union_is_serious_about_striking_this_time_and/"
+    ],
+    "hot_topics": [
+      "AB 1729 已列 Senate 三读议程，今晚仍无表决记录。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "四天 RTO 的通勤疲劳与办公室噪音持续升温。https://www.reddit.com/r/CAStateWorkers/comments/1vslifq/good_morning/",
+      "医疗 RA、人体工学与办公室维护成为执行焦点。https://www.reddit.com/r/CAStateWorkers/comments/1vsteef/frustrated_with_the_4day_rto_transition_and_lack/",
+      "telework 日能否自选仍因部门和团队而异。https://www.reddit.com/r/CAStateWorkers/comments/1vstihv/telework_day/",
+      "工会现场动员增强，但尚无正式 strike vote 日期。https://www.reddit.com/r/CAStateWorkers/comments/1vsx4bx/the_union_is_serious_about_striking_this_time_and/"
+    ],
+    "summary": "今天没有正式排班转折；焦点是 AB 1729 三读等待、RTO 疲劳、医疗便利与工会动员。"
+  },
+  {
     "date": "2026-08-18",
     "date_label": "2026年8月18日",
     "title": "今日 CA State Worker RTO 情报",

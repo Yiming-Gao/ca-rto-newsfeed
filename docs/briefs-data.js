@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-08-20",
+    "date_label": "2026年8月20日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 今天列入 Senate 三读 Daily File 第256项；截至晚间，LegInfo 最新动作仍是8月13日以5比0通过 Appropriations、二读后转三读，尚无 floor 表决记录。法案在 Senate 通过并完成后续程序前，不会改变 Caltrans 或 Sacramento 部门现行四天 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 继续呼吁成员联系州参议员支持 AB 1729，并把 telework protections 留在2026合同谈判、PERB 与现场行动渠道中；工会仍要求员工在争议期间遵循部门当前到岗指示。https://www.seiu1000.org/rto/",
+      "【Reddit热议】当天帖子质疑 DGS 聘用同时服务私人业主的 Newmark 提供 Sacramento 商业地产与租约咨询，可能与 RTO 后办公室需求存在利益冲突；帖子附有 DGS 授标文件，但未提供调查、审计或违规认定。https://www.reddit.com/r/CAStateWorkers/comments/1vqyh86/potential_rto_conflict_worth_investigating/",
+      "【Reddit热议】员工抱怨主管巡视、数人头和核对到岗，却未说明这种监督是否改善工作结果；讨论反映四天 RTO 下对 micromanagement 的不满，不能推定为 Caltrans 或全州统一考勤做法。https://www.reddit.com/r/CAStateWorkers/comments/1vqg0n8/micromanagement/",
+      "【Rumor】医疗 telework Reasonable Accommodation 讨论仍有员工称续期遭拒、替代安排无效，并转述工会代表见到更多类似个案；目前没有公开全州统计或裁决，个案是否违法须依互动程序和证据判断。https://www.reddit.com/r/CAStateWorkers/comments/1vpnjxr/sharing_info_confirmed_by_union_rep_illegal/"
+    ],
+    "hot_topics": [
+      "AB 1729 今日列三读议程，晚间仍无 floor 表决记录。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "Sacramento 商业地产顾问的潜在利益冲突待核查。https://www.reddit.com/r/CAStateWorkers/comments/1vqyh86/potential_rto_conflict_worth_investigating/",
+      "巡视、数人头等 micromanagement 引发反弹。https://www.reddit.com/r/CAStateWorkers/comments/1vqg0n8/micromanagement/",
+      "医疗 telework 合理便利的拒绝与申诉持续升温。https://www.reddit.com/r/CAStateWorkers/comments/1vpnjxr/sharing_info_confirmed_by_union_rep_illegal/",
+      "工会继续推进 AB 1729、PERB 与合同 telework 诉求。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天没有正式排班转折；焦点是 AB 1729 待表决、地产利益疑虑、到岗监督与医疗便利。"
+  },
+  {
     "date": "2026-08-19",
     "date_label": "2026年8月19日",
     "title": "今日 CA State Worker RTO 情报",

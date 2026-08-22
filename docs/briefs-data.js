@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-08-21",
+    "date_label": "2026年8月21日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 截至今晚仍处 Senate floor process；LegInfo 最新动作仍是8月13日以5比0通过 Appropriations、二读后转三读，尚无 Senate floor 表决记录。法案不会在通过后续程序前改变 Caltrans 或 Sacramento 部门现行四天 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 继续要求州参议员支持 AB 1729，并把 telework protections、免费停车及通勤补贴列入合同与行动诉求；工会页面仍要求员工在争议期间遵循部门当前到岗指示。https://www.seiu1000.org/rto/",
+      "【Reddit热议】当天高热帖讨论远程工作的时间、通勤和生活成本价值，并争论是否应以较低工资换取 telework；较多回复主张薪资与 telework 都应写进合同，不能据此判断正式谈判结果。https://www.reddit.com/r/CAStateWorkers/comments/1vu823n/remote_work_benefits_are_much_bigger_than_a/",
+      "【Reddit热议】一名求职者称面试被问通勤距离，并转述某 hiring manager 曾因把住址远近用于筛选而受处分；帖子没有部门文件或完整案情，不能推定为 Caltrans、DGS 或全州招聘政策。https://www.reddit.com/r/CAStateWorkers/comments/1vu5r9q/commute_distance/",
+      "【Rumor】Sacramento downtown 员工称周五仍到办公室、使用较少屏幕并参加 Teams 会议，商户却误以为州雇员周五不上班；这是个人经历，但反映四天 RTO 与公众认知、现场协作之间的落差。https://www.reddit.com/r/CAStateWorkers/comments/1vuom3u/3_day_weekends/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍待 Senate floor 表决。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "telework 与薪资是否需要同时写入合同引发争论。https://www.reddit.com/r/CAStateWorkers/comments/1vu823n/remote_work_benefits_are_much_bigger_than_a/",
+      "招聘面试询问通勤距离是否合适受到关注。https://www.reddit.com/r/CAStateWorkers/comments/1vu5r9q/commute_distance/",
+      "Sacramento 周五到岗与 Teams 协作体验被讨论。https://www.reddit.com/r/CAStateWorkers/comments/1vuom3u/3_day_weekends/",
+      "工会继续推进法案、PERB 与合同 telework 诉求。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天没有正式排班转折；焦点是 AB 1729 待表决、合同取舍、通勤招聘与周五到岗体验。"
+  },
+  {
     "date": "2026-08-20",
     "date_label": "2026年8月20日",
     "title": "今日 CA State Worker RTO 情报",

@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-08-22",
+    "date_label": "2026年8月22日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 截至今晚仍无 Senate floor 表决记录；LegInfo 最新动作仍是8月13日通过 Appropriations、二读后转三读。法案在 Senate 通过并完成后续程序前，不会改变 Caltrans 或 Sacramento 部门现行四天 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】当天高热帖批评 Governor Newsom 把每周一天 telework 描述成“三天周末”，员工强调远程日仍须工作，并认为该说法贬低实际产出；帖子反映舆情，不能代替完整讲话语境或正式政策。https://www.reddit.com/r/CAStateWorkers/comments/1vuzxvn/governor_newsome_3_day_weekend_claim/",
+      "【Reddit热议】员工讨论部门领导是否核查四天到岗、审视合理便利；回复称有的办公室仍大片空位，有的上层要求加强执行，显示监督强度不一，不能推定为 Caltrans 或全州统一考勤规则。https://www.reddit.com/r/CAStateWorkers/comments/1vtr9ro/rto_monitoring/",
+      "【Rumor】一帖称某部门因座位不足目前仅要求每周到岗一至两天，却准备增租办公室；回复质疑预算与租赁成本，也有人称 CEC 因空间限制执行宽松。缺少部门文件、金额与批准记录，仍待公开资料核实。https://www.reddit.com/r/CAStateWorkers/comments/1vtboa9/upper_management_we_are_12_days_rto_but_since_we/",
+      "【Rumor】Reddit 转贴的 PECG 周报称 AB 1729 预计下周由 Sacramento 的 Senator Ashby 在 Senate floor 提案，紧急条款需27票；这与当前待表决状态一致，但具体日期和结果仍未由 LegInfo 确认。https://www.reddit.com/r/CAStateWorkers/comments/1vusobj/pecg_weekly_email/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍待 Senate floor 表决。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "“三天周末”说法引发 telework 产出争论。https://www.reddit.com/r/CAStateWorkers/comments/1vuzxvn/governor_newsome_3_day_weekend_claim/",
+      "到岗监控与合理便利审查因部门而异。https://www.reddit.com/r/CAStateWorkers/comments/1vtr9ro/rto_monitoring/",
+      "空间不足与新增办公室租赁成本受到质疑。https://www.reddit.com/r/CAStateWorkers/comments/1vtboa9/upper_management_we_are_12_days_rto_but_since_we/",
+      "PECG 成员继续推动 AB 1729 最后一轮 Senate 游说。https://www.reddit.com/r/CAStateWorkers/comments/1vusobj/pecg_weekly_email/"
+    ],
+    "summary": "今天没有正式排班转折；焦点是州长表述、到岗监控、办公室成本与 AB 1729 最终游说。"
+  },
+  {
     "date": "2026-08-21",
     "date_label": "2026年8月21日",
     "title": "今日 CA State Worker RTO 情报",

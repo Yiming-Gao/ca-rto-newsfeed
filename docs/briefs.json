@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-08-23",
+    "date_label": "2026年8月23日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 截至今晚仍停在 Senate 三读、待 floor 表决；LegInfo 没有新增投票动作。法案尚未生效，因此 Caltrans 与 Sacramento 各部门仍按现行 RTO 安排执行。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】到岗监控帖今天继续升温：回复称有单位查看门禁刷卡、摄像画面或逐排数座位，也有人引用 Unit 1 合同第21.2节质疑把门禁记录用于考勤。各说法未见部门文件，适用范围应向 union 核实。https://www.reddit.com/r/CAStateWorkers/comments/1vtr9ro/rto_monitoring/",
+      "【Rumor】同帖有人称 Caltrans 正监控工程师并发过 memo，但未附 memo；另有 Sacramento 办公室称管理层频繁巡查工位。现有信息不足以证明这是 Caltrans 全系统或全州统一做法。https://www.reddit.com/r/CAStateWorkers/comments/1vtr9ro/rto_monitoring/",
+      "【Rumor】员工称某部门因座位不足目前轮换到岗，却考虑增租办公室；CEC 回复则称空间限制下实际执行较宽松。帖子未说明部门、租约金额或批准文件，办公空间成本仍待公共记录核实。https://www.reddit.com/r/CAStateWorkers/comments/1vtboa9/upper_management_we_are_12_days_rto_but_since_we/",
+      "【Reddit热议】RTO 后办公室健康与空间再次成为焦点：员工称共享狭小工位、通风差及同事生病增加暴露担忧；这属于个人经历，不能证明感染源或全州趋势。https://www.reddit.com/r/CAStateWorkers/comments/1vuz8xp/can_i_blame_this_on_rto/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍待 Senate floor 表决。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "门禁数据能否用于考勤引发合同争议。https://www.reddit.com/r/CAStateWorkers/comments/1vtr9ro/rto_monitoring/",
+      "Caltrans 工程师到岗监控 memo 仍待核实。https://www.reddit.com/r/CAStateWorkers/comments/1vtr9ro/rto_monitoring/",
+      "座位不足与新增租赁成本继续受质疑。https://www.reddit.com/r/CAStateWorkers/comments/1vtboa9/upper_management_we_are_12_days_rto_but_since_we/",
+      "共享工位、通风与病假压力受到关注。https://www.reddit.com/r/CAStateWorkers/comments/1vuz8xp/can_i_blame_this_on_rto/"
+    ],
+    "summary": "今天无正式 RTO 转折；焦点转向 Caltrans 到岗监控、门禁考勤争议、办公空间成本与健康压力。"
+  },
+  {
     "date": "2026-08-22",
     "date_label": "2026年8月22日",
     "title": "今日 CA State Worker RTO 情报",

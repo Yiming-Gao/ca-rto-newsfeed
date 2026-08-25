@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-24",
+    "date_label": "2026年8月24日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 今天列入 Senate 三读日程第376项；LegInfo 截至今晚仍显示最新动作是8月13日二读后转三读，尚无 floor 表决结果。法案需三分之二票数，通过前不会改变 Caltrans 或 Sacramento 部门现行 RTO。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 页面确认 AB 1729 已以5比0通过 Senate Appropriations，正等待全院表决；union 也表示 telework 仍在合约谈判中，PERB 申诉继续推进。https://www.seiu1000.org/rto/",
+      "【Reddit热议】当天热帖讨论 CASE 对 RTO 的挑战：开放式工位可能让州政府律师的电话与客户资料被旁人听见，进而触及保密义务；报道索引称 CASE 自7月以来已提出约15宗 PERB 指控。https://www.reddit.com/r/CAStateWorkers/comments/1vwr896/tcalifornia_state_attorneys_union_says_rto/",
+      "【Reddit热议】另一高热帖认为本周与下周可能是 AB 1729、谈判及潜在 strike vote 的关键窗口；发帖者同时称同一部门有人因空间限制执行 3/2、有人每周四天，凸显实施不一致。https://www.reddit.com/r/CAStateWorkers/comments/1vx9a6b/the_reality_of_the_rto_battle/",
+      "【Rumor】上述帖子的排班差异与罢工时间表均为员工讨论，未附部门 memo 或 union 正式决定；Caltrans、Sacramento 各单位的 hoteling、豁免和到岗天数仍应以本部门书面通知为准。https://www.reddit.com/r/CAStateWorkers/comments/1vx9a6b/the_reality_of_the_rto_battle/"
+    ],
+    "hot_topics": [
+      "AB 1729 已上 Senate 三读日程，表决结果待定。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "CASE 以律师保密风险挑战开放式办公安排。https://www.reddit.com/r/CAStateWorkers/comments/1vwr896/tcalifornia_state_attorneys_union_says_rto/",
+      "同部门 3/2 与四天到岗并存引发公平争论。https://www.reddit.com/r/CAStateWorkers/comments/1vx9a6b/the_reality_of_the_rto_battle/",
+      "telework 谈判、PERB 程序与 strike 讨论同步升温。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天尚无政策落地转折；关注 Senate 表决、CASE 保密争议及空间不足造成的排班差异。"
+  },
+  {
     "date": "2026-08-23",
     "date_label": "2026年8月23日",
     "title": "今日 CA State Worker RTO 情报",

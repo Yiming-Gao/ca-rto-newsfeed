@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-08-25",
+    "date_label": "2026年8月25日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 截至今晚仍待 Senate floor 最终表决，LegInfo 尚未记载通过或否决；因此法案目前没有改变 Caltrans 或 Sacramento 各部门现行 RTO、telework 与豁免安排。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】参加当天 Caltrans D4 town hall 的员工称，管理层强调四天 RTO 有利职业发展，但对电梯维修、安全、卫生及生产力数据等问题缺少具体答复；这是与会者转述，并非 Caltrans 正式会议纪要。https://www.reddit.com/r/CAStateWorkers/comments/1vyd137/caltrans_d4_townhall/",
+      "【Rumor】AB 1729 组织者称，发起人办公室正在做最终票数确认，仍有四名议员未承诺支持，呼吁员工本周致电；该行动信息来自倡议帖，最终票数仍应以 Legislature 记录为准。https://www.reddit.com/r/CAStateWorkers/comments/1vy64gq/urgent_action_today_for_ab_1729_the_state/",
+      "【Reddit热议】办公空间帖集中出现座位超额、临时搬入会议室、拆分隔板及办公室过热或停水后临时 telework 的报告；另有回复称 Caltrans 可能迁入已被指超容量的 May Lee State Office Complex，未见书面搬迁通知。https://www.reddit.com/r/CAStateWorkers/comments/1vy1rwu/removed/",
+      "【Rumor】员工称部分管理层开始逐办公室点人数并建立到岗表；另帖反映同单位有人按 2/3 轮换、有人每周四天，甚至新员工远程办公。适用范围与依据均未获官方确认，应保存书面排班并向 union 核实。https://www.reddit.com/r/CAStateWorkers/comments/1vxj322/rto_schedules_based_on_seniority23_alternating/"
+    ],
+    "hot_topics": [
+      "Caltrans D4 town hall 的设施与安全答复受质疑。https://www.reddit.com/r/CAStateWorkers/comments/1vyd137/caltrans_d4_townhall/",
+      "AB 1729 仍待正式 floor 结果。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "组织者推动联系四名未承诺议员。https://www.reddit.com/r/CAStateWorkers/comments/1vy64gq/urgent_action_today_for_ab_1729_the_state/",
+      "超容量、临时工位与设施故障持续出现。https://www.reddit.com/r/CAStateWorkers/comments/1vy1rwu/removed/",
+      "到岗点名及排班不一致引发公平争议。https://www.reddit.com/r/CAStateWorkers/comments/1vxj322/rto_schedules_based_on_seniority23_alternating/"
+    ],
+    "summary": "今天没有正式政策转折；焦点是 Caltrans D4 设施回应、AB 1729 拉票及办公容量与到岗执行差异。"
+  },
+  {
     "date": "2026-08-24",
     "date_label": "2026年8月24日",
     "title": "今日 CA State Worker RTO 情报",

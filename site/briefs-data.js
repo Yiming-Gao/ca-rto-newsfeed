@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-08-26",
+    "date_label": "2026年8月26日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 今天仍处 Senate 三读程序，LegInfo 把它列入 8 月 26 日议程第179项，但截至晚间最新历史动作仍是 8 月 13 日转三读，尚无通过记录；现行 RTO 与 telework 安排未因此改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】当天帖一度称 AB 1729 将在 Senate 表决，随后更新称从作者办公室获悉今天不会提出、预计未来数周处理；此为社区转述，最终时间与结果必须以 Legislature 记录为准。https://www.reddit.com/r/CAStateWorkers/comments/1vqwlki/ab1729_senate_vote_today/",
+      "【Reddit热议】Caltrans D4 town hall 后续讨论继续聚焦电梯维修、安全、卫生和生产率依据；与会员工称管理层主要强调四天 RTO 的职业发展价值，却未给出设施问题的具体解决方案。https://www.reddit.com/r/CAStateWorkers/comments/1vyd137/caltrans_d4_townhall/",
+      "【Rumor】员工讨论部门因办公空间不足而缓慢推进 RTO，并询问居家与办公室之间的中途通勤是否可能计薪；帖子引用联邦劳工部意见，但未证明适用于加州公务员，勿据此申报工时。https://www.reddit.com/r/CAStateWorkers/comments/1vqvdbt/when_rto_benefits_the_department/",
+      "【官方】SEIU Local 1000 表示 AB 1729 已以5比0通过 Senate Appropriations，正等待全院表决；union 同时继续推动 telework 谈判、PERB 程序及工作场所行动。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "AB 1729 今天列入议程但尚无表决结果。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "社区更正：今天可能不提出法案。https://www.reddit.com/r/CAStateWorkers/comments/1vqwlki/ab1729_senate_vote_today/",
+      "Caltrans D4 的电梯、安全与卫生答复仍受质疑。https://www.reddit.com/r/CAStateWorkers/comments/1vyd137/caltrans_d4_townhall/",
+      "空间不足下的分阶段 RTO 与通勤计时引发讨论。https://www.reddit.com/r/CAStateWorkers/comments/1vqvdbt/when_rto_benefits_the_department/",
+      "union 继续推进 telework、PERB 与集体行动。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天没有正式政策转折；重点是 AB 1729 表决时间、Caltrans D4 设施问题及空间不足下的执行争议。"
+  },
+  {
     "date": "2026-08-25",
     "date_label": "2026年8月25日",
     "title": "今日 CA State Worker RTO 情报",

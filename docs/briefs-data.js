@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-08-27",
+    "date_label": "2026年8月27日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 今天列入 Senate 三读第136项，紧急条款需27票；截至晚间 LegInfo 状态页仍只显示8月13日转三读，尚未写入当天最终投票，因此正式历史记录仍待更新。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Rumor】Reddit 直播讨论称 AB 1729 首轮为22票赞成、5票反对，Senator Ashby 随后保留表决并争取缺席议员；约下午4时，帖子更新称赞成票已达到27票、法案通过 Senate。最终票表及送交 Governor 状态仍须以 LegInfo 为准。https://www.reddit.com/r/CAStateWorkers/comments/1vzx9e5/ab_1729_no_additional_calls_needed_bill_is_in/",
+      "【Reddit热议】当天 union 活动参与者称，现场反对 RTO 的标语与发声者很少，union 领导谈判重心更偏工资；发帖者担心 telework 若缺少会员持续参与，可能在新合同中退居次要位置。https://www.reddit.com/r/CAStateWorkers/comments/1vzv0km/went_to_a_union_event_yesterday_surprised_to_see/",
+      "【Reddit热议】一则已删除帖仍保留关于50英里例外的讨论：员工称即使住处不足50英里，往返仍耗时约5小时；回复则指出该例外由部门酌情采用，并非统一强制豁免。个人情况应以部门书面规则与 union 核实为准。https://www.reddit.com/r/CAStateWorkers/comments/1vzr3ci/removed/",
+      "【官方】SEIU Local 1000 继续把 telework 列入合约谈判，并推进 PERB 申诉、strike school 与各地 informational picket；现行四天 RTO 在法案完成后续程序前仍继续执行。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "AB 1729 Senate 最终票表等待官方页面同步。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "社区直播称补齐27票并通过 Senate。https://www.reddit.com/r/CAStateWorkers/comments/1vzx9e5/ab_1729_no_additional_calls_needed_bill_is_in/",
+      "union 活动参与率与 telework 谈判优先级受质疑。https://www.reddit.com/r/CAStateWorkers/comments/1vzv0km/went_to_a_union_event_yesterday_surprised_to_see/",
+      "50英里例外并非各部门统一强制执行。https://www.reddit.com/r/CAStateWorkers/comments/1vzr3ci/removed/",
+      "PERB、合约谈判与工作场所行动仍在推进。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天焦点是 AB 1729 社区直播称已过 Senate，但四天 RTO 尚未改变，最终票表和 Governor 后续仍待官方确认。"
+  },
+  {
     "date": "2026-08-26",
     "date_label": "2026年8月26日",
     "title": "今日 CA State Worker RTO 情报",

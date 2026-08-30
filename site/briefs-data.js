@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-08-29",
+    "date_label": "2026年8月29日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】LegInfo 已确认 AB 1729 以31票赞成、6票反对通过 Senate，紧急条款同时获通过；法案现回到 Assembly 办理 engrossing/enrolling，尚未显示已送达 Governor，因此 Caltrans 与 Sacramento 部门现行四天 RTO 继续执行。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】当天高热帖澄清，AB 1729 并不保证固定居家天数；部门仍可因业务与项目需要要求到岗，但须向 DGS 和员工提供详细书面理由，并恢复追踪成本、办公室支出与通勤减排的 telework dashboard。https://www.reddit.com/r/CAStateWorkers/comments/1w1dmeg/what_happens_next_with_ab_1729_and_what_it/",
+      "【Reddit热议】strike 讨论明显升温：FAQ 帖称参与 strike school 的员工正准备可能的授权投票，并把工资与 telework 都列为诉求；但 SEIU 尚未正式公布 strike vote、日期或行动期限，勿把社区说法当成正式通知。https://www.reddit.com/r/CAStateWorkers/comments/1w1pdjy/faq_for_upcoming_strike/",
+      "【Reddit热议】Sacramento 通勤成本与安全成为新焦点：员工称在 Cosumnes River College 停车后转乘轻轨期间，车辆油箱被钻孔，维修超过1,800美元；这是个人报案经历，不代表整体犯罪趋势，但凸显 RTO 的额外风险。https://www.reddit.com/r/CAStateWorkers/comments/1w1stac/rto_just_got_expensive/",
+      "【官方】SEIU Local 1000 仍称 telework 在合约谈判中，PERB 申诉继续推进；在法案成法或合约条款生效前，员工应遵循本部门当前到岗指示，并以 union 正式渠道确认任何集体行动。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "AB 1729 正在 engrossing/enrolling，尚未显示送达 Governor。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "法案要求书面业务理由，但不保证固定 WFH 天数。https://www.reddit.com/r/CAStateWorkers/comments/1w1dmeg/what_happens_next_with_ab_1729_and_what_it/",
+      "strike school 与授权投票讨论升温，正式时间仍待 union 公告。https://www.reddit.com/r/CAStateWorkers/comments/1w1pdjy/faq_for_upcoming_strike/",
+      "Sacramento 停车与转乘安全增加 RTO 隐性成本。https://www.reddit.com/r/CAStateWorkers/comments/1w1stac/rto_just_got_expensive/",
+      "telework 谈判与 PERB 程序继续并行。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天焦点从 Senate 表决转向法案实际效力、Governor 后续、union 动员与 Sacramento 通勤安全成本。"
+  },
+  {
     "date": "2026-08-28",
     "date_label": "2026年8月28日",
     "title": "今日 CA State Worker RTO 情报",

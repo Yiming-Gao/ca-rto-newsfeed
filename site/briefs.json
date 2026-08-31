@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-08-30",
+    "date_label": "2026年8月30日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 最新状态仍为8月27日送交 engrossing/enrolling；尚未显示已送达 Governor，也没有签署或否决记录。Caltrans 与 Sacramento 各部门现行四天 RTO、telework 和豁免安排因此暂未改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】本周高热讨论认为，2026年的办公室体验比疫情前更僵化：员工提到更严格的到岗时间、micromanagement、安静空间不足，以及回办公室后仍主要通过 Teams 协作；这是跨部门个人体验，并非统一政策。https://www.reddit.com/r/CAStateWorkers/comments/1vx5732/office_work_pre_2019_felt_better_than_rto_in_2026/",
+      "【Reddit热议】AB 1729 通过 Legislature 后，社区把焦点转向 Governor 是否签署，并提醒即使两院高票通过也不等于一定成法；在正式行动前，四天 RTO 仍继续，员工不应自行改变到岗安排。https://www.reddit.com/r/CAStateWorkers/comments/1w0v89q/ab_1729_passed_celebrate_but_stay_ready/",
+      "【Reddit热议】strike school 后的讨论继续把 telework 与工资并列为潜在集体行动诉求，但目前社区帖并不能替代 SEIU 的正式 strike vote 或行动通知；任何停工安排应只以 union 官方渠道为准。https://www.reddit.com/r/CAStateWorkers/comments/1w1pdjy/faq_for_upcoming_strike/",
+      "【官方】州审计报告仍是 telework 讨论的重要依据：报告认为一刀切政策可能限制节省办公空间与通勤成本的机会，并记录旧 dashboard 曾显示大量通勤时间、燃油和员工费用节省。https://www.auditor.ca.gov/reports/2024-118/"
+    ],
+    "hot_topics": [
+      "AB 1729 尚在 engrossing/enrolling，等待送达 Governor。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "办公室空间不足与 micromanagement 仍是 RTO 热点。https://www.reddit.com/r/CAStateWorkers/comments/1vx5732/office_work_pre_2019_felt_better_than_rto_in_2026/",
+      "社区关注签署或否决风险，现行到岗规则未变。https://www.reddit.com/r/CAStateWorkers/comments/1w0v89q/ab_1729_passed_celebrate_but_stay_ready/",
+      "telework 与工资同时进入 strike 准备讨论。https://www.reddit.com/r/CAStateWorkers/comments/1w1pdjy/faq_for_upcoming_strike/",
+      "审计报告继续支撑办公室成本与通勤节省论点。https://www.auditor.ca.gov/reports/2024-118/"
+    ],
+    "summary": "周日无新的 RTO 政策变化，焦点仍是 AB 1729 文书进度、办公室实际体验及 union 后续正式行动。"
+  },
+  {
     "date": "2026-08-29",
     "date_label": "2026年8月29日",
     "title": "今日 CA State Worker RTO 情报",

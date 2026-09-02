@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-01",
+    "date_label": "2026年9月1日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】截至今晚，AB 1729 状态仍为8月27日通过 Senate 后在 Assembly 办理 engrossing/enrolling，尚未显示送达 Governor；法案也不直接保证固定居家天数，因此 Caltrans 与 Sacramento 各部门现行 RTO、hoteling 和豁免安排暂未自动改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 昨日在 Sacramento 的 May Lee State Office Complex 举行合同活动，官方活动页把公平合同与持续组织列为主轴；社区转发则明确把扩大 telework 机会、工资及福利共同列为现场诉求。https://www.seiu1000.org/2026contract-events/",
+      "【Reddit热议】DDS 员工称个人工位垃圾桶被改为集中收集，且一名原定7时上班的员工因经理无法更早到办公室，被提前一天通知改为8时；这引发 AWS、托儿、公共交通与 carpool 安排能否被临时改变的争论，尚无 DDS 官方统一说明。https://www.reddit.com/r/CAStateWorkers/comments/1w3klb1/dds_rto_now_were_talking_trash_cans/",
+      "【Reddit热议】员工在 Legislature 会期结束后把注意力转向 strike 授权与合同谈判；高赞回复称 union 仍需正式发起投票并留出约一个月收票。当前没有正式 strike 日期，员工不应把 Reddit 时间表当作行动通知。https://www.reddit.com/r/CAStateWorkers/comments/1w4e41k/so_what_happens_now_legislation_is_over/",
+      "【Reddit热议】另一讨论提醒，telework 虽持续出现在 union 信息中，但线下活动参与度可能影响谈判优先级；回复称工资与 telework 不必二选一，且多家 union 已通过 PERB 路线挑战 RTO。https://www.reddit.com/r/CAStateWorkers/comments/1vzv0km/went_to_a_union_event_yesterday_surprised_to_see/"
+    ],
+    "hot_topics": [
+      "AB 1729 尚在 enrolling，现行四天 RTO 未变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "May Lee 合同活动继续把 telework 与工资福利并列。https://www.seiu1000.org/2026contract-events/",
+      "DDS 的集中垃圾桶与临时改工时引发工作条件争论。https://www.reddit.com/r/CAStateWorkers/comments/1w3klb1/dds_rto_now_were_talking_trash_cans/",
+      "strike 授权流程升温，但尚无正式投票或日期。https://www.reddit.com/r/CAStateWorkers/comments/1w4e41k/so_what_happens_now_legislation_is_over/",
+      "会员参与度与 telework 谈判优先级继续受关注。https://www.reddit.com/r/CAStateWorkers/comments/1vzv0km/went_to_a_union_event_yesterday_surprised_to_see/"
+    ],
+    "summary": "今天没有新的 statewide RTO 变更，焦点是 AB 1729 文书进度、DDS 现场管理问题及 union 下一阶段组织。"
+  },
+  {
     "date": "2026-08-31",
     "date_label": "2026年8月31日",
     "title": "今日 CA State Worker RTO 情报",

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-09-02",
+    "date_label": "2026年9月2日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 页面新增9月1日 Enrolled Date，说明立法文书已完成送签准备；SEIU Local 1000 表示下一站是 Governor 办公室，最迟9月30日可签署、允许不签而生效或否决。法案尚未生效，Caltrans 与 Sacramento 各部门当前 RTO、hoteling 和豁免安排今天没有自动变化。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 已把行动重点改为要求 Governor 支持 AB 1729，并重申 telework 仍在合同谈判和 PERB 程序中；其方案包括由部门证明无法远程履职、免费停车、通勤补贴及清洁工位，但这些目前都是诉求，并非已获批准的福利。https://www.seiu1000.org/rto/",
+      "【Reddit热议】社区继续讨论 enrolled 与正式送达 Governor 的区别，以及9月30日前可能签署、否决或不签生效；高赞回复支持继续施压，但也担心最后一刻否决。具体法律状态仍应以 LegInfo 为准。https://www.reddit.com/r/CAStateWorkers/comments/1w0rj10/ab1729_not_quite_at_the_desk/",
+      "【Reddit热议】员工提醒，法案推进不等于现有四天 RTO 立即撤回，union 合同谈判与现场参与仍决定 telework 保护力度；讨论中工资与 telework 是否应并列优先继续有分歧。https://www.reddit.com/r/CAStateWorkers/comments/1vzv0km/went_to_a_union_event_yesterday_surprised_to_see/"
+    ],
+    "hot_topics": [
+      "AB 1729 已显示9月1日 enrolled，等待 Governor 处理。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "SEIU 将电话行动转向 Governor，并继续走合同与 PERB 路线。https://www.seiu1000.org/rto/",
+      "社区关注9月30日期限与可能的最后一刻否决。https://www.reddit.com/r/CAStateWorkers/comments/1w0rj10/ab1729_not_quite_at_the_desk/",
+      "现行四天 RTO 未因 enrolled 自动改变。https://www.reddit.com/r/CAStateWorkers/comments/1vzv0km/went_to_a_union_event_yesterday_surprised_to_see/"
+    ],
+    "summary": "今天的关键变化是 AB 1729 完成 enrolled，但现行 RTO 仍维持，下一阶段焦点转向 Governor 与 union 谈判。"
+  },
+  {
     "date": "2026-09-01",
     "date_label": "2026年9月1日",
     "title": "今日 CA State Worker RTO 情报",

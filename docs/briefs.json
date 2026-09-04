@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-09-03",
+    "date_label": "2026年9月3日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 已通过全部 Legislature 程序并送达 Governor 办公室；SEIU Local 1000 确认 Governor 最迟9月30日可签署、允许不签而生效或否决。法案目前仍未生效，因此 Caltrans 与 Sacramento 各部门现行四天 RTO、hoteling 和豁免安排今天没有自动变化。https://www.seiu1000.org/rto/",
+      "【Reddit热议】今日高赞行动帖要求员工致电或通过 Governor 门户支持 AB 1729，并建议用服务效率、人才留任、闲置办公空间成本及实际工位问题说明四天 RTO 的影响；评论区已有多人称已提交，但这只是倡议，不代表签署结果。https://www.reddit.com/r/CAStateWorkers/comments/1w679ov/93_ab_1729_state_telework_bill_update_governors/",
+      "【Rumor】同一帖子作者称与 Downtown Sacramento Partnership 会谈后的个人理解是，对方承认 hybrid work 可能长期存在，州员工客流也不是 downtown 困境的长期解法；其更关注州政府如何缩减和协调办公面积。该说法尚非 Partnership 正式政策。https://www.reddit.com/r/CAStateWorkers/comments/1w679ov/93_ab_1729_state_telework_bill_update_governors/",
+      "【官方】SEIU 的 telework 路线仍同时包括 AB 1729、PERB 案与合同谈判；官网方案继续要求州方证明岗位为何不能全时远程，并提出免费停车、通勤补贴及清洁且足够的办公空间。上述谈判项目尚未成为已批准福利。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "AB 1729 已到 Governor 办公室，9月30日是处理期限。https://www.seiu1000.org/rto/",
+      "社区行动转向致电和线上留言支持签署。https://www.reddit.com/r/CAStateWorkers/comments/1w679ov/93_ab_1729_state_telework_bill_update_governors/",
+      "Sacramento downtown 讨论开始转向长期办公面积策略。https://www.reddit.com/r/CAStateWorkers/comments/1w679ov/93_ab_1729_state_telework_bill_update_governors/",
+      "PERB 与合同谈判仍是独立的 telework 战线。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天的关键节点是 AB 1729 正式到达 Governor 办公室，但现行 RTO 仍维持，行动焦点转为争取签署。"
+  },
+  {
     "date": "2026-09-02",
     "date_label": "2026年9月2日",
     "title": "今日 CA State Worker RTO 情报",

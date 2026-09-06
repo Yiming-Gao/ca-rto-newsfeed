@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-09-05",
+    "date_label": "2026年9月5日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】LegInfo 已明确记录：AB 1729 于9月4日下午4点正式送达 Governor，当前状态为 Active Bill - Enrolled。现在等待签署、不签生效或否决；在结果公布前，Caltrans 与 Sacramento 各部门现行四天 RTO、hoteling 和豁免安排不会自动改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】今天的新帖迅速升温，员工一面期待签署，一面提醒即使此前取得两院三分之二票数，Governor 仍可能否决，Legislature 也未必安排推翻否决。社区情绪不能预测结果，正式状态仍应以 LegInfo 为准。https://www.reddit.com/r/CAStateWorkers/comments/1w7sm1l/ab_1729_update/",
+      "【官方】SEIU Local 1000 继续把 AB 1729、PERB 案与合同谈判并列为 telework 路线；官网要求员工联系 Governor 支持签署。法案若成为法律，将要求各机构就必须到办公室的独特运营需求提供详细书面说明，但不是自动恢复全时 telework。https://www.seiu1000.org/rto/",
+      "【官方】SEIU 已安排9月9日中午在 Sacramento 的 DCA HQ 举行信息纠察，Norwalk 同日也有活动。活动属于整体合同施压，telework 是公开议题之一；目前没有新的全州 RTO 暂停或 Caltrans 特别豁免公告。https://www.seiu1000.org/2026contract-events/"
+    ],
+    "hot_topics": [
+      "AB 1729 已正式送达 Governor，进入最终处理阶段。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "社区同时讨论签署希望与否决风险。https://www.reddit.com/r/CAStateWorkers/comments/1w7sm1l/ab_1729_update/",
+      "法案、PERB 与合同谈判仍是三条独立路线。https://www.seiu1000.org/rto/",
+      "9月9日 DCA HQ 信息纠察值得 Sacramento 员工关注。https://www.seiu1000.org/2026contract-events/"
+    ],
+    "summary": "今天的实质进展是 AB 1729 已正式送达 Governor，但现行四天 RTO 尚未改变。"
+  },
+  {
     "date": "2026-09-04",
     "date_label": "2026年9月4日",
     "title": "今日 CA State Worker RTO 情报",

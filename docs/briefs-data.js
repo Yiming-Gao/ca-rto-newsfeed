@@ -1,5 +1,23 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-06",
+    "date_label": "2026年9月6日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】截至周日晚间，LegInfo 对 AB 1729 的最新动作仍是9月4日下午4点送达 Governor，尚无签署或否决记录。法案虽含紧急条款，但必须成为法律后才生效；目前 Caltrans、Sacramento 各部门的四天 RTO、hoteling 与既有豁免没有自动变化。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】周末讨论把等待状态概括为签署、否决或不签而生效三种结果，也提醒 AB 1729 即使成法，也不是自动恢复全时 telework：它主要要求适合远程的岗位采用 telework，并让部门书面说明到岗的具体运营理由。https://www.reddit.com/r/CAStateWorkers/comments/1w4l5np/rto_seiu/",
+      "【Reddit热议】员工继续为9月8日晚的 SEIU Ask the Officers 电话会动员，希望追问 strike 授权、合同谈判与 RTO 诉求；评论同时指出，授权投票不等于已经确定停工日期，正式行动仍须等待 union 公告。https://www.reddit.com/r/CAStateWorkers/comments/1w4muwy/this_is_it_ask_the_officers_call_sep_8_at_630_let/",
+      "【官方】SEIU 的 RTO 页面仍把 AB 1729、PERB 程序、合同谈判和工作场所组织列为并行路线，并建议合理便利申请人先取得部门政策及 telework agreement，再联系 Member Resource Center；官网未发布新的全州暂停令或 Caltrans 专项例外。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "AB 1729 已在 Governor 手中，周末暂无新动作。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "法案若成法仍不等于自动全时 telework。https://www.reddit.com/r/CAStateWorkers/comments/1w4l5np/rto_seiu/",
+      "9月8日 SEIU 电话会聚焦 strike、合同与 RTO。https://www.reddit.com/r/CAStateWorkers/comments/1w4muwy/this_is_it_ask_the_officers_call_sep_8_at_630_let/",
+      "合理便利与 telework 争议应保留书面材料并联系 union。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "周日没有新的 RTO 政策变化；下一步看 Governor 处理 AB 1729，以及 SEIU 是否启动正式 strike 授权程序。"
+  },
+  {
     "date": "2026-09-05",
     "date_label": "2026年9月5日",
     "title": "今日 CA State Worker RTO 情报",

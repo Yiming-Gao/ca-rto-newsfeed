@@ -1,5 +1,23 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-07",
+    "date_label": "2026年9月7日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】截至周一晚间，LegInfo 对 AB 1729 的最新记录仍是9月4日下午4点送达 Governor，尚无签署或否决动作。法案未生效前，Caltrans 与 Sacramento 各部门现行四天 RTO、hoteling 及既有豁免不会自动改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Rumor】有员工称其部门此前延后 rank-and-file 四天到岗，但将于9月8日开始执行；回复点名 DSS，却没有部门通知可供核实。明早受影响员工应以本部门书面通知、telework agreement 和 union 答复为准。https://www.reddit.com/r/CAStateWorkers/comments/1w6f4ig/any_other_departments_coming_back_4_days_starting/",
+      "【Reddit热议】最新排班讨论显示，员工为避开通勤拥堵与抢免费街边车位而提前到岗，但更早出门又牵动睡眠和家庭安排。该帖没有提出全州新规则，却集中反映 Sacramento 四天 RTO 下停车、工时弹性与通勤成本仍是日常痛点。https://www.reddit.com/r/CAStateWorkers/comments/1w8351s/schedule_rant/",
+      "【Reddit热议】社区继续为9月8日晚6:30的 SEIU Ask the Officers 电话会动员，要求明确 strike 授权、合同与 RTO 路线；讨论也提醒，电话会或授权投票本身都不等于已经确定停工日期，正式行动须看 union 公告。https://www.reddit.com/r/CAStateWorkers/comments/1w4muwy/this_is_it_ask_the_officers_call_sep_8_at_630_let/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍待 Governor 处理，现行 RTO 未变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "部分延后部门据报9月8日开始四天到岗。https://www.reddit.com/r/CAStateWorkers/comments/1w6f4ig/any_other_departments_coming_back_4_days_starting/",
+      "Sacramento 通勤、停车与排班弹性持续受关注。https://www.reddit.com/r/CAStateWorkers/comments/1w8351s/schedule_rant/",
+      "9月8日 SEIU 电话会将聚焦 strike、合同与 RTO。https://www.reddit.com/r/CAStateWorkers/comments/1w4muwy/this_is_it_ask_the_officers_call_sep_8_at_630_let/"
+    ],
+    "summary": "今天没有新的全州 RTO 政策变化；明日重点是延后部门实际落地情况及 SEIU 是否公布更明确的行动步骤。"
+  },
+  {
     "date": "2026-09-06",
     "date_label": "2026年9月6日",
     "title": "今日 CA State Worker RTO 情报",

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-09-08",
+    "date_label": "2026年9月8日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】截至周二晚间，AB 1729 仍显示为 Active Bill - Enrolled；最新动作仍是9月4日下午4点送达 Governor，尚无签署或否决记录。法案未生效前，Caltrans 与 Sacramento 各部门现行四天 RTO、hoteling 及既有豁免不会自动改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】SEIU Local 1000 今晚6:30举行 Ask the Officers 电话会，社区要求管理层说明合同谈判、telework 和 strike 授权的下一步。帖子反响强烈，但参会或讨论授权不等于已宣布停工，后续应以 union 正式公告为准。https://www.reddit.com/r/CAStateWorkers/comments/1w4muwy/this_is_it_ask_the_officers_call_sep_8_at_630_let/",
+      "【官方】SEIU 明日中午12点至1点将在 Sacramento 的 DCA HQ 举行信息纠察；Norwalk 同日上午也有活动。官网把活动定位为整体合同施压，telework 是当前公开诉求之一，但目前没有新的全州 RTO 暂停或 Caltrans 专项例外。https://www.seiu1000.org/2026contract-events/",
+      "【Reddit热议】Sacramento 员工继续讨论四天到岗后的停车负担：有帖子称 S 与 O 街部分原免费车位改为收费，附近停车时限和价格也有变化。具体路段与费率应查当天标牌，但讨论显示通勤及停车成本仍是 RTO 的高频痛点。https://www.reddit.com/r/CAStateWorkers/comments/1w4euf2/well_it_happened/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍待 Governor 处理，现行 RTO 未变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "今晚 SEIU officers call 聚焦合同、telework 与 strike。https://www.reddit.com/r/CAStateWorkers/comments/1w4muwy/this_is_it_ask_the_officers_call_sep_8_at_630_let/",
+      "明日 DCA HQ 信息纠察值得 Sacramento 员工关注。https://www.seiu1000.org/2026contract-events/",
+      "停车收费与通勤成本继续引发讨论。https://www.reddit.com/r/CAStateWorkers/comments/1w4euf2/well_it_happened/"
+    ],
+    "summary": "今天没有新的全州 RTO 政策变化；近期观察点是 SEIU 行动结果与 Governor 对 AB 1729 的处理。"
+  },
+  {
     "date": "2026-09-07",
     "date_label": "2026年9月7日",
     "title": "今日 CA State Worker RTO 情报",

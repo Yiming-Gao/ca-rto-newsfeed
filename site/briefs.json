@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-09-09",
+    "date_label": "2026年9月9日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 的不公平劳工行为罢工授权投票今天正式开放，会员可投票至10月7日；官网称投票针对州方涉嫌未诚信谈判，telework 是合同诉求之一。授权通过并不等于立即停工，日期与范围仍须等待 union 正式通知。https://www.seiu1000.org/strikevote/",
+      "【官方】Sacramento 的 DCA HQ 今天中午举行信息纠察，地点为 1625 N Market Blvd HQ1；活动要求公平合同。它属于施压行动，不是罢工，也未宣布暂停 DCA、Caltrans 或其他部门的四天 RTO。https://www.seiu1000.org/event/dlc-781-dca-informational-picket/",
+      "【官方】截至周三晚间，AB 1729 仍为 Active Bill - Enrolled，最新动作仍是9月4日下午4点送达 Governor，尚无签署或否决记录。法案未成为法律前，现行 RTO、hoteling、办公室安排和既有豁免不会自动改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【Reddit热议】罢工投票启动后，社区集中争论加薪与 telework 的优先级，以及是否接受三天到岗等折中方案；这些都是会员个人判断，并非谈判结果。Caltrans Maintenance 等并非全部由 SEIU 代表，员工应先确认自己的 bargaining unit。https://www.reddit.com/r/CAStateWorkers/comments/1wbc454/what_does_everyone_think_the_final_outcome_will/",
+      "【Reddit热议】另一讨论询问仍可居家工作的部门员工是否会参与声援，回复强调潜在行动不只围绕 RTO，也涉及薪酬和州方谈判行为。是否有资格投票、是否受行动覆盖，应以所属 union 的正式指引为准。https://www.reddit.com/r/CAStateWorkers/comments/1wc22cp/will_you_support_the_strike_if_working_from_home/"
+    ],
+    "hot_topics": [
+      "SEIU 罢工授权投票已开放，截止10月7日。https://www.seiu1000.org/strikevote/",
+      "DCA HQ 今日信息纠察属于合同施压，并非停工。https://www.seiu1000.org/event/dlc-781-dca-informational-picket/",
+      "AB 1729 仍待 Governor 处理，现行 RTO 未变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "会员正讨论加薪、telework 与三天到岗折中。https://www.reddit.com/r/CAStateWorkers/comments/1wbc454/what_does_everyone_think_the_final_outcome_will/",
+      "远程员工是否参与声援成为新焦点。https://www.reddit.com/r/CAStateWorkers/comments/1wc22cp/will_you_support_the_strike_if_working_from_home/"
+    ],
+    "summary": "今天的实质进展是 SEIU 罢工授权投票启动；RTO 政策本身仍未改变，AB 1729 继续等待 Governor 处理。"
+  },
+  {
     "date": "2026-09-08",
     "date_label": "2026年9月8日",
     "title": "今日 CA State Worker RTO 情报",

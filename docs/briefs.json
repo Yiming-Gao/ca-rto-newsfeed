@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-09-10",
+    "date_label": "2026年9月10日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 截至今晚仍显示已于9月4日下午4点送交 Governor，尚无签署或否决记录；Governor 可在9月30日前处理。法案目前不会自动改变 Caltrans、Sacramento 各部门的四天 RTO、hoteling 或既有豁免安排。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 的不公平劳工行为罢工授权投票继续进行，会员投票期为9月9日至10月7日；telework、薪资与医疗成本均在合同诉求中。授权通过不代表次日停工，目前没有公布罢工日期。https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】当天的 AB 1729 提醒帖呼吁继续向 Governor 留言，并指出等待时间长短本身不代表签署或否决倾向；帖子也建议员工同时通过各自 union 推动灵活 telework。此为倡议帖，不是官方进度公告。https://www.reddit.com/r/CAStateWorkers/comments/1wcmp7x/910_ab_1729_telework_bill_reminder_governors/",
+      "【Reddit热议】一名未具名部门员工称，本周开始按2/3轮换到岗后，管理层取消接送孩子等时间弹性，引发同事加入 union 并参与投票。该个案反映执行摩擦，但未证实为 Caltrans 或全州统一规则。https://www.reddit.com/r/CAStateWorkers/comments/1wczbsj/my_dept_heads_and_executive_staff_just_pushed_me/",
+      "【Reddit热议】社区讨论罢工声援时，对能否用假期、哪些岗位受保护出现分歧；原帖随后提醒员工不要依据 Reddit 自行停工或请假，应先核对所属 union 的正式通知和合同。https://www.reddit.com/r/CAStateWorkers/comments/1wcn9wt/fight_the_good_fight/"
+    ],
+    "hot_topics": [
+      "AB 1729 今日仍待 Governor 处理。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "SEIU 投票持续至10月7日，尚无罢工日期。https://www.seiu1000.org/2026contract/",
+      "社区继续组织致电 Governor 催签 telework 法案。https://www.reddit.com/r/CAStateWorkers/comments/1wcmp7x/910_ab_1729_telework_bill_reminder_governors/",
+      "2/3到岗轮换中的零弹性管理引发不满。https://www.reddit.com/r/CAStateWorkers/comments/1wczbsj/my_dept_heads_and_executive_staff_just_pushed_me/",
+      "罢工或请假规则须以所属 union 指引为准。https://www.reddit.com/r/CAStateWorkers/comments/1wcn9wt/fight_the_good_fight/"
+    ],
+    "summary": "今天没有新的 RTO 政策变化；焦点仍是 AB 1729 催签、SEIU 投票及部门执行弹性。"
+  },
+  {
     "date": "2026-09-09",
     "date_label": "2026年9月9日",
     "title": "今日 CA State Worker RTO 情报",

@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-11",
+    "date_label": "2026年9月11日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 截至周五晚间仍为 Active Bill - Enrolled，最新动作仍是9月4日下午4点送达 Governor，尚无签署或否决记录。结果公布前，Caltrans 与 Sacramento 各部门现行四天 RTO、hoteling 和既有豁免不会自动改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 的不公平劳工行为罢工授权投票继续开放至10月7日；官网说明，赞成票只是授权 union 在需要时发起行动，目前没有罢工日期，参与者也不能用 vacation 或 sick leave 替代罢工损失的工资。https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】今天的新帖转发 SEIU 的 strike commitment survey，鼓励会员和非会员说明是否准备参与，评论聚焦 probation 员工对报复及工作保障的担忧。该调查用于组织评估，不是正式投票，也不代表已经决定停工。https://www.reddit.com/r/CAStateWorkers/comments/1wd1fr5/seiu_strike_survey_link/",
+      "【Reddit热议】远程员工与支持者继续讨论若未来罢工应如何报到、是否需到现场纠察，以及主管如何记录工时。现阶段应等待 union 对具体日期、适用岗位和操作步骤的书面通知，不应依据 Reddit 自行停工。https://www.reddit.com/r/CAStateWorkers/comments/1wau9y9/wfh_and_striking_confirmation/",
+      "【官方】SEIU 的 RTO 页面仍把 AB 1729、PERB 案和合同谈判列为并行路线；已公开的 telework、免费停车、通勤补贴与清洁办公空间内容仍是提案，并非 Caltrans 或全州已获批准的新福利。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍待 Governor 处理，现行 RTO 未变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "SEIU 授权投票持续至10月7日，尚无罢工日期。https://www.seiu1000.org/2026contract/",
+      "strike commitment survey 引发 probation 员工参与讨论。https://www.reddit.com/r/CAStateWorkers/comments/1wd1fr5/seiu_strike_survey_link/",
+      "远程员工应等待 union 的正式罢工操作通知。https://www.reddit.com/r/CAStateWorkers/comments/1wau9y9/wfh_and_striking_confirmation/",
+      "telework、停车和办公空间目前仍属谈判提案。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今天没有新的 RTO 政策变化；重点是 SEIU 继续投票与评估行动意愿，同时等待 AB 1729 最终处理。"
+  },
+  {
     "date": "2026-09-10",
     "date_label": "2026年9月10日",
     "title": "今日 CA State Worker RTO 情报",

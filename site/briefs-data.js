@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-13",
+    "date_label": "2026年9月13日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 截至周日晚间仍为 Active Bill - Enrolled，官方最新动作仍是9月4日下午4点送达 Governor，尚无签署或否决。结果公布前，Caltrans 与 Sacramento 各部门现行四天 RTO、hoteling 和既有豁免不会自动改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 的不公平劳工行为罢工授权投票继续至10月7日；赞成票只授权 union 在必要时行动，目前没有罢工日期。官网同时把 telework 列为合同诉求，员工应等待正式通知。https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】今天一则高热帖称发帖人新加入 union 并投下赞成票，评论显示 RTO、薪资和医疗成本正推动新会员参与。此帖只反映个人行动，不能代表整体投票率或最终结果。https://www.reddit.com/r/CAStateWorkers/comments/1weznob/union_joined_vote_done/",
+      "【Reddit热议】一则合理便利讨论今天新增主管留言，称其部门多次拒绝以 telework 作为 RA，并要求员工改用假期。相关说法尚未由部门或法院确认；个案应保留书面记录并向 union、HR 或法律顾问核实。https://www.reddit.com/r/CAStateWorkers/comments/1vpnjxr/sharing_info_confirmed_by_union_rep_illegal/",
+      "【官方】SEIU 已安排9月15日晚间 Ask the Officers Call，议题包括 strike vote、telework、RTO 与合同准备。该活动是答疑和组织会议，不是罢工通知，也未改变任何部门的到岗安排。https://www.seiu1000.org/event/ask-the-officers-calls-strike-vote/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍待 Governor 处理，现行 RTO 未变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "新会员加入并投票的热帖升温。https://www.reddit.com/r/CAStateWorkers/comments/1weznob/union_joined_vote_done/",
+      "telework RA 拒绝争议继续出现新个案。https://www.reddit.com/r/CAStateWorkers/comments/1vpnjxr/sharing_info_confirmed_by_union_rep_illegal/",
+      "9月15日官方答疑将讨论 RTO 与 strike vote。https://www.seiu1000.org/event/ask-the-officers-calls-strike-vote/"
+    ],
+    "summary": "今天 RTO 政策未变；焦点是工会投票动员、telework RA 争议及9月15日官方答疑。"
+  },
+  {
     "date": "2026-09-12",
     "date_label": "2026年9月12日",
     "title": "今日 CA State Worker RTO 情报",

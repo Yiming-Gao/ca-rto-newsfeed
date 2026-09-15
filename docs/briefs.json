@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-14",
+    "date_label": "2026年9月14日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 截至周一晚间仍为 Active Bill - Enrolled；官方最新动作仍是9月4日下午4点送达 Governor，尚无签署或否决。结果公布前，Caltrans 与 Sacramento 各部门现行四天 RTO、hoteling 和既有豁免不会自动改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 的不公平劳工行为罢工授权投票继续至10月7日；赞成票只授权 union 在必要时行动，目前没有罢工日期。官网仍把 telework 列为合同诉求，员工应以正式通知为准。https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】今天高热讨论询问四天 RTO 会否降回两天。回复分歧明显：有人预期 telework 将进入合同谈判，也有人认为各部门会维持现状；这些均为个人预测，不是 CalHR、Caltrans 或 union 决定。https://www.reddit.com/r/CAStateWorkers/comments/1wgbxtp/what_do_you_realistically_think_is_waiting_for_us/",
+      "【Reddit热议】同一讨论把办公室容量与排班联系起来：有评论认为两天到岗更适合共享工位，三天或四天可能需要固定座位；这反映 hoteling 实务担忧，但没有新的全州空间标准或 Caltrans 指令。https://www.reddit.com/r/CAStateWorkers/comments/1wgbxtp/what_do_you_realistically_think_is_waiting_for_us/",
+      "【官方】SEIU 已安排9月15日晚6:30 Ask the Officers Call，说明 strike vote、telework、RTO 和合同准备；官方称投票期间将每周举办。该会议是答疑和动员，不是罢工通知。https://www.seiu1000.org/event/ask-the-officers-calls-strike-vote/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍待 Governor 处理，现行 RTO 未变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "员工热议四天到岗能否通过谈判降至两天。https://www.reddit.com/r/CAStateWorkers/comments/1wgbxtp/what_do_you_realistically_think_is_waiting_for_us/",
+      "共享工位容量成为 RTO 预测中的争议点。https://www.reddit.com/r/CAStateWorkers/comments/1wgbxtp/what_do_you_realistically_think_is_waiting_for_us/",
+      "9月15日晚官方答疑将讨论 RTO 与 strike vote。https://www.seiu1000.org/event/ask-the-officers-calls-strike-vote/"
+    ],
+    "summary": "今天没有新的 RTO 政策变化；焦点是四天到岗的谈判前景、办公空间及明晚 union 答疑。"
+  },
+  {
     "date": "2026-09-13",
     "date_label": "2026年9月13日",
     "title": "今日 CA State Worker RTO 情报",

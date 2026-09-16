@@ -1,5 +1,23 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-15",
+    "date_label": "2026年9月15日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 今晚仍显示已完成誊录、待州长处理，最新动作是9月4日下午4点送达州长；页面尚未列出签署或否决。今天未查到可确认的 Caltrans 新排班或全州豁免调整，不能把法案推进当作到岗要求已改变。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 今晚6:30—7:30安排领导答疑，主题为不公平劳工行为罢工投票及本地参与方式。会员投票期为9月9日至10月7日；截至本简报整理时，尚无已核实的今晚会议结果，不据此推定远程办公谈判已有突破。https://www.seiu1000.org/event/ask-the-officers-calls-strike-vote/ https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】昨天的四天 RTO 前景帖今天继续出现留言：有人称办公室干扰使效率下降，也有人认为业务已数字化、没有必要频繁到岗。讨论呈现员工体验与士气问题，并非部门绩效统计，也未提供共享工位或办公室容量的新正式安排。https://www.reddit.com/r/CAStateWorkers/comments/1wgbxtp/what_do_you_realistically_think_is_waiting_for_us/",
+      "【Reddit热议】近期合理便利申请帖延续至今天：发帖人称已向 SEIU 建议考虑集体诉讼，回应因四天 RTO 被拒的远程办公申请。这只是员工倡议与自述，未见该帖提供已立案或工会决定起诉的证明，不能写成诉讼已启动。https://www.reddit.com/r/CAStateWorkers/comments/1we47fh/action_recommended_to_ra_ees_who_are_dealing_with/"
+    ],
+    "hot_topics": [
+      "AB 1729 继续等待州长动作。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "今晚工会答疑聚焦罢工投票，会议结论待核实。https://www.seiu1000.org/event/ask-the-officers-calls-strike-vote/",
+      "返岗干扰与数字化业务需求成为员工争论焦点。https://www.reddit.com/r/CAStateWorkers/comments/1wgbxtp/what_do_you_realistically_think_is_waiting_for_us/",
+      "合理便利申请争议升温，集体诉讼仍属员工建议。https://www.reddit.com/r/CAStateWorkers/comments/1we47fh/action_recommended_to_ra_ees_who_are_dealing_with/"
+    ],
+    "summary": "今天未确认新的 RTO 政策变化，重点继续看法案处理、工会正式消息与合理便利争议。"
+  },
+  {
     "date": "2026-09-14",
     "date_label": "2026年9月14日",
     "title": "今日 CA State Worker RTO 情报",

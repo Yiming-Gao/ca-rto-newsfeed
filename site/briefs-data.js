@@ -1,5 +1,23 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-16",
+    "date_label": "2026年9月16日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 的法案页今天仍列为已送交州长、待处理；最近动作是9月4日送达，尚无签署或否决记录。它不会因送达而立即改变 Caltrans 或各部门现行到岗安排。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 今天在 Sacramento 的 VCGC、DCA 和 EDD 等办公点安排不公平劳工行为罢工授权投票活动。会员投票至10月7日；工会 FAQ 仍称未定罢工日期，telework 是合同诉求之一。https://www.seiu1000.org/events/2026-09-16/ https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】今日有员工称远程办公补贴到账约15美元；回帖认为四天到岗后可能从居家为主改列办公室为主，所见金额还受扣税影响。这是个人工资单讨论，不能据此认定所有谈判单位统一减薪，应核对本人协议和工资明细。https://www.reddit.com/r/CAStateWorkers/comments/1wi9kzf/stipend/",
+      "【Reddit热议】社区新帖询问 Caltrans 何时搬至 May Lee State Office Complex，以及搬迁后停车如何受影响；帖内尚无可靠时间表。另有工会成员发帖称9月23日将在该园区举行午间信息纠察，仍待工会正式渠道核实活动细节。https://www.reddit.com/r/CAStateWorkers/new/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍待州长决定。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "Sacramento 多处办公点今天举行工会投票活动。https://www.seiu1000.org/events/2026-09-16/",
+      "四天到岗后的补贴分类与税后金额引发讨论。https://www.reddit.com/r/CAStateWorkers/comments/1wi9kzf/stipend/",
+      "Caltrans 搬迁时间及 May Lee 园区停车仍待确认。https://www.reddit.com/r/CAStateWorkers/new/"
+    ],
+    "summary": "今天没有确认新的 RTO 指令，重点关注法案结果、工会投票及补贴和办公空间的实际影响。"
+  },
+  {
     "date": "2026-09-15",
     "date_label": "2026年9月15日",
     "title": "今日 CA State Worker RTO 情报",

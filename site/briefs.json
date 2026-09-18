@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-09-17",
+    "date_label": "2026年9月17日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 法案页截至今晚仍列为已送交州长，最新记录是9月4日送达；尚无签署或否决。法案当前状态未改变 Caltrans 或其他部门的到岗安排。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 今天在 Sacramento 的 PERS 办公点安排不公平劳工行为罢工授权投票说明会；工会把 telework 列为合同诉求。投票不等于已经决定罢工，也没有宣布新的 RTO 协议。https://www.seiu1000.org/event/unfair-practice-strike-vote-meeting-pers-400-q-st-lp-north-aka-400-p-st-sacramento/ https://www.seiu1000.org/2026contract/",
+      "【Rumor】Reddit 新帖称 Caltrans PMP HQ 可能于年底搬入 May Lee State Office Complex，评论担忧停车位不足；尚未见 Caltrans 书面搬迁日期或停车方案，不能按此安排通勤。https://www.reddit.com/r/CAStateWorkers/comments/1wj1tpy/unofficially_official_may_lee/",
+      "【Reddit热议】今天的合同讨论集中在四天 RTO 的通勤成本、办公室内仍用 Teams 开会，以及能否通过法案或谈判恢复更多 telework。帖内的两天或三天预测只是个人意见，并非政策调整。https://www.reddit.com/r/CAStateWorkers/comments/1witrwf/california_state_workers_contract/"
+    ],
+    "hot_topics": [
+      "AB 1729 仍待州长决定。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "Sacramento 的 SEIU 投票活动持续推进。https://www.seiu1000.org/event/unfair-practice-strike-vote-meeting-pers-400-q-st-lp-north-aka-400-p-st-sacramento/",
+      "Caltrans 搬迁与 May Lee 停车压力尚待正式确认。https://www.reddit.com/r/CAStateWorkers/comments/1wj1tpy/unofficially_official_may_lee/",
+      "四天到岗与薪资谈判继续引发员工讨论。https://www.reddit.com/r/CAStateWorkers/comments/1witrwf/california_state_workers_contract/"
+    ],
+    "summary": "今天未见已确认的新 RTO 指令，继续关注法案、工会投票和 Caltrans 搬迁通知。"
+  },
+  {
     "date": "2026-09-16",
     "date_label": "2026年9月16日",
     "title": "今日 CA State Worker RTO 情报",

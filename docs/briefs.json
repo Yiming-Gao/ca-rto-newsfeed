@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-18",
+    "date_label": "2026年9月18日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】截至今晚，AB 1729 状态仍为已送交州长，最新记录是9月4日送达；未见签署或否决记录。今天没有可据此确认的全州到岗天数调整，Caltrans 员工仍需查看本部门正式通知。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 罢工授权投票持续至10月7日，官网说明结果要等投票结束后公布，目前没有罢工日期。远程办公仍是合同重点诉求，但授权投票不是新协议，也不代表已经恢复更多居家办公日。https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】近期 SEIU／CAPS 讨论关注：若 SEIU 谈出远程办公改善，其他工会能否受益。回复对后续谈判及声援行动看法不一，不能把网友预测当成跨谈判单位自动适用的安排；具体权利应查各自工会通知。https://www.reddit.com/r/CAStateWorkers/comments/1wiczi7/seiucaps/",
+      "【Reddit热议】萨克拉门托员工近期询问哪些市中心部门自带停车场，并提及退休系统办公点停车需排队；帖子反映四天到岗后的停车需求，不是可用车位清单，也没有部门公布新增名额的证据。https://www.reddit.com/r/CAStateWorkers/comments/1wi65u0/downtown_locations_with_parking/",
+      "【Reddit热议】社区活动帖预告9月23日11时至13时在梅李州办公园区门前举行信息纠察，由 SEIU 地方分会782／784组织。该帖是动员信息，活动细节仍宜向分会确认；不能解读为当天正式罢工通知。https://www.reddit.com/r/CAStateWorkers/new/"
+    ],
+    "hot_topics": [
+      "法案仍待州长决定，尚无新的签署记录。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "罢工授权投票期间不公布中途结果。https://www.seiu1000.org/2026contract/",
+      "跨工会远程办公改善能否联动仍属讨论。https://www.reddit.com/r/CAStateWorkers/comments/1wiczi7/seiucaps/",
+      "市中心停车排队与园区午间动员受到关注。https://www.reddit.com/r/CAStateWorkers/new/"
+    ],
+    "summary": "今天未确认新的 RTO 政策变化，继续留意法案结果、工会正式通知和办公点通勤安排。"
+  },
+  {
     "date": "2026-09-17",
     "date_label": "2026年9月17日",
     "title": "今日 CA State Worker RTO 情报",

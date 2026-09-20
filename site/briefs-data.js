@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-19",
+    "date_label": "2026年9月19日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】今晚核查 AB 1729，法案状态仍为已送交州长，最近动作是9月4日送达，页面未列签署或否决。不能把法案通过议会视为远程办公安排已经改变；Caltrans 及其他部门员工仍需以正式排班通知为准。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】SEIU Local 1000 官网仍列罢工授权投票期为9月9日至10月7日，尚未确定罢工日期。远程办公是合同谈判议题之一；赞成票授权工会决定是否行动，并不等于已达成新的到岗天数协议。https://www.seiu1000.org/2026contract/",
+      "【Rumor】近期 Caltrans 搬迁帖有回复称，部分项目管理人员可能在12月迁入梅李州办公园区；也有人称尚未收到书面通知。帖子未提供可核验的正式时间表，且讨论指向部分团队，不能扩展为整个部门搬迁。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/",
+      "【Reddit热议】同一搬迁讨论集中担心园区停车更紧张、办公室更拥挤，有人呼吁只让确需现场工作的岗位到岗。这些是员工意见，帖内未见新增车位、共享工位预约或豁免安排的正式方案。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/",
+      "【Reddit热议】近期社区劝留帖提到，有人因 RTO、管理及部门问题考虑离职；发帖者以长期求职经历提醒先评估外部就业机会。这是个人经验，不能据此推断全州离职率。本次社区页面存在缓存延迟，不将这些讨论写成今日新事件。https://www.reddit.com/r/CAStateWorkers/comments/1wiejjg/friendly_advice/"
+    ],
+    "hot_topics": [
+      "法案是否签署，继续看州长处理记录。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "工会投票仍在进行，正式罢工日期未定。https://www.seiu1000.org/2026contract/",
+      "Caltrans 部分团队搬迁传闻与园区停车压力。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/",
+      "RTO 引发去留讨论，个人经历不代表就业统计。https://www.reddit.com/r/CAStateWorkers/comments/1wiejjg/friendly_advice/"
+    ],
+    "summary": "今天未核实到新的 RTO 政策变化，重点仍是法案结果、工会通知与 Caltrans 书面搬迁安排。"
+  },
+  {
     "date": "2026-09-18",
     "date_label": "2026年9月18日",
     "title": "今日 CA State Worker RTO 情报",

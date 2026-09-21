@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-20",
+    "date_label": "2026年9月20日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】重要更正：AB 1729 已于9月18日被州长否决，立法官网现标为已否决法案；此前简报的‘仍待州长决定’已过时。该法案没有生效，不能据此认定 Caltrans 或其他部门已获得新的远程办公安排。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】州长9月18日的立法公告也将 AB 1729 列入否决清单，确认这不是社区传闻。对下周到岗而言，法案进展并未提供新的减免依据；本轮核查未找到新的全州到岗天数调整通知。https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-legislative-update-9-18-26/",
+      "【官方】SEIU Local 1000 罢工授权投票仍为9月9日至10月7日，官网明确尚未设定罢工日期。远程办公仍属合同议题；法案被否决、会员投票与工会正式宣布行动是不同事项，不能把网上号召当成罢工通知。https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】否决后的讨论转向议会能否推翻否决、能否通过合同争取远程办公，以及其他工会如何跟进。回复对可行性和时间判断分歧明显，目前只是员工主张和预测，未见已确定的新协议或议会行动。https://www.reddit.com/r/CAStateWorkers/comments/1wk8j7l/with_ab_1729_being_vetoed_what_happens_next/",
+      "【Reddit热议】另一帖集中质疑部门是否真正提供到岗豁免，有人称问不到书面政策，也有人反映合理便利申请遇阻。这些个案尚未独立核实，不能推断所有部门统一拒绝；本期讨论取自近日帖子，不冒充今天新增事件。https://www.reddit.com/r/CAStateWorkers/comments/1wkpfoa/rto_veto_union/"
+    ],
+    "hot_topics": [
+      "法案已否决，旧简报待批状态需按最新记录理解。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "罢工授权投票继续，具体行动日期仍未公布。https://www.seiu1000.org/2026contract/",
+      "合同争取远程办公与跨工会后续成为焦点。https://www.reddit.com/r/CAStateWorkers/comments/1wk8j7l/with_ab_1729_being_vetoed_what_happens_next/",
+      "豁免执行和书面政策透明度受到质疑。https://www.reddit.com/r/CAStateWorkers/comments/1wkpfoa/rto_veto_union/"
+    ],
+    "summary": "今天重点是更正法案状态：AB 1729 已遭否决，后续关注工会正式通知和部门书面安排。"
+  },
+  {
     "date": "2026-09-19",
     "date_label": "2026年9月19日",
     "title": "今日 CA State Worker RTO 情报",

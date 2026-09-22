@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-21",
+    "date_label": "2026年9月21日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】AB 1729 已遭否决，法案官网状态未变。今天有帖转述 SEIU Local 1000 的社媒声明，称下一立法周期将再推远程办公法案；尚未核实工会原帖，也没有新法案或 Caltrans 到岗调整。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.reddit.com/r/CAStateWorkers/comments/1wmq5gb/seiu_update_on_vetoed_ab1729_the_bill_will_be/",
+      "【官方】SEIU Local 1000 继续举行不公平劳工行为罢工授权投票，投票至10月7日；官网说结果要等结束后公布，尚未指定罢工日。工会仍把远程办公列为合同诉求。https://www.seiu1000.org/2026contract/",
+      "【官方】工会活动表列有9月23日的信息纠察活动。它属于合同宣传和动员，不能视作全州停工通知；参加者应核对活动页面的地点和时间。https://www.seiu1000.org/2026contract-events/",
+      "【Reddit热议】今天的 AB 1729 帖集中讨论否决后的路径：有人主张推动议会推翻否决，有人认为应先参与工会投票、争取合同条款。两种路线都只是讨论，目前没有已生效的新 telework 保障。https://www.reddit.com/r/CAStateWorkers/comments/1wmcw6q/ab_1729_update_92126_governor_newsom_vetoes/",
+      "【Reddit热议】另一帖把四天到岗带来的油费、停车费和通勤时间列为主要负担，并讨论罢工能否争取更多远程办公日。这些是员工体验和主张，不能推断各部门即将放宽 RTO。https://www.reddit.com/r/CAStateWorkers/comments/1wmkwdu/ab_1729_vetoed_state_workers_have_had_enough/"
+    ],
+    "hot_topics": [
+      "工会称下一立法周期再推远程办公法案，具体文本待公布。https://www.reddit.com/r/CAStateWorkers/comments/1wmq5gb/seiu_update_on_vetoed_ab1729_the_bill_will_be/",
+      "罢工授权投票持续至10月7日，尚无罢工日期。https://www.seiu1000.org/2026contract/",
+      "9月23日信息纠察的安排以工会活动页为准。https://www.seiu1000.org/2026contract-events/",
+      "否决后的议会与合同路线仍在社区讨论。https://www.reddit.com/r/CAStateWorkers/comments/1wmcw6q/ab_1729_update_92126_governor_newsom_vetoes/"
+    ],
+    "summary": "今日没有已确认的新 RTO 指令；重点看工会后续公告与各部门书面到岗安排。"
+  },
+  {
     "date": "2026-09-20",
     "date_label": "2026年9月20日",
     "title": "今日 CA State Worker RTO 情报",

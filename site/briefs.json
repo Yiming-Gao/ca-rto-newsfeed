@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-22",
+    "date_label": "2026年9月22日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】AB 1729 官网仍记载9月18日遭州长否决，今天没有新的法案生效进展。远程办公立法路线尚未带来到岗天数变化，不能把社区呼吁推翻否决当成已获批准的政策。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729",
+      "【官方】明日工会行动有具体安排：SEIU Local 1000 列出9月23日中午12时至1时在尤里卡交通部门、Union街1656号举行信息纠察；萨克拉门托另有9月25日公路巡警部门投票说明会。均不是正式罢工通知。https://www.seiu1000.org/2026contract-events/",
+      "【官方】罢工授权投票仍至10月7日，工会明确尚未设定罢工日期，结果将在投票结束后公布。远程办公仍列为合同诉求，但没有已谈妥的新安排可供各部门直接执行。https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】今天 AB 1729 讨论串出现具体工位方案：有员工主张每周两天到岗配合共享工位，把协作与居家专注工作分开，认为四天到岗挤压专注时间。这是个人建议，并非萨克拉门托部门已采用的新标准。https://www.reddit.com/r/CAStateWorkers/comments/1wmcw6q/ab_1729_update_92126_governor_newsom_vetoes/",
+      "【Reddit热议】Caltrans 招聘讨论延续至今天，有评论称所在团队离职后补员有限，担忧 RTO 与待遇影响留人；也有人归因预算和未来项目量。各说法仅反映局部观察，不能据此断言全州招聘冻结或官方以 RTO 裁员。https://www.reddit.com/r/CAStateWorkers/comments/1wm07ql/where_have_all_the_caltrans_jobs_gone/"
+    ],
+    "hot_topics": [
+      "明日尤里卡交通部门信息纠察，时间地点已列于工会官网。https://www.seiu1000.org/2026contract-events/",
+      "两天到岗加共享工位的折中方案，仍属员工提议。https://www.reddit.com/r/CAStateWorkers/comments/1wmcw6q/ab_1729_update_92126_governor_newsom_vetoes/",
+      "Caltrans 补员与留人压力：区分团队经验和全州政策。https://www.reddit.com/r/CAStateWorkers/comments/1wm07ql/where_have_all_the_caltrans_jobs_gone/",
+      "授权投票不等于已经宣布停工，结果尚待投票结束。https://www.seiu1000.org/2026contract/"
+    ],
+    "summary": "今日重点是明日工会行动及共享工位讨论；本轮未核实到新的 Caltrans 到岗或豁免通知。"
+  },
+  {
     "date": "2026-09-21",
     "date_label": "2026年9月21日",
     "title": "今日 CA State Worker RTO 情报",

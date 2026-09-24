@@ -1,5 +1,22 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-23",
+    "date_label": "2026年9月23日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 官网列出今天中午12时至1时在尤里卡交通部门举行信息纠察，明日另有斯托克顿医疗监狱活动。这是公布的活动安排，本轮未取得现场人数或谈判成果，不能写成已迫使州政府调整 RTO。https://www.seiu1000.org/contract-action-center/",
+      "【Reddit热议】萨克拉门托园区的预告帖将今天11时至13时列为梅·李州办公园区门前的信息纠察时段，由两个工会分会动员参加。预告鼓励会员登记并在午休参加，诉求集中在集体谈判；不能据此判断各部门已经批准改变正常出勤，也不能把园区活动当成全州统一安排。本轮只能核实预告，尚无现场回顾；宣传行动与正式罢工须分开看待。https://www.reddit.com/r/CAStateWorkers/comments/1wi0epe/join_us_on_9232026_at_mlsoc/",
+      "【Rumor】近期 Caltrans 搬迁帖有人称部分项目管理人员可能12月迁入梅·李园区，也有人说尚未收到书面通知。同串还出现办公室拥挤、争抢停车位的抱怨，以及希望无需现场工作的岗位保留远程安排的主张；这些只是员工体验和建议。范围、时间及停车影响均未获部门文件确认，不能扩大为整个 Caltrans 搬迁或新的共享工位政策。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/",
+      "【官方】AB 1729 状态仍为9月18日遭州长否决，未见后续生效进展。工会问答也仍写明尚未设定罢工日期；本轮未核实到 Caltrans 新的到岗天数或豁免通知，现有讨论不能视为远程办公已恢复。https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1729 https://www.seiu1000.org/contract-action-center/"
+    ],
+    "hot_topics": [
+      "园区纠察：关注后续现场回顾，预告不等于活动成果。https://www.reddit.com/r/CAStateWorkers/comments/1wi0epe/join_us_on_9232026_at_mlsoc/",
+      "Caltrans 搬迁与停车压力：十二月说法仍待书面核实。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/",
+      "罢工日期仍未公布，下一步看工会正式通知。https://www.seiu1000.org/contract-action-center/"
+    ],
+    "summary": "今日重点是工会行动安排；社区页面有缓存延迟，搬迁传闻与 RTO 政策变化均需继续核实。"
+  },
+  {
     "date": "2026-09-22",
     "date_label": "2026年9月22日",
     "title": "今日 CA State Worker RTO 情报",

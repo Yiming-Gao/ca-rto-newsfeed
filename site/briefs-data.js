@@ -1,5 +1,22 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-24",
+    "date_label": "2026年9月24日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】今日核实：SEIU Local 1000 已在9月18日声明中明确表示，将于明年立法周期重新提出远程办公法案。AB 1729 本轮已遭否决；重新提案是工会计划，尚不代表新法案通过或当前 RTO 安排改变。https://www.seiu1000.org/rto/",
+      "【官方】工会日历列出今天帕顿州立医院的信息纠察及鹈鹕湾州立监狱的罢工授权投票会议；行动中心另列斯托克顿医疗监狱清晨5时至下午3时纠察。这里只确认公布的安排，未取得参与人数、投票结果或谈判突破，授权投票也不等于已经开始罢工。https://www.seiu1000.org/events/ https://www.seiu1000.org/contract-action-center/",
+      "【Reddit热议】近期法案否决讨论转向明年重新提案、工会政治支持及会员行动。一部分留言质疑仅靠立法能否带来改变；这些是社区意见，不能当作新的谈判结果。重提计划现可由工会官网独立核实，但具体新条文仍待公布。https://www.reddit.com/r/CAStateWorkers/comments/1wmq5gb/seiu_update_on_vetoed_ab1729_the_bill_will_be/",
+      "【Rumor】Caltrans 梅·李园区搬迁帖仍有部分人员可能12月迁入、停车及办公空间紧张的说法。本轮未找到部门文件确认搬迁范围、共享工位分配或新增豁免，不能据此推断所有萨克拉门托员工的到岗安排。本帖属于近期讨论，并非今日新增通知。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/"
+    ],
+    "hot_topics": [
+      "明年重提远程办公法案：关注正式文本与时间表。https://www.seiu1000.org/rto/",
+      "纠察与授权投票：后续看工会公布结果。https://www.seiu1000.org/events/",
+      "搬迁、停车和工位：仍需 Caltrans 书面确认。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/"
+    ],
+    "summary": "今日重点是确认工会下一轮立法计划；社区抓取有延迟，未核实到新的全州 RTO 放宽通知。"
+  },
+  {
     "date": "2026-09-23",
     "date_label": "2026年9月23日",
     "title": "今日 CA State Worker RTO 情报",

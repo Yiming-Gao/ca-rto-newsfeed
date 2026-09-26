@@ -1,5 +1,22 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-25",
+    "date_label": "2026年9月25日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 日历列出今天萨克拉门托公路巡警部门的两场罢工授权投票说明会，时间为11时15分和12时15分，地点在北七街601号。这里只确认官网安排，尚未取得现场回顾或投票结果；说明会不代表已经启动罢工。https://www.seiu1000.org/2026contract-events/",
+      "【官方】下一轮说明会排在9月29日：萨克拉门托消防部门有两场午间会议，湾区交通部门在 Grand 大道111号于中午举行。工会问答仍表示未设定罢工日期；授权投票与正式行动通知必须分开看，也不能据此判断远程办公条款已经谈妥。https://www.seiu1000.org/2026contract-events/ https://www.seiu1000.org/contract-action-center/",
+      "【官方】远程办公立法暂无新突破：工会最新声明仍是9月18日公布 AB 1729 遭否决，并计划明年重新提出。官网同时说明，谈判取得的远程办公条款须经过临时协议及会员批准；本轮未核实到新的全州到岗天数调整或统一豁免。https://www.seiu1000.org/rto/",
+      "【Reddit热议】近期 Caltrans 梅·李园区搬迁帖继续反映员工对搬迁时间和停车容量的担忧。帖子本身是询问，不能当作部门通知；本轮未取得可确认人员范围、共享工位配置及搬迁日期的文件，也不能据此认定整个部门将同步迁入。社区列表仍显示上周缓存，以上不是今日新增爆料。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/"
+    ],
+    "hot_topics": [
+      "今日说明会：后续关注工会现场回顾与正式结果。https://www.seiu1000.org/2026contract-events/",
+      "下周交通部门会议：关注9月29日湾区场次安排。https://www.seiu1000.org/2026contract-events/",
+      "停车与共享工位：搬迁讨论仍需部门书面信息佐证。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/"
+    ],
+    "summary": "今日重点是工会说明会及下周安排，尚无已核实的 RTO 放宽新通知。"
+  },
+  {
     "date": "2026-09-24",
     "date_label": "2026年9月24日",
     "title": "今日 CA State Worker RTO 情报",

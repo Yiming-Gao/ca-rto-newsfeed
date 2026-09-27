@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-09-26",
+    "date_label": "2026年9月26日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】今日核查，SEIU Local 1000 首页仍标明罢工授权投票于10月7日结束。行动中心说明结果须待投票结束后公布，尚未设定罢工日期；目前不能把动员、授权投票或筹备会议理解为已经发出停工通知。https://www.seiu1000.org/ https://www.seiu1000.org/contract-action-center/",
+      "【官方】行动中心现列出10月6日18时30分至19时30分的工会领导答疑，并注明日期调整；另列10月13日晚的行动团队负责人线上简报及14日晚的区域负责人会议。议题包括潜在罢工的现场组织与会员须知，这些是后续筹备安排，不是罢工启动日期。https://www.seiu1000.org/contract-action-center/",
+      "【官方】远程办公法案方面，工会最新声明仍为9月18日公布 AB 1729 遭否决、计划明年重新提出。本轮未核实到新的全州 RTO 放宽或统一豁免；工会网页仍说明，谈判取得的远程办公条款须经过临时协议及会员批准后生效。https://www.seiu1000.org/rto/",
+      "【Reddit热议】近期弹性排班帖有人分享信息技术团队采用早6时至14时30分等班表，反映员工对更早上下班的兴趣。这只是个人经验，不能推定其他部门也允许，更不代表减少到岗天数；本次社区页面仍显示上周缓存，不能称为今日新政策。https://www.reddit.com/r/CAStateWorkers/comments/1wi9vbf/6230_pm_schedule/",
+      "【Reddit热议】Caltrans 梅·李园区搬迁询问仍集中在时间表和停车压力。本轮未取得部门正式搬迁范围、共享工位配置或停车分配通知；讨论只能作为待核实线索，不能据此判断萨克拉门托各单位的实际安排。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/"
+    ],
+    "hot_topics": [
+      "投票与行动：关注10月7日截止后的正式公告。https://www.seiu1000.org/",
+      "工会答疑：留意10月6日调整后的会议时间。https://www.seiu1000.org/contract-action-center/",
+      "早班与到岗：团队经验不等于统一远程办公豁免。https://www.reddit.com/r/CAStateWorkers/comments/1wi9vbf/6230_pm_schedule/"
+    ],
+    "summary": "今日重点是核对工会十月日程，尚无已核实的 RTO 执行新变化。"
+  },
+  {
     "date": "2026-09-25",
     "date_label": "2026年9月25日",
     "title": "今日 CA State Worker RTO 情报",

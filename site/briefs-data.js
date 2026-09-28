@@ -1,5 +1,22 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-27",
+    "date_label": "2026年9月27日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】周日核查，SEIU Local 1000 远程办公页面最新声明仍为9月18日：AB 1729 已遭否决，工会计划明年重新提出。今日未核实到新的全州到岗天数调整或统一豁免；重提承诺不能视为现行出勤要求已经暂停。https://www.seiu1000.org/rto/",
+      "【官方】下周二9月29日，工会列出萨克拉门托地区消防部门两场罢工授权投票说明会，分别于11时15分、12时15分开始；湾区交通部门场次为中午12时，地点在格兰德大道111号。这是预告安排，尚无会议结果，也不等于正式停工通知。https://www.seiu1000.org/2026contract-events/",
+      "【Reddit热议】近期补贴帖有人询问远程办公补贴为何实领约15美元，留言将其与办公地点类别改变、税前税后差异联系起来。以上仅为个人账单及网友解释，未核实其所属谈判单位和薪资项目，不能据此宣布全州补贴统一降至15美元。https://www.reddit.com/r/CAStateWorkers/comments/1wi9kzf/stipend/",
+      "【Reddit热议】Caltrans 梅·李园区搬迁讨论仍聚焦何时迁入及停车压力。本轮未取得部门正式时间表、共享工位分配或新增豁免文件；搬迁范围和实际到岗安排仍待书面确认。社区列表及补贴帖显示上周缓存，以上均为近期话题回顾，不冒充今日新增消息。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/"
+    ],
+    "hot_topics": [
+      "补贴核对：区分税前金额、实领金额与办公类别，个案不代表统一标准。https://www.reddit.com/r/CAStateWorkers/comments/1wi9kzf/stipend/",
+      "下周说明会：关注9月29日交通与消防部门场次及后续公告。https://www.seiu1000.org/2026contract-events/",
+      "停车与工位：Caltrans 搬迁仍需正式通知确认，暂无已核实新安排。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/"
+    ],
+    "summary": "今日以补贴疑问及下周工会日程为主，未核实到新的 RTO 执行变化。"
+  },
+  {
     "date": "2026-09-26",
     "date_label": "2026年9月26日",
     "title": "今日 CA State Worker RTO 情报",

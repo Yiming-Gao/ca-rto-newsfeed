@@ -1,5 +1,22 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-09-29",
+    "date_label": "2026年9月29日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CAPS-UAW 的 RTO 案听证通知列明，9月28、29日及10月1、2日上午10时安排视频听证。案件涉及工会指控州政府对每周四天到岗等事项拒绝实质谈判；今天属于排定听证日，但本轮未取得庭审结果，不能写成撤销 RTO 的裁决。通知还要求旁听者保持静音，不得在咖啡馆等公共场所参加，也禁止未经许可的二次录音录像或直播。https://capsscientists.org/wp-content/uploads/2026/09/CAPS-UAW-PERB-Case-No.-SA-CE-2347-S-Member-Information.pdf",
+      "【Reddit热议】今日罢工讨论出现明显拉扯：有人主张不行动会削弱对州政府的压力，也有留言转述同事虽反对 RTO，却因承受不起收入损失而投反对票。这是社区意见及二手个案，不是正式票数，也不能代表所有员工或工会成员立场。社区新帖列表存在缓存延迟，本条采用可检索到的当日帖子，未将旧列表当作实时全貌。https://www.reddit.com/r/CAStateWorkers/comments/1wtjas6/not_striking_lets_newsom_and_calhr_off_the_hook/",
+      "【官方】SEIU Local 1000 仍明确授权投票截至10月7日，结果将在投票结束后公布，尚未设定罢工日期。远程办公仍是合同诉求之一；授权、实际发动行动与达成新合同是不同阶段，今日没有据此确认到岗要求改变。https://www.seiu1000.org/2026contract/",
+      "【官方】远程办公页面最新立法声明仍为9月18日：AB 1729 遭否决，工会计划明年重提。免费停车、充足办公空间仍列为提案；本轮未核实到 Caltrans 新搬迁时间表、萨克拉门托共享工位新规或新增统一豁免。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "听证日期：后续场次是10月1、2日，勿把论坛标题理解为每天连续开庭。https://capsscientists.org/wp-content/uploads/2026/09/CAPS-UAW-PERB-Case-No.-SA-CE-2347-S-Member-Information.pdf",
+      "行动成本：反对 RTO 与能否承担停工损失，在今日讨论中并非同一问题。https://www.reddit.com/r/CAStateWorkers/comments/1wtjas6/not_striking_lets_newsom_and_calhr_off_the_hook/",
+      "票数与传言：正式结果须等投票结束，论坛态度不能代替工会公告。https://www.seiu1000.org/2026contract/"
+    ],
+    "summary": "今日重点是 RTO 听证安排与罢工成本分歧，尚无已核实的到岗规则新变化。"
+  },
+  {
     "date": "2026-09-28",
     "date_label": "2026年9月28日",
     "title": "今日 CA State Worker RTO 情报",

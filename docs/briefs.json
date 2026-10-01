@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-09-30",
+    "date_label": "2026年9月30日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 公布9月29日州公共雇佣关系委员会发出的投诉文件，指控州人事部门拖延回应经济提案、拒绝提出有意义的还价等。文件涉及新合同谈判，属于指控进入程序，并非最终认定违法，更不是撤销四天 RTO 的命令。https://www.seiu1000.org/wp-content/uploads/2026/09/Sep29_2026PERBComplaintIssued_Redacted.pdf",
+      "【Reddit热议】今日员工收到工会邮件后追问“案件推进意味着什么”，留言又提到 CAPS-UAW 的 RTO 听证，显示不同案件容易混淆。论坛对可能影响的推测不能当作裁决；核对时应区分工会、案号与争议事项。https://www.reddit.com/r/CAStateWorkers/comments/1wud69t/perb_moves_unfair_practice_charge_forward/",
+      "【Reddit热议】今日另一新帖把 RTO 不满与薪级升至顶档后的收入预期联系起来，反映通勤负担下的薪资焦虑。帖子关于年资待遇的概括未逐一核实，不能推广至所有谈判单位；本轮新帖列表有缓存延迟，采用可检索到的当日帖子。https://www.reddit.com/r/CAStateWorkers/comments/1wueico/rto_suks/",
+      "【官方】罢工授权投票仍于10月7日结束，工会尚未设定罢工日期，也不在投票期间公布结果。远程办公继续列为合同诉求；新投诉、授权投票和实际停工是不同步骤，目前不能据此认定出勤安排改变。https://www.seiu1000.org/2026contract/",
+      "【官方】远程办公页面最新立法声明仍为9月18日：AB 1729 遭否决，工会计划明年重提。免费停车、足够工位及清洁安排仍属提案；今日未核实到 Caltrans 或萨克拉门托部门新增共享工位规则、统一豁免或搬迁通知。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "案件辨别：先核对投诉内容，勿把程序推进当作 RTO 胜诉。https://www.seiu1000.org/2026contract/",
+      "收入压力：顶档薪资与到岗成本引发员工讨论。https://www.reddit.com/r/CAStateWorkers/comments/1wueico/rto_suks/",
+      "工位与停车：工会诉求尚不等于已落实的部门福利。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今日重点是新合同谈判投诉推进，尚无已核实的 RTO 到岗规则调整。"
+  },
+  {
     "date": "2026-09-29",
     "date_label": "2026年9月29日",
     "title": "今日 CA State Worker RTO 情报",

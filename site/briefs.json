@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-01",
+    "date_label": "2026年10月1日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】今日“是否因 RTO 离职”帖子把焦点转向内部流动：有人自述换到离家更近的岗位，也有人称提前退休或转去私营部门。发帖者强调，留在州政府体系内不代表原团队没有流失；这些匿名个案不能证明全州离职率上升，也不能代替正式人员统计。https://www.reddit.com/r/CAStateWorkers/comments/1wv28kd/has_anyone_left_working_for_the_state_or_knows_of/",
+      "【Reddit热议】另一当日帖子集中讨论四天到岗与收入压力叠加后的疲惫感。发帖员工称身心负担已影响工作之外的生活，希望尽快有明确结果以决定去留。讨论反映参与者情绪，并非所有部门员工的代表性调查，也没有提供新的远程办公通知。https://www.reddit.com/r/CAStateWorkers/comments/1wunutv/how_is_everyone_honestly_feeling_at_this_point/",
+      "【官方】SEIU Local 1000 仍列明罢工授权投票于10月7日结束，结果在投票结束后公布，目前尚未设定罢工日期。远程办公仍是合同谈判诉求；授权投票、真正发动罢工及谈妥新条款属于不同阶段，不能把论坛对结果的猜测当作正式公告。https://www.seiu1000.org/2026contract/",
+      "【官方】工会远程办公页面最新立法声明仍为9月18日：AB 1729 遭否决，计划明年重提。免费停车、充足工位与定期深度清洁仍列为提案。本轮未核实到 Caltrans 或萨克拉门托部门新增统一豁免、共享工位安排或搬迁日期，具体到岗仍需核对部门现行通知。停车和工位诉求是否落实、个人豁免是否获批，都需要分别确认，不能从其他部门的留言直接推定。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "人员留任：全州总人数与单个团队的转岗、经验流失须分开看。https://www.reddit.com/r/CAStateWorkers/comments/1wv28kd/has_anyone_left_working_for_the_state_or_knows_of/",
+      "员工疲惫：通勤与收入压力成为今日情绪讨论主线。https://www.reddit.com/r/CAStateWorkers/comments/1wunutv/how_is_everyone_honestly_feeling_at_this_point/",
+      "投票倒计时：10月7日截止，尚无正式罢工日期。https://www.seiu1000.org/2026contract/"
+    ],
+    "summary": "今日重点是 RTO 下的人员流动与疲惫感，尚无已核实的到岗规则新调整。"
+  },
+  {
     "date": "2026-09-30",
     "date_label": "2026年9月30日",
     "title": "今日 CA State Worker RTO 情报",

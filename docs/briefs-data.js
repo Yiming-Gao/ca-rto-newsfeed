@@ -1,5 +1,23 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-10-03",
+    "date_label": "2026年10月3日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】10月2日通勤讨论称，四天到岗后的车流冲击似乎低于部分员工预期，但发帖者同时感到公众对州雇员通勤成本和时间损失缺乏理解。该帖反映参与者体验，既不能量化全州交通变化，也不能证明 RTO 已获普遍支持或反对。https://www.reddit.com/r/CAStateWorkers/comments/1ww0y2q/commuter_traffic_rto/",
+      "【官方】CalHR 当前 RTO 资源页仍写明州长命令要求每周至少四天到办公室，实施日期已延至2026年7月1日；页面同时提示应向本部门查询具体到岗和支持安排。该页面没有发布10月3日新的全州天数、Caltrans 豁免或共享工位规则。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 的合同页面仍列罢工授权投票于10月7日截止，结果待投票结束后公布，尚无正式罢工日期。远程办公是谈判诉求之一；即使授权通过，也只是授予行动权限，并不会自动恢复远程办公或暂停部门 RTO。https://www.seiu1000.org/2026contract/",
+      "【官方】工会 RTO 页面仍将 AB 1729 被否决、计划明年重提列为最新立法进展；免费停车、足够工位与深度清洁仍是谈判/倡议事项，并非已普遍兑现的待遇。本轮未核实到 Sacramento 部门或 Caltrans 发布新的统一排班、搬迁或例外通知。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "通勤体感：留意车流与停车成本，但不要把单帖当作全州数据。https://www.reddit.com/r/CAStateWorkers/comments/1ww0y2q/commuter_traffic_rto/",
+      "部门执行：四天框架不等于每个办公室已有相同工位和排班细则。https://benefits.calhr.ca.gov/rto/",
+      "工会节点：10月7日是授权投票截止日，不是已宣布罢工日。https://www.seiu1000.org/2026contract/",
+      "立法状态：AB 1729 已被否决，后续重提仍须经过新一轮程序。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今日重点是通勤压力与投票倒计时，尚无已确认的全州 RTO 新调整。"
+  },
+  {
     "date": "2026-10-02",
     "date_label": "2026年10月2日",
     "title": "今日 CA State Worker RTO 情报",

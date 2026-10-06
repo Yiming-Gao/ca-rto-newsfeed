@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-05",
+    "date_label": "2026年10月5日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】10月1日的高讨论帖把焦点放在 RTO 后的“内部流失”：帖主认为，全州在职人数没有明显减少，并不能说明原团队未受影响；员工可能为缩短通勤、争取更多 telework 或晋升而转往其他部门。该说法是社区提出的观察框架，不是人员统计，不能据此认定 Caltrans 或任何萨克拉门托部门已出现普遍离职潮。https://www.reddit.com/r/CAStateWorkers/comments/1wv28kd/has_anyone_left_working_for_the_state_or_knows_of/",
+      "【官方】CalHR 的2026年 RTO 资源页仍以每周至少四天到办公室为州级框架，并提示员工同主管或部门确认弹性安排、停车和福利选项。本轮未见该页公布10月5日新的全州到岗天数、Caltrans 豁免标准或 hoteling/共享工位规则；具体排班不能从其他部门经验直接套用。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 的合同页面仍列不公平劳动行为罢工授权投票于10月7日截止，结果将在投票结束后公布，尚未宣布罢工日期。远程办公仍属谈判诉求；即使授权获通过，也只是赋予行动权限，不会自动暂停各部门现行 RTO 或让旧 telework agreement 自动恢复。https://www.seiu1000.org/2026contract/",
+      "【官方】工会 RTO 页面最新立法说明仍是 AB 1729 已遭否决、拟在明年重提；免费停车、充足工位和定期深度清洁继续属于倡议或谈判要求，而非普遍已落实待遇。今日未核实到 Caltrans 或 Sacramento 部门发布新的统一搬迁、共享桌位、停车或例外通知；个人应保存本单位书面排班和主管答复。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "内部流动：留在州系统不等于原团队没有因 RTO 损失人员。https://www.reddit.com/r/CAStateWorkers/comments/1wv28kd/has_anyone_left_working_for_the_state_or_knows_of/",
+      "部门细则：四天州级框架下，排班、停车与弹性安排仍要问本单位。https://benefits.calhr.ca.gov/rto/",
+      "投票节点：10月7日截止，授权结果不等于已经宣布罢工。https://www.seiu1000.org/2026contract/",
+      "办公条件：停车、工位和清洁诉求尚不能当作既有福利。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今日应关注 RTO 对团队内部流动的影响，并等待投票结束后的正式工会通知。"
+  },
+  {
     "date": "2026-10-03",
     "date_label": "2026年10月3日",
     "title": "今日 CA State Worker RTO 情报",

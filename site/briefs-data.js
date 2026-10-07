@@ -1,5 +1,24 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-10-06",
+    "date_label": "2026年10月6日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】10月4日持续更新的讨论把焦点放在四天到岗后的下一步：有人认为合同或立法可能争取更多 telework，也有人担心最终会被推向五天到岗。帖内还有管理层口头提及明年可能五天的说法；这不是部门书面通知，不能当作 Caltrans、萨克拉门托单位或全州的新规则。https://www.reddit.com/r/CAStateWorkers/comments/1wgbxtp/what_do_you_realistically_think_is_waiting_for_us/",
+      "【Reddit热议】10月1日关于重返全远程的高讨论帖显示，部分员工已接受多数工作日到办公室，但仍把更长通勤、疲惫和生活安排受影响列为核心问题。回复中对短期恢复全远程普遍不乐观；这反映参与者感受和预期，不是生产力、离职率或政策走向的正式统计。https://www.reddit.com/r/CAStateWorkers/comments/1wur9mj/any_hope_of_going_back_to_full_time_wfh/",
+      "【官方】CalHR 的2026年 RTO 支持页仍以州级每周至少四天到办公室为框架，并提示员工与主管讨论弹性工作安排、停车和福利选择。本轮未见该页发布10月6日新的到岗天数、Caltrans 豁免标准、共享工位或 hoteling 规则；个人排班仍应以本部门书面通知为准。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 合同页面仍写明不公平劳动行为罢工授权投票明天10月7日截止，结果在投票结束后公布，尚未宣布罢工日期。远程办公仍是谈判诉求；投票授权、实际行动和达成新合同是不同阶段，不能据此认定现行 RTO 已暂停或 telework agreement 自动恢复。https://www.seiu1000.org/2026contract/",
+      "【官方】Caltrans 官网的福利页仍说明 telework 取决于具体工作要求和主管裁量。该通用说明并非新增例外，也不替代部门排班、工位或停车通知；本轮未核实到 Caltrans 发布新的统一 RTO、搬迁或共享桌位安排。https://dot.ca.gov/programs/human-resources/benefits"
+    ],
+    "hot_topics": [
+      "明日节点：10月7日是授权投票截止日，不是已宣布罢工日。https://www.seiu1000.org/2026contract/",
+      "五天到岗说法：目前仅见论坛转述，等待部门书面通知。https://www.reddit.com/r/CAStateWorkers/comments/1wgbxtp/what_do_you_realistically_think_is_waiting_for_us/",
+      "通勤与疲惫：员工仍将其视为继续争取 telework 的主要理由。https://www.reddit.com/r/CAStateWorkers/comments/1wur9mj/any_hope_of_going_back_to_full_time_wfh/",
+      "Caltrans 细则：telework 仍取决于岗位和主管，勿把通用页面当豁免批准。https://dot.ca.gov/programs/human-resources/benefits"
+    ],
+    "summary": "今日重点是授权投票截止前的预期管理；尚无已核实的全州或 Caltrans RTO 新调整。"
+  },
+  {
     "date": "2026-10-05",
     "date_label": "2026年10月5日",
     "title": "今日 CA State Worker RTO 情报",

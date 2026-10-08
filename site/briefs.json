@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-07",
+    "date_label": "2026年10月7日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 不公平劳动行为罢工授权投票今天10月7日截止。官网仍明确未设罢工日期；即使授权通过，也只是让工会可按内部程序再决定是否行动，不会自动暂停各部门现行 RTO 或恢复旧 telework agreement。https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】今日高讨论帖把焦点放在 RTO 后的“内部流失”：参与者称有人为较短通勤、更多 telework 或晋升换队、转部门或转私营。此为匿名个案和观点，不是 Caltrans、萨克拉门托部门或全州离职统计；团队知识流失与全州人数是否稳定应分开看。https://www.reddit.com/r/CAStateWorkers/comments/1wv28kd/has_anyone_left_working_for_the_state_or_knows_of/",
+      "【官方】CalHR 的2026年 RTO 支持页仍写明每周至少四天到办公室，并建议查看本部门通勤、停车和具体指引。该页今天未发布新的到岗天数、Caltrans 豁免标准或 hoteling/共享工位规则；个人排班仍以本单位书面通知为准。https://benefits.calhr.ca.gov/rto/",
+      "【官方】工会行动中心已列10月13日 CAT 线上准备会及10月14日地区线下 Strike Captain/Leader 会议，内容是潜在行动的组织准备，不是罢工启动公告。官网也说明如有行动会明确通知州方和会员；目前没有可确认的新 RTO 实施变更。https://www.seiu1000.org/contract-action-center/",
+      "【官方】工会 RTO 页面与 CalHR 资源页均未显示今天新增的 Caltrans 搬迁、萨克拉门托停车、办公空间或统一例外措施。停车和工位问题仍应逐项向部门人事或主管确认，勿把其他单位经验当成通行规则。https://www.seiu1000.org/rto/ https://benefits.calhr.ca.gov/rto/"
+    ],
+    "hot_topics": [
+      "投票截止：今天结束不等于今晚就会有罢工或 RTO 改变。https://www.seiu1000.org/2026contract/",
+      "内部流动：转岗、晋升与离开州服务是不同统计口径。https://www.reddit.com/r/CAStateWorkers/comments/1wv28kd/has_anyone_left_working_for_the_state_or_knows_of/",
+      "部门执行：停车、排班和工位请核对本单位书面指引。https://benefits.calhr.ca.gov/rto/",
+      "后续节点：关注工会对投票结果及行动日期的正式通知。https://www.seiu1000.org/contract-action-center/"
+    ],
+    "summary": "今日关键是授权投票截止；截至核查时，尚无已确认的罢工日期或全州 RTO 新调整。"
+  },
+  {
     "date": "2026-10-06",
     "date_label": "2026年10月6日",
     "title": "今日 CA State Worker RTO 情报",

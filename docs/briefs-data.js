@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-10-08",
+    "date_label": "2026年10月8日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 已宣布会员授权不公平劳动行为罢工，并定于10月21日（周三）举行一天罢工；官网明确当天参与者不报到工作。此为劳资谈判行动，不等于现行全州 RTO 已暂停、telework agreement 已恢复，部门排班仍须按书面通知执行。https://www.seiu1000.org/2026contract/",
+      "【官方】工会 FAQ 称罢工日没有工资、假期或失业金可领；其罢工基金也不以补足工资为目的。工会表示如有依法排除的岗位会直接通知相关员工，因此不要仅凭“essential”日常称谓自行判断能否参加。https://www.seiu1000.org/2026contract/",
+      "【官方】CalHR 的 RTO 支持页仍以每周至少四天到办公室、2026年7月1日实施为州级框架，并提示员工查询本部门通勤、停车及具体安排。今日未见该页发布新的全州到岗天数、Caltrans 豁免、hoteling 或共享工位规则；个人情况仍以部门书面指引为准。https://benefits.calhr.ca.gov/rto/",
+      "【Reddit热议】当前社区列表中的 Caltrans 梅·李园区（MLSOC）帖子仍在询问搬迁时间和停车影响，显示办公地点与停车容量仍是员工关注点；帖主也称未从其他园区单位得到明确时间表。这是社区求证，不是 Caltrans 正式搬迁、工位分配或 RTO 例外通知。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/",
+      "【官方】工会行动中心仍列10月13日 CAT 线上说明会及10月14日地区 Strike Captain/Leader 会议，现应按已公布的10月21日行动准备理解。活动安排不改变个别部门的停车、办公空间、合理便利或豁免流程；相关问题仍需向主管、人事或工会资源中心逐项确认。https://www.seiu1000.org/contract-action-center/"
+    ],
+    "hot_topics": [
+      "10月21日罢工：已公布为一天，参与者当天不报到工作。https://www.seiu1000.org/2026contract/",
+      "收入安排：罢工日不能使用工资、假期或失业金补偿。https://www.seiu1000.org/2026contract/",
+      "RTO 规则：州级基线仍为每周至少四天到办公室。https://benefits.calhr.ca.gov/rto/",
+      "Caltrans 办公点：MLSOC 搬迁与停车时间表仍待正式文件。https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/",
+      "组织节点：10月13日、14日为工会行动准备会议。https://www.seiu1000.org/contract-action-center/"
+    ],
+    "summary": "今日核心变化是 SEIU Local 1000 已将一天罢工定在10月21日，但这不会自动改变现行 RTO 或部门 telework 安排。"
+  },
+  {
     "date": "2026-10-07",
     "date_label": "2026年10月7日",
     "title": "今日 CA State Worker RTO 情报",

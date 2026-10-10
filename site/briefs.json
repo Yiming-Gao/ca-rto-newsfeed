@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-09",
+    "date_label": "2026年10月9日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 已把不公平劳动行为罢工定为10月21日（周三）的一天行动；官网写明参加者当天不报到工作。该行动针对工会所称的谈判不当，并不自动暂停现行 RTO、恢复旧 telework agreement 或改变 Caltrans 和各部门书面排班。https://www.seiu1000.org/strikevote/",
+      "【官方】工会最新 FAQ 说明：罢工日不能领取工资、使用假期或失业金，罢工基金也不用于替代正常工资；若有岗位被依法排除，工会会直接通知。参与资格、考勤和旅行安排不宜仅凭同事转述判断，应看工会和本部门的正式通知。https://www.seiu1000.org/strikevote/",
+      "【Reddit热议】今日社区帖子转发一封据称来自 CDPH HR 的主管邮件，称参加罢工者会被记为 AWOL；原帖未提供可独立核验的全州或 CDPH 正式公告。评论对其法律含义分歧很大；与其据此推断处分结果，员工应保存本单位通知并向工会资源中心或人事确认。https://www.reddit.com/r/CAStateWorkers/comments/1whlk4t/cdph_hr_email_states_strikes_are_always_unlawful/",
+      "【官方】CalHR RTO 支持页仍以每周至少四天到办公室、2026年7月1日实施为框架，并明确具体通勤、停车、工位和部门安排应向本部门确认。页面今天未见新的全州到岗天数、Caltrans 豁免、hoteling 或共享工位公告；不能把其他单位做法当成本单位规则。https://benefits.calhr.ca.gov/rto/",
+      "【官方】CalHR 同页提示10月9日是 2027 年福利 Open Enrollment 截止日，改动将于2027年1月1日生效。这不是 RTO 政策调整，但对因返岗重新评估通勤、托育或福利选择的员工是当日截止节点；部门级 RTO 问题仍应走主管和人事渠道。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "hot_topics": [
+      "10月21日：SEIU 已确认一天罢工，参加者当天不报到工作。https://www.seiu1000.org/strikevote/",
+      "薪资与假期：罢工日不能用工资、假期或失业金补偿。https://www.seiu1000.org/strikevote/",
+      "CDPH 邮件争议：目前是 Reddit 转发，等待可核验的部门或工会指引。https://www.reddit.com/r/CAStateWorkers/comments/1whlk4t/cdph_hr_email_states_strikes_are_always_unlawful/",
+      "RTO 基线：仍是每周至少四天；停车、工位和排班须问本部门。https://benefits.calhr.ca.gov/rto/",
+      "福利窗口：2027 年 Open Enrollment 于今日截止。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "summary": "今日重点是10月21日罢工进入执行准备期；RTO 基线未变，CDPH 考勤说法仍须以正式文件核实。"
+  },
+  {
     "date": "2026-10-08",
     "date_label": "2026年10月8日",
     "title": "今日 CA State Worker RTO 情报",

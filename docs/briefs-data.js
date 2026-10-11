@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-10-10",
+    "date_label": "2026年10月10日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 确认会员已授权不公平劳动行为罢工，并将于10月21日（周三）举行一天行动；工会称参加者当日不报到工作。这是对州方被指不当谈判的劳资行动，不能自动暂停现行 RTO、恢复旧 telework agreement，Caltrans 与各部门的日常排班仍以书面通知为准。https://www.seiu1000.org/strike/",
+      "【官方】工会今天的行动页列出 Sacramento 两阶段安排：早上在 SOS、May Lee Complex、DMV HQ、CNRA、CDE HQ 等工作点集结，随后前往 CalHR；各地另有队伍。地点和报名信息会继续更新，员工应直接核对工会页面及本单位安全、考勤和工作交接通知，不要把网络转发当作最终安排。https://www.seiu1000.org/strike/",
+      "【官方】SEIU 的合同页面说明，10月21日是一日罢工，参与者当天不报到；其 FAQ 另提示罢工日没有工资、假期或失业金可用来补偿。是否被依法排除、以及个别岗位的考勤处理，不能仅以“essential”或主管口头说法判断，应查看本部门文件并向工会资源渠道确认。https://www.seiu1000.org/2026contract/",
+      "【官方】CalHR 的 RTO 支持页仍把州级框架表述为2026年7月1日起每周至少四天到办公室，并指引员工向本部门确认通勤、停车、工位和弹性安排。本轮未见新的全州到岗天数、Caltrans 统一豁免或 hoteling/共享工位公告；其他单位的做法不能直接套用。https://benefits.calhr.ca.gov/rto/",
+      "【Reddit热议】社区新帖集中在罢工投票、CDPH HR 对罢工合法性邮件的转发，以及 RTO 后办公室协作氛围；这些讨论反映员工关切，但未构成全州政策或 Caltrans 指令。尤其考勤、AWOL、纪律与豁免问题，现无可独立核验的新统一通知，应保留书面材料并走人事、主管或工会正式渠道。https://www.reddit.com/r/CAStateWorkers/"
+    ],
+    "hot_topics": [
+      "10月21日罢工：SEIU 已确认一天行动，参与者当天不报到。https://www.seiu1000.org/2026contract/",
+      "Sacramento 集结：早上工作点、随后 CalHR 的两阶段安排已公布。https://www.seiu1000.org/strike/",
+      "收入安排：工会 FAQ 称罢工日不能用工资、假期或失业金补偿。https://www.seiu1000.org/2026contract/",
+      "RTO 基线：每周至少四天框架未变，具体工位与排班问本部门。https://benefits.calhr.ca.gov/rto/",
+      "社区争议：CDPH 考勤与罢工说法仍须以正式文件核验。https://www.reddit.com/r/CAStateWorkers/"
+    ],
+    "summary": "今日重点是10月21日罢工已进入地点与交接准备；RTO 州级基线未变，部门考勤和工位细则仍须看书面通知。"
+  },
+  {
     "date": "2026-10-09",
     "date_label": "2026年10月9日",
     "title": "今日 CA State Worker RTO 情报",

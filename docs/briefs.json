@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-11",
+    "date_label": "2026年10月11日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 确认10月21日（周三）举行一天不公平劳动行为罢工；官网称参加者当日不报到。该行动针对工会所指的不善意谈判，不会自动暂停四天 RTO、恢复旧 telework agreement，Caltrans 和各部门排班仍以书面通知为准。https://www.seiu1000.org/2026contract/",
+      "【官方】SEIU 10月8日总结称，合同谈判的会员优先事项仍包括公平薪资、医疗与“Telework that Works”；工会称州方未有意义回应提案。此为工会立场和谈判动态，不是已生效的远程办公条款，也不是部门 RTO 新指令。https://www.seiu1000.org/holding-the-line/",
+      "【官方】CalHR 资源页仍写明州级框架为2026年7月1日起每周至少四天到办公室，并提示由部门确认通勤、停车、工位和弹性安排。本轮未见新的全州到岗天数、Caltrans 统一豁免、hoteling 或共享工位公告。https://benefits.calhr.ca.gov/rto/",
+      "【官方】CalHR 的例外指引仍要求部门逐案考虑多于一天 telework 的申请；合理便利、指定异地工作及特定既有远程协议可能适用，但须看岗位和业务需要。它不是自动豁免，员工应保存申请和书面答复。https://www.calhr.ca.gov/Documents/2025-Statewide-Telework-Guidance.pdf",
+      "【Reddit热议】最新帖子围绕 RTO 后的“内部流失”：参与者自述为更短通勤、更多 telework 或晋升而换队、转部门，亦有人转私营。匿名个案不能证明全州离职率或 Caltrans 情况，却提示团队留任与全州总人数需分开看。https://www.reddit.com/r/CAStateWorkers/comments/1wv28kd/has_anyone_left_working_for_the_state_or_knows_of/"
+    ],
+    "hot_topics": [
+      "10月21日：SEIU 确认一天罢工，参加者当天不报到。https://www.seiu1000.org/2026contract/",
+      "谈判重点：telework 仍是 SEIU 所列合同优先事项。https://www.seiu1000.org/holding-the-line/",
+      "RTO 基线：每周至少四天；停车、工位和排班仍问本部门。https://benefits.calhr.ca.gov/rto/",
+      "内部流动：转岗与离开州服务不能混作同一指标。https://www.reddit.com/r/CAStateWorkers/comments/1wv28kd/has_anyone_left_working_for_the_state_or_knows_of/"
+    ],
+    "summary": "今日没有已核实的 RTO 新规；关注10月21日行动准备、部门书面排班及团队流动信号。"
+  },
+  {
     "date": "2026-10-10",
     "date_label": "2026年10月10日",
     "title": "今日 CA State Worker RTO 情报",

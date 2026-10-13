@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-10-12",
+    "date_label": "2026年10月12日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 10月9日称，CalHR 取消原定的最低安全人手（line-pass）会议并拒绝继续会谈，工会已就此另提不公平劳动行为申诉。该争议关联10月21日罢工的岗位安排，不等于全员可自行决定缺勤；被指定岗位、考勤和交接仍须看部门书面通知。https://www.seiu1000.org/2026contract/",
+      "【官方】SEIU 仍确认10月21日（周三）为一天不公平劳动行为罢工，参加者当日不报到；合同与 telework 仍是谈判重点。行动本身不会自动撤销现行四天 RTO，也不会自动恢复旧 telework agreement，Caltrans 及各部门日常排班未见新的全州统一改令。https://www.seiu1000.org/2026contract/",
+      "【官方】工会 RTO 页面记录：州方四天到办公室框架已在7月实施；CalSTA 的协商曾聚焦工位、设备、停车、通勤协助与豁免流程。最新页面未见 Caltrans/CalSTA 统一 hoteling 方案或自动豁免公告，遇到座位与设备问题应留存书面记录并向本单位确认。https://www.seiu1000.org/telework-update-calsta-june26/",
+      "【官方】AB 1729 原拟让部门按业务需求制定更透明的 telework 政策，但州长已于9月18日否决。SEIU 表示将于下一立法周期重提；因此目前它不是可要求部门改变 RTO 的有效法律依据。https://www.seiu1000.org/rto/",
+      "【Reddit热议】社区置顶讨论正转发10月21日罢工消息，评论多问及参与、最低人手和 RTO 压力。该帖可观察员工关注点，但不替代 CalHR、主管、人事或工会对个别岗位、AWOL、豁免与安全责任的正式答复。https://www.reddit.com/r/CAStateWorkers/comments/1x3fj5b/seiu_1000_unfair_labor_practice_strike_102126/"
+    ],
+    "hot_topics": [
+      "10月21日：一天罢工已确认，最低安全人手安排仍有争议。https://www.seiu1000.org/2026contract/",
+      "四天 RTO：行动不自动改变部门排班或 telework agreement。https://www.seiu1000.org/2026contract/",
+      "CalSTA/Caltrans：工位、设备、停车和豁免应走本单位书面流程。https://www.seiu1000.org/telework-update-calsta-june26/",
+      "AB 1729：已被否决，工会称下一周期将重提。https://www.seiu1000.org/rto/",
+      "Reddit：罢工参与与 RTO 压力讨论升温，不能当作政策通知。https://www.reddit.com/r/CAStateWorkers/comments/1x3fj5b/seiu_1000_unfair_labor_practice_strike_102126/"
+    ],
+    "summary": "今日重点是10月21日罢工的最低人手争议；四天 RTO 与部门书面排班仍有效。"
+  },
+  {
     "date": "2026-10-11",
     "date_label": "2026年10月11日",
     "title": "今日 CA State Worker RTO 情报",

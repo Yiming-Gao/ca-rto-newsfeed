@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-14",
+    "date_label": "2026年10月14日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 仍确认10月21日（周三）为一天不公平劳动行为罢工；参与者当天不报到。工会 FAQ 称这是受保护的集体行动，但个别部门仍可能要求使用 AWOL 等考勤代码；代码本身不等于纪律处分。员工应保存本单位书面指引。https://www.seiu1000.org/2026contract/",
+      "【官方】工会称 CalHR 取消最低安全人手（line-pass）会议并拒绝继续会谈，已于10月9日追加不公平劳动行为申诉。该争议尚未构成四天 RTO 暂停令，也未公布 Caltrans 或 Sacramento 各单位的新统一排班；被依法排除者应等直接通知。https://www.seiu1000.org/2026contract/",
+      "【官方】CalHR RTO 资源页今天仍写明州级框架为每周至少四天到办公室、原定2025年7月实施后延至2026年7月1日；停车、通勤、工位和弹性工作由部门落实。页面未见新的全州到岗天数、Caltrans 自动豁免或 hoteling 规则。https://benefits.calhr.ca.gov/rto/",
+      "【官方】CalHR 说明，符合条件者可在部门返岗日起60天内，因 RTO 新变更事由调整 FlexElect DCRA；这是一项报销账户资格窗口，并非增加 telework、合理便利或 RTO 例外。需要空间、设备或排班调整者仍应走主管、人事和既有申请程序。https://benefits.calhr.ca.gov/rto/",
+      "【Reddit热议】社区帖子继续讨论 RTO 后为较短通勤、更多 telework 或晋升而转岗的经历，也有人提醒外部就业市场疲弱。此为匿名个案，不能证明全州或 Caltrans 离职率；团队流失、内部流动与全州总人数应分别看待。https://www.reddit.com/r/CAStateWorkers/comments/1wv28kd/has_anyone_left_working_for_the_state_or_knows_of/"
+    ],
+    "hot_topics": [
+      "10月21日：一天罢工已确认；考勤代码和交接先看部门书面通知。https://www.seiu1000.org/2026contract/",
+      "最低安全人手：line-pass 争议未解，不能自行以“essential”标签判断。https://www.seiu1000.org/2026contract/",
+      "四天 RTO：州级框架未变，停车、工位和排班由单位实施。https://benefits.calhr.ca.gov/rto/",
+      "FlexElect DCRA：60天窗口是福利资格安排，不等于 telework 豁免。https://benefits.calhr.ca.gov/rto/",
+      "人员流动：Reddit 个案可提示问题，不能替代离职或空缺统计。https://www.reddit.com/r/CAStateWorkers/comments/1wv28kd/has_anyone_left_working_for_the_state_or_knows_of/"
+    ],
+    "summary": "距10月21日行动七天，RTO 四天基线未变；优先核对本单位的岗位、考勤与排班书面通知。"
+  },
+  {
     "date": "2026-10-13",
     "date_label": "2026年10月13日",
     "title": "今日 CA State Worker RTO 情报",

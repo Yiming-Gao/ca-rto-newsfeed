@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-10-15",
+    "date_label": "2026年10月15日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 行动中心仍确认10月21日（周三）为一天不公平劳动行为罢工，参与者当天不报到；工会称若州方继续拒绝公平谈判，可能升级行动。这不是四天 RTO 暂停令，Caltrans 与 Sacramento 各单位日常排班仍以书面通知为准。https://www.seiu1000.org/contract-action-center/",
+      "【官方】距行动六天，SEIU 的罢工页面继续列出 Sacramento 的 SOS、May Lee Complex、DMV HQ、CNRA、CDE HQ 早间集结及随后 CalHR 游行安排。地点、参与及交接信息会更新；员工不应把社媒转发当作本岗位的考勤、AWOL 或安全安排。https://www.seiu1000.org/strike/",
+      "【官方】CalHR RTO 资源页目前仍写明州级基线为每周至少四天到办公室，实施已延至2026年7月1日；具体停车、通勤、工位、hoteling 和弹性工作由部门落实。页面未见今日新增的全州到岗天数、Caltrans 自动豁免或统一共享桌位规则。https://benefits.calhr.ca.gov/rto/",
+      "【官方】同一 CalHR 页面说明，符合条件者可在部门返岗日起60天内使用 FlexElect DCRA 的 RTO 新变更事由；这是报销账户资格窗口，不会自动增加 telework、合理便利或 RTO 例外。工位、设备或排班问题仍应留存材料并走主管、人事流程。https://benefits.calhr.ca.gov/rto/",
+      "【Reddit热议】PECG 支持 SEIU 争取包含长期灵活 telework 的合同；社区转贴也提醒 Unit 9 员工是否尊重纠察线须自行决定，且不得阻塞大楼出入口。该讨论可反映跨工会关切，但不是 Caltrans 或州方的新 RTO 指令。https://www.reddit.com/r/CAStateWorkers/comments/1x4fl11/pecg_weekly_email_supports_strike/"
+    ],
+    "hot_topics": [
+      "10月21日：一日行动仍确认；部门考勤与交接以书面通知为准。https://www.seiu1000.org/contract-action-center/",
+      "Sacramento：多个工作点早间集结，之后前往 CalHR 游行。https://www.seiu1000.org/strike/",
+      "四天 RTO：全州基线未见调整，工位和停车仍由单位落实。https://benefits.calhr.ca.gov/rto/",
+      "FlexElect DCRA：返岗后60天窗口是福利资格，不等于 telework 豁免。https://benefits.calhr.ca.gov/rto/",
+      "PECG/Reddit：跨工会声援讨论升温，不能替代本部门规则。https://www.reddit.com/r/CAStateWorkers/comments/1x4fl11/pecg_weekly_email_supports_strike/"
+    ],
+    "summary": "距10月21日行动六天；四天 RTO 基线未变，优先核对本单位的考勤、岗位和工位书面安排。"
+  },
+  {
     "date": "2026-10-14",
     "date_label": "2026年10月14日",
     "title": "今日 CA State Worker RTO 情报",

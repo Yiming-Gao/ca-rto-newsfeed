@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-10-16",
+    "date_label": "2026年10月16日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】《Sacramento Bee》10月16日报道，PERB 表示若工会接受额外必要人员，将不阻止10月21日罢工；SEIU 称接受条件。报道估计约4400人须留岗，具体名单与岗位仍需等通知，勿把讨论当作个人豁免。https://www.aol.com/articles/california-move-block-seiu-local-202036000.html https://www.reddit.com/r/CAStateWorkers/comments/1x7sdqb/californias_move_to_block_seiu_local_1000_state/",
+      "【官方】SEIU 页面称 CalHR 已请求禁令限制罢工，申请本身不停止行动；工会目前仍安排10月21日一天罢工，Sacramento 早间在工作点集结，之后前往 CalHR。请持续查看岗位及地点更新。https://www.seiu1000.org/strike/",
+      "【官方】SEIU 的问答称，罢工缺勤将按州方指示记为 AWOL，代码本身不等于纪律处分，缺勤工时会扣薪；工会称10月22日可使用已批准的假期。个别员工应核对本单位书面指引。https://www.seiu1000.org/strikevote/",
+      "【Reddit热议】一名 CASE 员工称，10月8日后申请的10月21日假期被告知将因业务需要遭拒；这是个人转述，未独立核实为全州统一规定。非 SEIU 员工应向本部门及所属工会确认。https://www.reddit.com/r/CAStateWorkers/comments/1x78u0j/nonseiu_strike_participants_being_told_leave/",
+      "【官方】CalHR 资源页仍写每周至少四天到办公室，实施日期为2026年7月1日。未见今天新的全州天数调整；Caltrans 和 Sacramento 的工位、停车、排班及例外仍应向本单位确认。Caltrans 早期员工转述曾提及空间不足时轮换，这不是当前各区统一方案；有问题应保存申请与书面答复。https://benefits.calhr.ca.gov/rto/ https://www.reddit.com/r/CAStateWorkers/comments/1tvyx07/caltrans_rto_webcast_qa_summary/"
+    ],
+    "hot_topics": [
+      "PERB：媒体报道约4400人须留岗，个人安排等直接通知。https://www.aol.com/articles/california-move-block-seiu-local-202036000.html",
+      "10月21日：SEIU 一日行动计划仍在；Sacramento 分两阶段集结。https://www.seiu1000.org/strike/",
+      "考勤与收入：AWOL 记码不自动等于纪律处分，罢工缺勤会扣薪。https://www.seiu1000.org/strikevote/",
+      "跨工会请假：CASE 员工分享的限制尚待独立核实。https://www.reddit.com/r/CAStateWorkers/comments/1x78u0j/nonseiu_strike_participants_being_told_leave/",
+      "RTO 与工位：四天州级框架仍在，执行细节查本部门。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "summary": "罢工安排出现新的必要人员进展；四天 RTO 未见变更，先核对个人岗位和考勤通知。"
+  },
+  {
     "date": "2026-10-15",
     "date_label": "2026年10月15日",
     "title": "今日 CA State Worker RTO 情报",

@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-17",
+    "date_label": "2026年10月17日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 仍定于10月21日举行一天罢工；官网现提供必要岗位名单，称被指定人员须工作。先查名单并核对本人的部门通知。https://www.seiu1000.org/strike/ https://www.seiu1000.org/essentialworkers/",
+      "【官方】工会称罢工缺勤将记为 AWOL，记码本身不是纪律处分，缺勤工时会扣薪；已批准的10月21日假期仍有效。具体考勤请核对本单位及工会指引。https://www.seiu1000.org/strike/",
+      "【Reddit热议】今日帖子转述 PECG 会员问答称，工会未号召声援罢工，普通员工可自行决定；主管与普通岗位的保护可能不同。原文未能独立核验，Caltrans 员工应直接问 PECG。https://www.reddit.com/r/CAStateWorkers/comments/1x7w9sp/pecg_strike_faqs/",
+      "【官方】Sacramento 行动分两阶段：上午在多个工作点集结，11时起在 CalHR 集会；10月20日另有线上说明会。时间和地点以工会页面更新为准。https://www.seiu1000.org/strike/",
+      "【官方】CalHR 页面仍列每周至少四天到办公室；SEIU 六月与 CalSTA 协商时提出工位、设备、停车与豁免问题。未见今日 Caltrans 统一共享工位新规，排班及申请请问本单位。https://benefits.calhr.ca.gov/rto/ https://www.seiu1000.org/telework-update-calsta-june26/"
+    ],
+    "hot_topics": [
+      "必要岗位：先查 SEIU 名单，再核对个人通知。https://www.seiu1000.org/essentialworkers/",
+      "考勤与薪资：AWOL 记码不自动等于处分，罢工缺勤会扣薪。https://www.seiu1000.org/strike/",
+      "PECG：社区转述的声援问答尚待原文核验。https://www.reddit.com/r/CAStateWorkers/comments/1x7w9sp/pecg_strike_faqs/",
+      "Sacramento：10月21日早间工作点集结，随后前往 CalHR。https://www.seiu1000.org/strike/",
+      "Caltrans：工位、停车与豁免仍看部门具体安排。https://www.seiu1000.org/telework-update-calsta-june26/"
+    ],
+    "summary": "距罢工四天，先核对必要岗位与考勤；四天 RTO 框架未见改变。"
+  },
+  {
     "date": "2026-10-16",
     "date_label": "2026年10月16日",
     "title": "今日 CA State Worker RTO 情报",

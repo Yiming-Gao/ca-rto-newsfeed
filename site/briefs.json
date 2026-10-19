@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-18",
+    "date_label": "2026年10月18日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】今日员工讨论距10月21日罢工仅三天，关注行动能否推动更灵活的 RTO 和薪资谈判；这些是个人期待，尚非谈判结果。https://www.reddit.com/r/CAStateWorkers/comments/1x97crh/just_3_days_away_from_making_history_lets_go/",
+      "【官方】SEIU Local 1000 仍安排10月21日一天罢工。Sacramento 上午7至10时在多个工作点集结，11时起在 CalHR 行动；地点与变动以工会页面为准。https://www.seiu1000.org/strike/",
+      "【官方】SEIU 必要岗位表按部门、地点、职位和班次列出留岗人数；列入某职位不代表本人必定留岗，页面称个人姓名稍后公布。请核对工会及单位通知。https://www.seiu1000.org/essentialworkers/",
+      "【Reddit热议】CASE、CAPS、PECG 员工讨论个人声援，但对工会立场和参与后果的转述不一致，未独立核实；Caltrans 员工应向所属工会及部门确认。https://www.reddit.com/r/CAStateWorkers/comments/1x8e8xj/sympathy_strikes/",
+      "【官方】CalHR 资源页仍列每周至少四天到办公室。SEIU 六月与 CalSTA 协商时提出工位、设备、停车及豁免问题；这不是今日的新 Caltrans 统一安排，具体排班问本单位。https://benefits.calhr.ca.gov/rto/ https://www.seiu1000.org/telework-update-calsta-june26/",
+      "【官方】AB 1729 已于9月遭否决；SEIU 表示计划在下一个立法周期重新提出。现有四天框架不会因该提案自动改变。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "罢工倒计时：员工盼改善远程办公与薪资。https://www.reddit.com/r/CAStateWorkers/comments/1x97crh/just_3_days_away_from_making_history_lets_go/",
+      "必要岗位：查地点和班次人数，等待个人名单。https://www.seiu1000.org/essentialworkers/",
+      "跨工会声援：社区说法不一，先问所属工会。https://www.reddit.com/r/CAStateWorkers/comments/1x8e8xj/sympathy_strikes/",
+      "Sacramento 行动：先在工作点集结，再前往 CalHR。https://www.seiu1000.org/strike/",
+      "Caltrans 工位与豁免：核对本单位当前细则。https://www.seiu1000.org/telework-update-calsta-june26/"
+    ],
+    "summary": "罢工临近，先核实个人留岗安排；四天 RTO 与工位问题仍待部门及谈判落实。"
+  },
+  {
     "date": "2026-10-17",
     "date_label": "2026年10月17日",
     "title": "今日 CA State Worker RTO 情报",

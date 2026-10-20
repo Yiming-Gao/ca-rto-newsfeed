@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-10-19",
+    "date_label": "2026年10月19日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 确认10月21日（周三）举行一天不公平劳动行为罢工；10月20日晚另有 Strike Day 101 线上说明会。RTO、考勤与行动地点应以工会及本单位最新书面通知为准。https://www.seiu1000.org/strike/",
+      "【官方】必要岗位页面现称 PERB 确定少于5,000名州雇员须维持服务；表格按部门、工作点、职位和班次列人数。列入职位不等于本人自动留岗，受影响者姓名仍待公布。https://www.seiu1000.org/essentialworkers/",
+      "【官方】SEIU 罢工问答称，10月21日参与者的缺勤将按州方指示记为 AWOL、并扣除未工作工时；工会称该记码本身不等于纪律处分。个别考勤、已批假和必要岗位安排须向本单位确认。https://www.seiu1000.org/strikevote/",
+      "【Reddit热议】一名 CASE 员工称，其部门把10月8日后申请的10月21日请假以“业务需要”为由拒绝；这是个人转述，未证实为全州规则。非 SEIU 员工请先问所属工会和人事，勿据此判断个人权利。https://www.reddit.com/r/CAStateWorkers/comments/1x78u0j/nonseiu_strike_participants_being_told_leave/",
+      "【Reddit热议】讨论再次聚焦可选的50英里 RTO 例外：帖文称部门做法不一，并担心通勤、停车及四天到岗会收紧安排；这不是 CalHR 或 Caltrans 新政策。现行州级基线仍为每周至少四天到办公室，例外须逐案和按部门决定。https://www.reddit.com/r/CAStateWorkers/comments/1x8fayv/strike_rto_and_50_mile_exemption/ https://benefits.calhr.ca.gov/rto/"
+    ],
+    "hot_topics": [
+      "10月20日：罢工前线上说明会。https://www.seiu1000.org/strike/",
+      "必要岗位：少于5,000人；名单按工作点和班次核对。https://www.seiu1000.org/essentialworkers/",
+      "考勤：AWOL 记码、扣薪及已批假以书面指引为准。https://www.seiu1000.org/strikevote/",
+      "CASE 请假说法：仅为 Reddit 个人转述。https://www.reddit.com/r/CAStateWorkers/comments/1x78u0j/nonseiu_strike_participants_being_told_leave/",
+      "50英里例外与 Caltrans 工位：并无今日统一新规。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "summary": "罢工前两天，先核实本人是否被指定留岗；四天 RTO 及例外仍由部门逐案落实。"
+  },
+  {
     "date": "2026-10-18",
     "date_label": "2026年10月18日",
     "title": "今日 CA State Worker RTO 情报",

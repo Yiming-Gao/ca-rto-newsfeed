@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-20",
+    "date_label": "2026年10月20日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 确认10月21日为一天不公平劳动行为罢工；非必要岗位当天不报到。跨夜班若从10月20日开始，须先完成原定班次；被指定必要岗位者继续按 line-pass 和排班工作。https://www.seiu1000.org/strike/",
+      "【官方】SEIU 更新说明称，州方要求各部门将罢工相关缺勤记为 AWOL，并拟扣除缺勤工时；工会称 AWOL 记码本身不是纪律处分。个人考勤代码、已批假及工资处理仍应以本单位书面指引为准。https://www.seiu1000.org/strike/",
+      "【官方】SEIU 的必要岗位查询现要求员工用姓名及社保号后四位核验是否被指定留岗，不能仅凭职位名称或同事消息判断。员工不要在公开渠道分享个人查询信息。https://search.seiu1000.org/insights.php?sv=LinePass2026",
+      "【Reddit热议】一则 Caltrans 帖文贴出据称由主管转发的“Unplanned Absence”模板：称10月21日请假会被拒、未到岗可能记 AWOL 且不能以假期覆盖。该文件尚非 Caltrans 官网公告；与 SEIU 对受保护行动的说法存在分歧，宜保存通知并向人事、工会核实。https://www.reddit.com/r/CAStateWorkers/comments/1xa5lzu/caltrans_response_to_the_strike/ https://www.seiu1000.org/strike/",
+      "【官方】CalHR RTO 资源页仍为每周至少四天到办公室、2026年7月1日实施的基线；未见今天发布新的 Caltrans 自动豁免、共享工位或停车统一规则。通勤、停车、工位及弹性安排仍由部门落实。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "hot_topics": [
+      "10月21日：一天罢工；跨夜班先完成10月20日开始的班次。https://www.seiu1000.org/strike/",
+      "必要岗位：用官方查询核验本人是否被指定。https://search.seiu1000.org/insights.php?sv=LinePass2026",
+      "考勤与工资：AWOL 记码、扣薪和已批假看本单位书面通知。https://www.seiu1000.org/strike/",
+      "Caltrans 模板：来自 Reddit 转贴，非官网公告，先向人事和工会核实。https://www.reddit.com/r/CAStateWorkers/comments/1xa5lzu/caltrans_response_to_the_strike/",
+      "RTO 基线：四天到办公室未变；工位和停车仍由部门执行。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "summary": "罢工前夜，优先核对本人必要岗位、跨夜班与考勤书面安排；四天 RTO 基线未见调整。"
+  },
+  {
     "date": "2026-10-19",
     "date_label": "2026年10月19日",
     "title": "今日 CA State Worker RTO 情报",

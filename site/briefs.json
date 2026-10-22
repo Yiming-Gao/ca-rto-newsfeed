@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-21",
+    "date_label": "2026年10月21日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 的 Contract Action Center 确认今天为不公平劳动行为罢工日，并称10月21日不是终点；只有缺勤会对公共健康或安全造成迫切、重大威胁的岗位，才可被指定为必要岗位。是否须留岗应看本人 line-pass/部门通知，不能只凭职位名称判断。https://www.seiu1000.org/contract-action-center/ https://search.seiu1000.org/insights.php?sv=LinePass2026",
+      "【官方】CalHR 现行 RTO 资源页仍把州级基线列为每周至少四天到办公室、2026年7月1日生效；今天未见修改天数、自动豁免或 Caltrans 统一 hoteling/停车新规。工位、排班与通勤安排继续由部门执行，不能把罢工日当成日常 RTO 政策变更。https://benefits.calhr.ca.gov/rto/",
+      "【Reddit热议】Caltrans 员工转贴称，管理层要求10月21日全部门到办公室；该说法目前未见 Caltrans 官网公告，帖子也未说明覆盖范围。它反映员工对罢工日与 RTO 到岗要求叠加的担忧，不足以证明全州或全厅的统一指令。https://www.reddit.com/r/CAStateWorkers/comments/1xaxe2n/caltrans_stands_in_solidarity_w_calhr_and_newsom/",
+      "【Reddit热议】多部门员工今天称收到近似“未到岗可能记 AWOL、不得用假期覆盖”的主管脚本；也有主管称未收到或未宣读。该文本被讨论为 CalHR 律师起草，但社区转述互相矛盾；请保存个人书面通知并向人事、工会核实考勤及工资处理。https://www.reddit.com/r/CAStateWorkers/comments/1xbqruw/strike_script_read_by_managers/ https://www.reddit.com/r/CAStateWorkers/comments/1xc1cv8/has_anyone_gotten_something_like_this_from_their/",
+      "【Rumor】社区现场帖称 Sacramento 多个集结点已有数百至数千人、随后前往 CalHR；没有独立官方出勤统计。可将其视为行动现场观察，不能据此推断谈判结果、RTO 减天或 Caltrans 后续排班会改变。https://www.reddit.com/r/CAStateWorkers/comments/1xbtaj7/thought_it_important_to_teach_our_daughter_about/ https://www.seiu1000.org/strike/"
+    ],
+    "hot_topics": [
+      "必要岗位：先查本人 line-pass 与部门书面通知。https://search.seiu1000.org/insights.php?sv=LinePass2026",
+      "RTO 基线：四天到办公室未见全州调整。https://benefits.calhr.ca.gov/rto/",
+      "Caltrans 到岗传闻：来自员工转贴，范围待官方确认。https://www.reddit.com/r/CAStateWorkers/comments/1xaxe2n/caltrans_stands_in_solidarity_w_calhr_and_newsom/",
+      "考勤：AWOL、扣薪与已批假先保存书面依据再核实。https://www.reddit.com/r/CAStateWorkers/comments/1xbqruw/strike_script_read_by_managers/",
+      "现场规模：目前只是社区观察，谈判和 RTO 结果未定。https://www.reddit.com/r/CAStateWorkers/comments/1xbtaj7/thought_it_important_to_teach_our_daughter_about/"
+    ],
+    "summary": "罢工日的直接通知最关键；四天 RTO 基线未变，Caltrans 到岗与考勤传闻须以本单位书面答复核实。"
+  },
+  {
     "date": "2026-10-20",
     "date_label": "2026年10月20日",
     "title": "今日 CA State Worker RTO 情报",

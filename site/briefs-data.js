@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-10-23",
+    "date_label": "2026年10月23日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 的2026合同页面已把10月21日行动称为首次不公平劳动行为罢工，并说全州数千名员工参加；页面同时显示该行动的目的仍是要求州方公平谈判，而非已签署的新合同。https://www.seiu1000.org/2026contract/",
+      "【官方】同一工会页面把公平薪资、可负担医疗和“Telework that Works”继续列为合同优先事项。员工可把这看作工会的谈判诉求和动员重点；今天没有看到已生效的 RTO 减天、统一 telework 条款或 Caltrans 例外公告。https://www.seiu1000.org/2026contract/",
+      "【官方】CalHR 的2026 RTO 资源页仍写明州雇员至少每周四天回办公室，原定2025年7月1日的安排已延至2026年7月1日。页面提示停车、通勤和具体工作安排应向部门查询，未公布 Caltrans 统一 hoteling、工位或自动豁免的新规则。https://benefits.calhr.ca.gov/rto/",
+      "【官方】CalHR 现页还提醒员工查看部门的通勤指引和 Sacramento 停车资源；若没有州属或部门停车位，可向本部门人事了解税前停车报销。它是可用资源说明，不代表保证停车位或改变 RTO 天数。https://benefits.calhr.ca.gov/rto/",
+      "【Reddit热议】社区讨论仍把 RTO、通勤成本与加薪绑在一起：有人支持保留 RTO 但要求补偿，也有人质疑四天到岗下的效率。两种看法均为个人意见，不是 CalHR、Caltrans 或工会的政策通知。https://www.reddit.com/r/CAStateWorkers/comments/1xfbpfi/popular_opinion_i_hope_rto_is_here_to_stay_and/ https://www.reddit.com/r/CAStateWorkers/comments/1x9kmbq/rto_rant_rto_is_exposing_those_who_dont_work_and/"
+    ],
+    "hot_topics": [
+      "罢工后续：仍在争取公平谈判，非新合同已达成。https://www.seiu1000.org/2026contract/",
+      "Telework：仍是 SEIU 合同优先事项，未见今日统一新条款。https://www.seiu1000.org/2026contract/",
+      "RTO 基线：至少每周四天到办公室。https://benefits.calhr.ca.gov/rto/",
+      "停车与通勤：先查部门指引及 Sacramento 停车资源。https://benefits.calhr.ca.gov/rto/",
+      "Caltrans 工位/豁免：未见今日统一 hoteling 或自动豁免公告。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "summary": "罢工已过去但合同谈判未定；四天 RTO 基线仍在，Caltrans 的工位、停车与例外须以本单位书面通知为准。"
+  },
+  {
     "date": "2026-10-22",
     "date_label": "2026年10月22日",
     "title": "今日 CA State Worker RTO 情报",

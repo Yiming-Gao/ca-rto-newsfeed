@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-26",
+    "date_label": "2026年10月26日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 把10月21日的不公平劳动行为罢工称为首次历史性行动，并表示数千名州雇员参与；工会说将继续要求州方回到谈判桌、善意协商。这是后续施压立场，不代表新合同、RTO 减天或 telework 条款已经达成。https://www.seiu1000.org/strike/",
+      "【官方】SEIU 的合同信息仍把公平薪资、可负担医疗和“Telework that Works”列为2026谈判重点，并称若州方拒绝公平谈判会继续行动。截至今晚，未见其公布全州统一的远程办公天数、Caltrans 特别例外或共享工位新规。https://www.seiu1000.org/ https://www.seiu1000.org/rto/",
+      "【官方】CalHR 的2026 RTO 资源页仍写明：受混合办公政策覆盖的员工，默认至少每周四天到办公室，实施日为2026年7月1日；停车、通勤和排班应向各部门确认。该页未宣布 Caltrans 统一 hoteling、工位、停车位或自动豁免安排。https://benefits.calhr.ca.gov/rto/",
+      "【官方】CalHR 逐案例外指引仍要求部门审查每周多于一天远程办公的请求，并按个人情况和业务需要决定；合理便利、FMLA/CFRA 等既有程序继续适用。它不是自动豁免，符合条件的外勤工作日可计入 in-person 日。https://www.calhr.ca.gov/2025-Statewide-Telework-Guidance",
+      "【Reddit热议】社区近期高互动讨论仍将四天 RTO 与通勤时间、办公日疲惫和争取加薪并列；也有人认为面对面办公应保留。这些是员工个人观点和体验，并非 CalHR、Caltrans、PERB 或工会发布的政策或谈判结果。https://www.reddit.com/r/CAStateWorkers/comments/1wur9mj/any_hope_of_going_back_to_full_time_wfh/ https://www.reddit.com/r/CAStateWorkers/comments/1wyfyjz/2_more_days_hoping_for_fair_wages_worklife/"
+    ],
+    "hot_topics": [
+      "罢工后续：SEIU 仍要求州方善意谈判，未宣布新合同。https://www.seiu1000.org/strike/",
+      "Telework：仍是 SEIU 的合同重点，未见统一新条款。https://www.seiu1000.org/rto/",
+      "RTO 基线：默认每周至少四天到办公室。https://benefits.calhr.ca.gov/rto/",
+      "例外与外勤：逐案、依业务需要处理；外勤可算 in-person。https://www.calhr.ca.gov/2025-Statewide-Telework-Guidance",
+      "Caltrans 工位/停车：未见今日统一 hoteling 或自动豁免公告。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "summary": "合同谈判与罢工后续仍在推进；四天 RTO 基线未变，Caltrans 工位、停车和例外继续以本单位书面通知为准。"
+  },
+  {
     "date": "2026-10-25",
     "date_label": "2026年10月25日",
     "title": "今日 CA State Worker RTO 情报",

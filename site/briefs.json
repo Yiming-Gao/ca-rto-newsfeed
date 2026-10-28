@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-27",
+    "date_label": "2026年10月27日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 确认10月21日已举行其首次不公平劳动行为罢工，称数千名州雇员走上罢工线，目标仍是促使州方就合同善意谈判；工会未宣布已经达成新的工资、医疗或 RTO/telework 协议。https://www.seiu1000.org/strike/",
+      "【Reddit热议】一则10月27日才获版主放出的社区帖，把本周五（10月30日）谈判视为下一观察点，并期待按岗位业务需要由各部门决定 RTO；“两天到岗”为发帖者提出的备选期待，不是 CalHR、SEIU 或 Caltrans 已发布的新政策。https://www.reddit.com/r/CAStateWorkers/comments/1xgcxcb/a_realistic_approach_at_the_negotiation_table/",
+      "【官方】CalHR 的 RTO 资源页仍写明：适用混合办公政策的员工默认每周至少四天到办公室，转换已于2026年7月1日实施；停车、通勤、排班及办公空间须向本部门确认。页面没有公布 Caltrans 统一 hoteling、工位或自动豁免的新安排。https://benefits.calhr.ca.gov/rto/",
+      "【官方】AB 1729 的立法路线已在9月18日被州长否决；该案原拟把 telework 作为默认安排，并要求机构为到办公室提供书面依据。当前它不能作为已生效的 RTO 保护或豁免依据，后续需关注新的立法或合同结果。https://lee.asmdc.org/press-releases/20260921-assemblymember-alex-lees-statement-veto-ab-1729",
+      "【Rumor】Reddit 有员工转述罢工后双方将在10月30日再会面；此信息尚未见 PERB、CalHR 或 SEIU 的同日正式谈判成果公告，不能据此推断四天 RTO、Caltrans 例外或酒店工位政策已变。https://www.reddit.com/r/CAStateWorkers/comments/1xd58j3/after_the_strike_any_updates/"
+    ],
+    "hot_topics": [
+      "罢工后续：SEIU 要求州方回到谈判桌，未宣布新合同。https://www.seiu1000.org/strike/",
+      "10月30日谈判：目前主要来自社区预期，等待正式结果。https://www.reddit.com/r/CAStateWorkers/comments/1xgcxcb/a_realistic_approach_at_the_negotiation_table/",
+      "RTO 基线：默认每周至少四天到办公室。https://benefits.calhr.ca.gov/rto/",
+      "Caltrans 工位/停车：尚无今日统一 hoteling 或自动豁免公告。https://benefits.calhr.ca.gov/rto/",
+      "AB 1729：已被否决，不能作为现行 telework 保护。https://lee.asmdc.org/press-releases/20260921-assemblymember-alex-lees-statement-veto-ab-1729"
+    ],
+    "summary": "罢工后的谈判是近期变量，但四天 RTO 基线仍在；Caltrans 的工位、停车和例外继续以部门书面通知为准。"
+  },
+  {
     "date": "2026-10-26",
     "date_label": "2026年10月26日",
     "title": "今日 CA State Worker RTO 情报",

@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-10-28",
+    "date_label": "2026年10月28日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 的新闻中心今天没有发布新的 CalHR 谈判结果、RTO 减天或统一 telework 条款；其现有说明仍称10月21日已有数千名州雇员参与首次不公平劳动行为罢工，目标是促使州方公平谈判。https://www.seiu1000.org/press-center/",
+      "【Reddit热议】社区把10月30日列为下一关键日期，并转述 SEIU 与 CalHR 将进行 PERB 强制调解；截至今晚，这仍是社区帖所引的工会邮件/媒体信息，尚未见 PERB、CalHR 或 SEIU 发布正式调解成果。https://www.reddit.com/r/CAStateWorkers/comments/1xgcxcb/a_realistic_approach_at_the_negotiation_table/ https://www.reddit.com/r/CAStateWorkers/comments/1xc6l7k/now_that_today_is_over_whats_going_to_happen_next/",
+      "【官方】CalHR 的2026 RTO 资源页仍明确：州长命令要求员工每周至少四天回办公室，实施已延至2026年7月1日；页面建议员工查部门通勤指引、停车抽签及排班安排，未公布 Caltrans 统一 hoteling、工位或停车新规。https://benefits.calhr.ca.gov/rto/",
+      "【官方】逐案例外指引仍要求各部门审理每周多于一天 telework 的请求，并按个人情况及业务需要决定；合理便利、FMLA/CFRA 继续走既有程序。外勤、线下会议和公务出差可计为 in-person 日，但这不等于自动豁免。https://www.calhr.ca.gov/2025-Statewide-Telework-Guidance",
+      "【Reddit热议】最新可见 RTO 讨论仍分歧明显：有人主张若强制到岗就应加薪并保留 Sacramento 岗位，也有人要求把 telework 写入合同、最多两天到办公室。这些是员工意见和谈判期待，不是现行 CalHR、Caltrans 或工会政策。https://www.reddit.com/r/CAStateWorkers/comments/1x7a6rb/popular_opinion_i_hope_rto_is_here_to_stay_and/ https://www.reddit.com/r/CAStateWorkers/comments/1xgcxcb/a_realistic_approach_at_the_negotiation_table/"
+    ],
+    "hot_topics": [
+      "10月30日 PERB 调解：等待 SEIU、CalHR 或 PERB 的正式结果。https://www.reddit.com/r/CAStateWorkers/comments/1xgcxcb/a_realistic_approach_at_the_negotiation_table/",
+      "RTO 基线：默认每周至少四天到办公室。https://benefits.calhr.ca.gov/rto/",
+      "例外与外勤：逐案处理；外勤和公务出差可算 in-person。https://www.calhr.ca.gov/2025-Statewide-Telework-Guidance",
+      "停车/通勤：查本部门指引及 Sacramento 停车抽签资源。https://benefits.calhr.ca.gov/rto/",
+      "Caltrans 工位：未见今日统一 hoteling 或自动豁免公告。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "summary": "谈判调解将是本周变量；在正式结果发布前，四天 RTO 基线以及 Caltrans 的工位、停车和例外仍以部门书面通知为准。"
+  },
+  {
     "date": "2026-10-27",
     "date_label": "2026年10月27日",
     "title": "今日 CA State Worker RTO 情报",

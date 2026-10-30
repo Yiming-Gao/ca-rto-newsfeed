@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-29",
+    "date_label": "2026年10月29日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 现有 RTO 页面仍称，工会已就四天 RTO 向 PERB 提起不公平劳动行为申诉，案件进入非正式调解程序；同时，telework 仍在 2026 合同谈判中。今晚未见 SEIU、PERB 或 CalHR 发布新的调解结果、RTO 减天或统一条款。https://www.seiu1000.org/rto/",
+      "【Rumor】Reddit 罢工后讨论把10月30日称为双方下一次 PERB 调解日期，但发帖者也承认找不到正式来源；在双方或 PERB 书面确认前，不能据此推断工资、四天 RTO 或 Caltrans 例外已经改变。https://www.reddit.com/r/CAStateWorkers/comments/1xd58j3/after_the_strike_any_updates/",
+      "【官方】CalHR 的2026资源页仍把全州基线列为每周至少四天到办公室，并提示员工向部门确认通勤、停车、工位和具体排班；该页没有公布 Caltrans 统一 hoteling、共享工位、停车或自动豁免的新规则。https://benefits.calhr.ca.gov/rto/",
+      "【官方】州长的 RTO 说明仍要求部门按业务需要审理多于一天 telework 的申请；这是逐案例外，不是自动批准。合理便利及其他既有程序继续适用，Caltrans 员工应保留并核对本单位书面决定。https://www.calhr.ca.gov/2025/03/03/letter-from-governor-gavin-newsom/",
+      "【官方】AB 1729 曾拟要求机构说明到办公室的依据并扩大 telework 保障；SEIU 页面显示该案已被州长否决，工会称会在下一立法周期重新提出。因此它目前不是可直接主张的现行 RTO 保护。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "10月30日调解传闻：等待 SEIU、CalHR 或 PERB 正式说明。https://www.reddit.com/r/CAStateWorkers/comments/1xd58j3/after_the_strike_any_updates/",
+      "RTO 基线：默认每周至少四天到办公室。https://benefits.calhr.ca.gov/rto/",
+      "例外申请：部门按个人情况和业务需要逐案处理。https://www.calhr.ca.gov/2025/03/03/letter-from-governor-gavin-newsom/",
+      "Caltrans 工位/停车：尚无全州统一 hoteling 或自动豁免公告。https://benefits.calhr.ca.gov/rto/",
+      "AB 1729：已被否决，当前不构成现行 telework 保障。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "谈判调解是近期观察点；在正式结果出现前，四天 RTO 与 Caltrans 的工位、停车和例外仍以部门书面通知为准。"
+  },
+  {
     "date": "2026-10-28",
     "date_label": "2026年10月28日",
     "title": "今日 CA State Worker RTO 情报",

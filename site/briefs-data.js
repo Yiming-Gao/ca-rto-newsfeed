@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-05",
+    "date_label": "2026年11月5日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 今晚的合同页面仍称，10月30日已与州方调解，下一场暂定11月20日；目前未公布暂定协议，也未宣布四天 RTO 减天、恢复 telework 或 Caltrans 专属安排。调解日程本身不改变员工现行到岗要求。https://www.seiu1000.org/2026contract/",
+      "【官方】SEIU 的 RTO 页面仍显示，PERB 已就工会5月提出的 RTO 不当劳动行为申诉发出投诉，案件将进入非正式调解；工会同时提醒，部门未另行通知时，员工仍应按当前部门指示每周最多到办公室四天。https://www.seiu1000.org/rto/",
+      "【官方】CalHR 2026 RTO 资源页继续写明适用员工每周至少四天返岗，并建议尽早处理停车、通勤和部门指引；页面没有发布 Caltrans 全系统 hoteling、共享工位、停车、距离豁免或办公地点的新统一规则。https://benefits.calhr.ca.gov/rto/",
+      "【Reddit热议】州儿童抚养服务局员工今日讨论排班：回帖称部分团队为3天办公室／2天居家轮换，部分为4天办公室／1天居家，且可能受空间影响。这是匿名社区说法，不能替代该部门或主管的书面安排。https://www.reddit.com/r/CAStateWorkers/comments/1xoy0mw/dept_of_child_support_services/",
+      "【Reddit热议】消费者事务部 BAR 职位讨论中，有回帖称 DCA 目前每周4天办公室，外勤日可计入办公室日；该信息来自个人经验，尚非 DCA 或 CalHR 的正式政策公告，求职或在职员工应向直属部门确认。https://www.reddit.com/r/CAStateWorkers/comments/1xoxv4a/dept_of_consumer_affairs_bar/"
+    ],
+    "hot_topics": [
+      "合同调解：下一场暂定11月20日，尚无公开协议。https://www.seiu1000.org/2026contract/",
+      "RTO 基线：适用员工每周至少四天到办公室。https://benefits.calhr.ca.gov/rto/",
+      "PERB：RTO 申诉已获投诉并待非正式调解。https://www.seiu1000.org/rto/",
+      "部门排班：儿童抚养服务局出现3/2与4/1并存的社区报告。https://www.reddit.com/r/CAStateWorkers/comments/1xoy0mw/dept_of_child_support_services/",
+      "外勤折抵：BAR 讨论称外勤日可计入到岗日，需向部门核实。https://www.reddit.com/r/CAStateWorkers/comments/1xoxv4a/dept_of_consumer_affairs_bar/"
+    ],
+    "summary": "今晚没有公开的新协议或统一 Caltrans 规则；四天 RTO 仍是官方基线，部门排班与外勤折抵须以本单位书面通知为准。"
+  },
+  {
     "date": "2026-11-04",
     "date_label": "2026年11月4日",
     "title": "今日 CA State Worker RTO 情报",

@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-06",
+    "date_label": "2026年11月6日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 合同页面截至今晚仍显示：10月30日已完成调解，下一场暂定11月20日；尚未公开暂定协议，也未宣布四天 RTO 减天、恢复 telework 或 Caltrans 专属实施安排。调解日程不自动改变现行到岗规则。https://www.seiu1000.org/2026contract/",
+      "【官方】SEIU 的 RTO 页面仍称，PERB 已就工会5月提出的 RTO 不当劳动行为申诉发出投诉，案件将进入非正式调解；工会继续把“Telework that Works”列为重点，但任何合同条款仍须谈成并获会员批准。https://www.seiu1000.org/rto/",
+      "【官方】CalSTA 今年6月与 SEIU 的会谈曾把四天返岗的具体实施时间、豁免程序、办公室工位与设备列为议题；今晚未见州方、CalSTA 或 Caltrans 发布新的全系统 hoteling、停车、距离豁免或共享工位规则。https://www.seiu1000.org/telework-update-calsta-june26/",
+      "【官方】AB 1729 原拟要求部门在因任务需要要求到岗时提供详细书面理由，并定期评估 telework；该法案已被否决，工会页面称将于下一立法周期再推动，因此它目前并未改写四天 RTO 基线。https://www.seiu1000.org/rto/",
+      "【Reddit热议】近期 CAStateWorkers 讨论仍有网友预计 RTO 会延续至2027，也有人期待劳资协商争取更多居家日；均为匿名个人看法，不能视为 CalHR、Caltrans 或工会的正式时间表。https://www.reddit.com/r/CAStateWorkers/comments/1xi7q1b/four_months_of_rto_strike_is_over_still_no/"
+    ],
+    "hot_topics": [
+      "合同调解：下一场暂定11月20日，尚无公开协议。https://www.seiu1000.org/2026contract/",
+      "PERB：RTO 申诉已获投诉，后续为非正式调解。https://www.seiu1000.org/rto/",
+      "Caltrans／CalSTA：未见新的统一工位、停车或豁免规则。https://www.seiu1000.org/telework-update-calsta-june26/",
+      "AB 1729：已被否决，工会拟在下一周期再提。https://www.seiu1000.org/rto/",
+      "社区预期：RTO 时程说法不一，须以书面通知为准。https://www.reddit.com/r/CAStateWorkers/comments/1xi7q1b/four_months_of_rto_strike_is_over_still_no/"
+    ],
+    "summary": "今晚没有公开的新协议或 Caltrans 统一实施令；四天 RTO 仍为现行基线，调解与地方安排须以工会和部门书面通知为准。"
+  },
+  {
     "date": "2026-11-05",
     "date_label": "2026年11月5日",
     "title": "今日 CA State Worker RTO 情报",

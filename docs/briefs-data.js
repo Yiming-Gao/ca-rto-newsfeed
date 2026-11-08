@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-07",
+    "date_label": "2026年11月7日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 合同页面截至今晚仍称：10月30日调解已举行，下一场暂定11月20日；未公开暂定协议，也未宣布四天 RTO 减天、恢复 telework 或 Caltrans 专属新安排。调解日期本身不改变现行到岗要求。https://www.seiu1000.org/2026contract/",
+      "【官方】SEIU 的 RTO 页面仍显示，PERB 已就工会5月提出的 RTO 不当劳动行为申诉发出投诉，案件继续走非正式调解；工会把 telework 列为合同议题，但条款须先谈成并经会员批准才会生效。https://www.seiu1000.org/rto/",
+      "【官方】CalHR 的2026资源页继续将适用员工基线写为每周至少四天到办公室，并提示停车、通勤和具体排班应向部门确认；今晚未见 CalHR、CalSTA 或 Caltrans 发布全系统 hoteling、共享工位、停车或距离豁免的新规则。https://benefits.calhr.ca.gov/rto/",
+      "【官方】现行例外指引仍要求部门逐案处理多于一天 telework 的申请，依据个人情形与业务需要；合理便利、FMLA/CFRA 继续依既有程序办理，外勤、出差或异地会议可计入到岗日，并非自动免除 RTO。https://www.calhr.ca.gov/Documents/2025-Statewide-Telework-Guidance.pdf",
+      "【Reddit热议】近期 CAStateWorkers 帖有人主张保留 RTO、并要求配套加薪，也有人在评论中反对；这只反映匿名社区对通勤、问责与薪酬的分歧，不能视为 CalHR、Caltrans 或工会的政策变化。https://www.reddit.com/r/CAStateWorkers/comments/1xkz5u9/popular_opinion_i_hope_rto_is_here_to_stay_and/"
+    ],
+    "hot_topics": [
+      "合同调解：下一场暂定11月20日，尚无公开协议。https://www.seiu1000.org/2026contract/",
+      "PERB：RTO 申诉已获投诉，继续走非正式调解。https://www.seiu1000.org/rto/",
+      "RTO 基线：适用员工每周至少四天到办公室。https://benefits.calhr.ca.gov/rto/",
+      "例外与外勤：逐案审理；外勤可计入到岗日。https://www.calhr.ca.gov/Documents/2025-Statewide-Telework-Guidance.pdf",
+      "Caltrans 工位/停车：未见全系统新公告，以部门书面通知为准。https://benefits.calhr.ca.gov/rto/"
+    ],
+    "summary": "今晚没有公开的新协议或 Caltrans 统一实施令；四天 RTO 仍是基线，例外、排班和工位安排须以本部门书面通知为准。"
+  },
+  {
     "date": "2026-11-06",
     "date_label": "2026年11月6日",
     "title": "今日 CA State Worker RTO 情报",

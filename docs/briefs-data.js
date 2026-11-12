@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-11",
+    "date_label": "2026年11月11日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 合同页今晚仍称，10月30日调解的内容依法保密，下一场定于11月20日；未公布暂定协议、RTO 减天或新的 telework 条款。员工应继续按本部门现行书面排班执行。https://www.seiu1000.org/2026contract/",
+      "【官方】CalHR 的2026 RTO资源页仍写明适用员工每周至少四天到办公室、实施日已延至2026年7月1日；通勤、停车与工位须看部门安排。今晚未见 CalHR、CalSTA 或 Caltrans 新的统一 hoteling、共享工位或豁免公告。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU 的 RTO 页仍显示，PERB 已对工会5月申诉发出投诉并进入非正式调解；telework 仍在合同谈判中，任何新条款须先形成暂定协议并由会员批准，不能当作即时恢复居家办公。https://www.seiu1000.org/rto/",
+      "【Reddit热议】社区近日讨论称 PERB RTO 听证已举行但尚无公开决定，也有人称程序保密；这是匿名帖文，未见 PERB 或 SEIU 今日正式结果，不能据此推定案件结案或 RTO 已改变。https://www.reddit.com/r/CAStateWorkers/comments/1xpsbif/seiu_vs_stateperb_rto_hearing/",
+      "【Reddit热议】今日讨论集中在通勤、育儿成本、离职风险，以及办公室缩减和 hoteling 是否可替代固定工位；这些是员工立场与推测，不是 Caltrans 或州方的空间计划。https://www.reddit.com/r/CAStateWorkers/comments/1xtwrnr/losing_good_people_retaining_senior_staff/ https://www.reddit.com/r/CAStateWorkers/comments/1xtpd9d/stop_suggesting_a_compromise_at_2_days_in_office/"
+    ],
+    "hot_topics": [
+      "合同调解：下一场为11月20日，尚无公开协议。https://www.seiu1000.org/2026contract/",
+      "RTO 基线：适用员工每周至少四天到办公室。https://benefits.calhr.ca.gov/rto/",
+      "PERB：官方仍称案件在非正式调解，未见新决定。https://www.seiu1000.org/rto/",
+      "办公空间：hoteling 和缩减办公室是社区讨论，未获 Caltrans 确认。https://www.reddit.com/r/CAStateWorkers/comments/1xtpd9d/stop_suggesting_a_compromise_at_2_days_in_office/",
+      "留任压力：通勤及照护成本引发员工担忧，属匿名社区反馈。https://www.reddit.com/r/CAStateWorkers/comments/1xtwrnr/losing_good_people_retaining_senior_staff/"
+    ],
+    "summary": "今晚未见公开新协议、PERB 裁定或 Caltrans 统一实施令；四天 RTO 仍为基线，后续以11月20日调解及部门书面通知为准。"
+  },
+  {
     "date": "2026-11-10",
     "date_label": "2026年11月10日",
     "title": "今日 CA State Worker RTO 情报",

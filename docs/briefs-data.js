@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-12",
+    "date_label": "2026年11月12日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 合同页今日仍称，10月30日调解内容依法保密，下一场定于11月20日；尚未公布暂定协议、RTO 减天或新的 telework 条款。员工应继续按本部门现行书面排班执行。https://www.seiu1000.org/2026contract/",
+      "【官方】CalHR 的2026 RTO资源页继续列出适用员工每周至少四天到办公室，实施日为2026年7月1日；通勤、停车、办公空间及 hoteling 的具体安排仍由部门决定。今晚未见 CalHR、CalSTA 或 Caltrans 新的统一豁免或工位公告。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU 的 RTO 页面仍称，PERB 已就工会5月申诉发出投诉，案件处于非正式调解；telework 仍是谈判议题，任何条款须先达成暂定协议并获会员批准，不能视为即时恢复居家办公。https://www.seiu1000.org/rto/",
+      "【Reddit热议】社区对10月21日罢工后的进展持续追问，有人称11月初的 PERB 听证尚无公开结果，也有人预计四天 RTO 会持续较久；均为匿名评论，不能替代 PERB、SEIU 或 CalHR 公告。https://www.reddit.com/r/CAStateWorkers/comments/1xdtbq0/the_strike_was_a_huge_success_whats_next/ https://www.reddit.com/r/CAStateWorkers/comments/1xi7q1b/four_months_of_rto_strike_is_over_still_no/",
+      "【Reddit热议】Caltrans 员工仍在讨论罢工缺勤沟通、通勤成本及空间/停车压力；帖子所附部门文字与个人经历均未构成新的全州 RTO 政策，受影响人员应以直属单位书面通知为准。https://www.reddit.com/r/CAStateWorkers/comments/1xa5lzu/caltrans_response_to_the_strike/ https://www.reddit.com/r/CAStateWorkers/comments/1wi38hs/when_does_caltrans_move_to_mlsoc/"
+    ],
+    "hot_topics": [
+      "合同调解：下一场为11月20日，尚无公开协议。https://www.seiu1000.org/2026contract/",
+      "RTO 基线：适用员工每周至少四天到办公室。https://benefits.calhr.ca.gov/rto/",
+      "PERB：官方仍称案件在非正式调解，未见新决定。https://www.seiu1000.org/rto/",
+      "Caltrans：缺勤沟通与停车/空间是社区焦点，未见全系统新令。https://www.reddit.com/r/CAStateWorkers/comments/1xa5lzu/caltrans_response_to_the_strike/",
+      "员工预期：四天 RTO 的持续时间仍属匿名讨论。https://www.reddit.com/r/CAStateWorkers/comments/1xi7q1b/four_months_of_rto_strike_is_over_still_no/"
+    ],
+    "summary": "今晚未见公开新协议、PERB 裁定或 Caltrans 统一实施令；四天 RTO 仍为基线，后续以11月20日调解及部门书面通知为准。"
+  },
+  {
     "date": "2026-11-11",
     "date_label": "2026年11月11日",
     "title": "今日 CA State Worker RTO 情报",

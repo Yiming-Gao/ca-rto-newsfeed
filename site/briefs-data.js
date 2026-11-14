@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-13",
+    "date_label": "2026年11月13日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 合同页今晚仍称，10月30日调解内容依法保密，下一场定于11月20日；未公布暂定协议，也没有 RTO 减天或新的 telework 条款。员工仍应按部门书面排班执行。https://www.seiu1000.org/2026contract/",
+      "【官方】CalHR 的2026 RTO资源页继续写明适用员工每周至少四天到办公室，实施日为2026年7月1日；停车、通勤补贴、办公空间及 hoteling 由各部门安排。今晚未见 CalHR、CalSTA 或 Caltrans 发布统一豁免、工位或停车新规。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU 的 RTO 页面仍显示，PERB 已对工会5月提出的不当劳动行为申诉发出投诉，并推进非正式调解；telework 仍属谈判议题，任何新条款须先达成暂定协议并获会员批准，不能视为即时恢复居家办公。https://www.seiu1000.org/rto/",
+      "【Reddit热议】今日热门帖转引工会称州机构可能未按 AB 119 向工会提供新雇员联系资料；这关系到组织与谈判沟通，但帖文未显示新的 RTO 实施命令，且报道内容仍待相关机构正式回应。https://www.reddit.com/r/CAStateWorkers/comments/1xvbfef/is_california_failing_to_provide_state_worker/",
+      "【Rumor】社区有人转发关于州长当选人 Xavier Becerra 与 SEIU、telework 的旧视频；评论指出视频发布时间和竞选背景不明，且未见其发布撤销四天 RTO 或改变 Caltrans 安排的正式承诺。https://www.reddit.com/r/CAStateWorkers/comments/1xuww9d/governor_elect_becerra/"
+    ],
+    "hot_topics": [
+      "合同调解：下一场为11月20日，尚无公开协议。https://www.seiu1000.org/2026contract/",
+      "RTO 基线：适用员工每周至少四天到办公室。https://benefits.calhr.ca.gov/rto/",
+      "PERB：RTO 申诉仍在非正式调解，未见新决定。https://www.seiu1000.org/rto/",
+      "工会沟通：AB 119 新雇员资料争议成为今日社区话题。https://www.reddit.com/r/CAStateWorkers/comments/1xvbfef/is_california_failing_to_provide_state_worker/",
+      "继任州长：telework 视频未构成改变 RTO 的官方承诺。https://www.reddit.com/r/CAStateWorkers/comments/1xuww9d/governor_elect_becerra/"
+    ],
+    "summary": "今晚未见新的 RTO、Caltrans 工位或豁免指令；四天到岗仍是基线，留意11月20日调解与部门书面通知。"
+  },
+  {
     "date": "2026-11-12",
     "date_label": "2026年11月12日",
     "title": "今日 CA State Worker RTO 情报",

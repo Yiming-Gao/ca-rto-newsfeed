@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-16",
+    "date_label": "2026年11月16日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】CalHR 的2026 RTO资源页今晚仍把适用州雇员的基线写为每周至少四天到办公室，实施日为2026年7月1日；页面没有新的全州 telework、距离、停车或共享工位豁免。具体排班、工位和停车仍应以本部门书面通知为准。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU Local 1000 合同页仍列出11月20日为下一场调解；10月30日调解内容依法保密，未见暂定协议，也未公布 RTO 减天、Caltrans 专属安排或新的 telework 条款。调解尚未自动改变现行到岗要求。https://www.seiu1000.org/2026contract/",
+      "【官方】SEIU 的 RTO 页面继续称，针对四天 RTO 的 PERB 不当劳动行为案件在非正式调解中；工会说明程序不会阻止既有实施，若日后取得救济可追溯适用。今晚未见 PERB 裁定、和解或即时恢复居家办公的公告。https://www.seiu1000.org/rto/",
+      "【官方】CalHR 提醒，符合资格者可在部门回办公室之日起60天内，因通勤或照护变化使用 FlexElect DCRA 新变更事件；这是福利账户调整窗口，不是自动 telework、减少到岗日、免费停车或固定工位资格。https://benefits.calhr.ca.gov/rto/",
+      "【Reddit热议】近期帖文继续把四天到岗与通勤、办公室空置和工作产出相连，并有人呼吁未来政府采取更支持 telework 的立场；这些均为匿名成员经验和倡议，未构成 CalHR、Caltrans、DGS 或州长办公室的新命令。https://www.reddit.com/r/CAStateWorkers/comments/1xy64zn/rto_is_bullshit/ https://www.reddit.com/r/CAStateWorkers/comments/1xxe83h/be_part_of_the_change_on_rto/"
+    ],
+    "hot_topics": [
+      "四天到岗：适用员工的全州基线未变。https://benefits.calhr.ca.gov/rto/",
+      "合同调解：下一场仍定于11月20日，暂无公开协议。https://www.seiu1000.org/2026contract/",
+      "PERB：RTO 争议仍在非正式调解，未见新结果。https://www.seiu1000.org/rto/",
+      "福利窗口：DCRA 可因通勤或照护变化申请调整。https://benefits.calhr.ca.gov/rto/",
+      "社区情绪：通勤、空置办公室与 telework 仍是讨论焦点。https://www.reddit.com/r/CAStateWorkers/comments/1xy64zn/rto_is_bullshit/"
+    ],
+    "summary": "今晚未见新的全州 RTO、Caltrans 工位或豁免指令；四天到岗仍是基线，关注11月20日调解及部门书面通知。"
+  },
+  {
     "date": "2026-11-15",
     "date_label": "2026年11月15日",
     "title": "今日 CA State Worker RTO 情报",

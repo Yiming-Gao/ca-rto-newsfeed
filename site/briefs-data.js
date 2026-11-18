@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-17",
+    "date_label": "2026年11月17日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】r/CAStateWorkers 今日转发一则署名 SEIU Local 1000 的消息：工会11月6日就 Caltrans（DOT）四天 RTO 实施协商，追问四天到岗的业务必要性、部门答复拖延、个别员工豁免及对 CalHR 指引的遵守。帖文是社区转发，尚未见 Caltrans 在官网发布对应回应。https://www.reddit.com/r/CAStateWorkers/comments/1xyz7yg/dot_refuses_to_discuss_union_concerns_regarding/",
+      "【Reddit热议】该转发称工会提出扩大 telework 保障、停车与员工安排建议，DOT 全部拒绝且未给反提案；这并不等同于新的全州规定或已裁决的劳资争议。受影响人员应保留部门书面通知，并向主管、人事或工会核对个人例外及合理便利流程。https://www.reddit.com/r/CAStateWorkers/comments/1xyz7yg/dot_refuses_to_discuss_union_concerns_regarding/",
+      "【官方】SEIU Local 1000 的 RTO 页面仍称，工会正把 telework 保护纳入下一份合同谈判；5月提交的 PERB 不当劳动行为案仍在程序中，工会明确表示该案不会自动阻止既有 RTO 实施。今晚未见 PERB 裁定、和解或 Caltrans 专属放宽公告。https://www.seiu1000.org/rto/",
+      "【官方】CalHR 的2026 RTO资源页仍写明，州长令的基线为每周至少四天在办公室；符合条件者可在所属部门回办公室之日起60天内，因通勤或照护变化使用 FlexElect DCRA 变更事件。该窗口是福利账户调整，并非减少到岗天数、停车或固定工位资格。https://benefits.calhr.ca.gov/rto/",
+      "【官方】DGS《State Administrative Manual》要求各部门依业务需要制定书面 telework 政策；政策目标含减少所需办公空间、支持招聘留任与维持生产力，而有冲突时 MOU 条款优先。对 Sacramento 共享工位、排班或办公容量，仍应以部门政策和适用合同为准。https://www.dgs.ca.gov/-/media/Divisions/PD/SAM/SAM-as-of-September-08-2026.pdf"
+    ],
+    "hot_topics": [
+      "Caltrans 协商：四天必要性、豁免和停车成为焦点。https://www.reddit.com/r/CAStateWorkers/comments/1xyz7yg/dot_refuses_to_discuss_union_concerns_regarding/",
+      "工会主张：telework 仍在合同谈判与 PERB 程序中。https://www.seiu1000.org/rto/",
+      "现行基线：每周至少四天办公室，未见全州新调整。https://benefits.calhr.ca.gov/rto/",
+      "办公空间：部门须依业务制定书面 telework 与空间安排。https://www.dgs.ca.gov/-/media/Divisions/PD/SAM/SAM-as-of-September-08-2026.pdf",
+      "个人处理：确认书面排班、豁免及合理便利渠道。https://www.reddit.com/r/CAStateWorkers/comments/1xyz7yg/dot_refuses_to_discuss_union_concerns_regarding/"
+    ],
+    "summary": "Caltrans 的协商僵局成为今晚焦点；四天 RTO 仍在执行，个人例外、停车和工位安排须等待部门书面答复。"
+  },
+  {
     "date": "2026-11-16",
     "date_label": "2026年11月16日",
     "title": "今日 CA State Worker RTO 情报",

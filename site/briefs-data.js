@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-18",
+    "date_label": "2026年11月18日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】SEIU Local 1000 的 RTO 页面现已公开 Caltrans（DOT）11月6日协商结果：工会质询四天到岗的业务必要性、部门答复拖延、个别豁免及对 CalHR telework 指引的遵守；页面称 DOT 拒绝扩大 telework 保障和停车提案，且未给反提案。该信息为工会陈述，尚未见 Caltrans 对应公开回应。https://www.seiu1000.org/rto/",
+      "【官方】SEIU 同页仍称，RTO 的 PERB 不当劳动行为案已进入非正式调解；工会的程序推进不自动暂停既有四天到岗安排。今晚未见 PERB 裁定、和解或 Caltrans 专属的豁免、hoteling 或工位新规。https://www.seiu1000.org/rto/",
+      "【官方】CalHR 的2026 RTO资源页继续把适用员工的基线列为每周至少四天到办公室、实施日为7月1日；符合条件者可在部门回办公室后60天内，因通勤或照护变化使用 FlexElect DCRA 变更事件。这是福利账户窗口，不等同减少到岗日、免费停车或固定工位。https://benefits.calhr.ca.gov/rto/",
+      "【官方】SEIU 的合同页面仍显示下一场调解定于11月20日，10月30日调解细节依法保密；未公布暂定协议、新 telework 条款或 RTO 减天安排。调解日程本身不会改变现行部门排班。https://www.seiu1000.org/2026contract/",
+      "【Reddit热议】社区今日帖文集中反映有些单位把病天、恶劣天气、调换到岗日和 AWWS 处理得很僵硬；评论也提到不同机构做法不一。这些是匿名经验，不是 CalHR 或 Caltrans 的统一政策；员工应保留书面通知并向主管、人事或工会确认。https://www.reddit.com/r/CAStateWorkers/comments/1xyph7v/rto_checks/"
+    ],
+    "hot_topics": [
+      "Caltrans 协商：工会称 DOT 拒绝 telework 与停车提案，未给反提案。https://www.seiu1000.org/rto/",
+      "PERB：RTO 争议仍在非正式调解，未见新裁定。https://www.seiu1000.org/rto/",
+      "四天基线：CalHR 页面未见全州放宽或新统一豁免。https://benefits.calhr.ca.gov/rto/",
+      "合同谈判：下一场调解为11月20日，尚无公开协议。https://www.seiu1000.org/2026contract/",
+      "执行差异：病天、天气与 AWWS 的讨论属社区反馈。https://www.reddit.com/r/CAStateWorkers/comments/1xyph7v/rto_checks/"
+    ],
+    "summary": "Caltrans 协商拒绝提案是今晚焦点；四天 RTO 仍在执行，个人例外、排班与工位问题须以部门书面答复为准。"
+  },
+  {
     "date": "2026-11-17",
     "date_label": "2026年11月17日",
     "title": "今日 CA State Worker RTO 情报",

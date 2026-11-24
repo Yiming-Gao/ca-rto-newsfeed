@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-23",
+    "date_label": "2026年11月23日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【官方】截至今晚，SEIU Local 1000 的合同页面仍只列出11月20日调解、并说明调解内容依法保密；未公布结果、暂定协议或新的 telework 条款。未见州方、PERB 或工会宣布四天 RTO、停车、固定工位或 hotelling 规则改变，部门现行书面排班仍有效。https://www.seiu1000.org/2026contract/",
+      "【官方】SEIU 的 RTO 页面仍称，工会就全州 RTO 提出的不当劳动行为案已获 PERB 发出 complaint 并进入非正式调解；该程序不会自动暂停四天到岗，任何救济须等待程序推进。今晚未发现新的 PERB 裁定、和解或全州统一豁免。https://www.seiu1000.org/rto/",
+      "【官方】Caltrans/DOT 的近期公开争点仍是11月6日协商：SEIU 称其追问四天到岗的业务依据、部门答复、个案豁免与 CalHR 指引，并提出扩大 telework 保障和停车建议；工会称 DOT 拒绝且没有反提案。此为工会陈述，未见 Caltrans 对应公开回应。https://www.seiu1000.org/update-union-raises-telework-concerns-dot-rejects-proposals/",
+      "【官方】工会页面持续把已获批的 AB 1729 说明为要求部门提高 telework 决策透明度的立法路线，但该案已在9月被州长否决；今晚未见复议、替代法案或可即时改变部门 RTO 排班的州级命令。https://www.seiu1000.org/rto/",
+      "【Reddit热议】节日前夕的社区帖称，CDTFA 原拟给两天 telework 的安排被中层上报后取消；评论也有人称个别部门有更大弹性。另一帖讨论 Caltrans DD-14-R5 所列恶劣天气、紧急状态或办公楼关闭下的 emergency telework。均为匿名经验或对文件的转述，不代表统一政策。https://www.reddit.com/r/CAStateWorkers/comments/1xz22qj/next_week/ https://www.reddit.com/r/CAStateWorkers/comments/1xz28w2/love_my_leadership/"
+    ],
+    "hot_topics": [
+      "合同调解：11月20日后仍无公开结果或新 telework 条款。https://www.seiu1000.org/2026contract/",
+      "PERB：案件仍在非正式调解，不会自动暂停四天 RTO。https://www.seiu1000.org/rto/",
+      "Caltrans/DOT：telework、停车和个案豁免协商未见公开突破。https://www.seiu1000.org/update-union-raises-telework-concerns-dot-rejects-proposals/",
+      "AB 1729：已遭否决，未见替代法案改变当前部门排班。https://www.seiu1000.org/rto/",
+      "节日前弹性与天气应急：均须以部门书面通知为准。https://www.reddit.com/r/CAStateWorkers/comments/1xz28w2/love_my_leadership/"
+    ],
+    "summary": "今晚未见调解、PERB 或全州政策新结果；四天 RTO 仍是基线，Caltrans 协商与节日前部门书面排班是重点。"
+  },
+  {
     "date": "2026-11-22",
     "date_label": "2026年11月22日",
     "title": "今日 CA State Worker RTO 情报",

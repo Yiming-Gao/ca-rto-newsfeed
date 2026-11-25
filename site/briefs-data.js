@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-24",
+    "date_label": "2026年11月24日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】感恩节周前夕，r/CAStateWorkers 今日帖称有主管仍要求员工照常到办公室，即使多数同事已休假；同时评论中也有员工称其 division 获准本周全程 telework、可自行选居家日或提前下线。反映的只是部门执行差异，不构成全州豁免或统一半天安排。https://www.reddit.com/r/CAStateWorkers/comments/1y4rzki/how_many_of_yall_going_to_be_in_office_tomorrow/",
+      "【Reddit热议】上周关于假期周的讨论仍显示，部分单位允许额外居家办公，另一些单位拒绝弹性；有匿名评论称原本拟采用“四个半天到办公室、其余时间 telework”的办法被管理层否决。未见 CalHR、DGS 或 Caltrans 发布节日前统一改动，员工应以本部门书面排班为准。https://www.reddit.com/r/CAStateWorkers/comments/1xz22qj/next_week/",
+      "【官方】SEIU Local 1000 的 RTO 页面仍称，工会就全州 RTO 提出的不当劳动行为案已获 PERB 发出 complaint 并在非正式调解中；工会同时明确，该程序不会自动暂停四天到岗，任何救济须等待后续程序。今晚未发现新的 PERB 裁定、和解或全州统一豁免。https://www.seiu1000.org/rto/",
+      "【官方】Caltrans/DOT 的最新公开协商仍是11月6日：SEIU 称其询问四天到岗的业务依据、个案豁免和 CalHR 指引，并提出扩大 telework 保障和停车建议；工会称 DOT 拒绝且未给反提案。此为工会对协商的陈述，未见 Caltrans 对应公开回应或新的 hotelling、办公空间规则。https://www.seiu1000.org/update-union-raises-telework-concerns-dot-rejects-proposals/",
+      "【官方】AB 1729 原拟要求部门为到岗提供书面理由、并建立展示 telework 成本效益的 dashboard，但州长已否决该案；否决说明称现行政策允许部门逐案考虑例外。今晚未见复议、替代法案或可即时改变部门 RTO 排班的州级命令。https://billtexts.s3.amazonaws.com/ca/ca-analysishttps-leginfo-legislature-ca-gov-faces-billAnalysisClient-xhtml-bill-id-202520260AB1729-ca-analysis-406324.pdf"
+    ],
+    "hot_topics": [
+      "节日前排班：有部门照常到岗，也有部门给整周 telework；以书面通知为准。https://www.reddit.com/r/CAStateWorkers/comments/1y4rzki/how_many_of_yall_going_to_be_in_office_tomorrow/",
+      "执行差异：额外居家与半天到岗传闻均非全州规则。https://www.reddit.com/r/CAStateWorkers/comments/1xz22qj/next_week/",
+      "PERB：案件仍在非正式调解，不会自动暂停四天 RTO。https://www.seiu1000.org/rto/",
+      "Caltrans/DOT：telework、停车和个案豁免协商未见公开突破。https://www.seiu1000.org/update-union-raises-telework-concerns-dot-rejects-proposals/",
+      "AB 1729：已遭否决，未见新立法改变当前排班。https://billtexts.s3.amazonaws.com/ca/ca-analysishttps-leginfo-legislature-ca-gov-faces-billAnalysisClient-xhtml-bill-id-202520260AB1729-ca-analysis-406324.pdf"
+    ],
+    "summary": "节日前部门弹性差异成为焦点；四天 RTO 仍是基线，Caltrans 协商与个人书面排班仍须持续关注。"
+  },
+  {
     "date": "2026-11-23",
     "date_label": "2026年11月23日",
     "title": "今日 CA State Worker RTO 情报",

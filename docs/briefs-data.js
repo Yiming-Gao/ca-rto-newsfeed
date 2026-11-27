@@ -1,5 +1,25 @@
 window.BRIEFS_DATA = [
   {
+    "date": "2026-11-26",
+    "date_label": "2026年11月26日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】r/CAStateWorkers 今日围绕 Microsoft/Outlook 故障讨论：有员工称次日仍须进办公室，尽管邮件等服务断续不可用；回帖显示恢复状态因机构而异，也有主管临时允许居家。该帖反映现场执行与业务连续性压力，并非州府统一 RTO 调整。https://www.reddit.com/r/CAStateWorkers/comments/1xv1pwh/microsoft_is_not_going_to_be_fixed_by_the_morning/",
+      "【Reddit热议】同一讨论中，员工把“系统故障仍须通勤”与四天 RTO 的效率、办公室空间和 downtown 目标相连；也有评论认为仍可完成离线或非邮件工作。属于个人观点，不能据此推定任何部门已放宽 telework 或免责到岗。https://www.reddit.com/r/CAStateWorkers/comments/1xv1pwh/microsoft_is_not_going_to_be_fixed_by_the_morning/",
+      "【Reddit热议】BU10 员工帖要求加强反 RTO 行动；评论指出罢工须满足合约届满、法定事由及成员表决等程序，且对 SEIU 行动成效也有分歧。此为社区讨论，不是 CAPS、PERB 或州府的正式罢工通知。https://www.reddit.com/r/CAStateWorkers/comments/1xuinl2/what_happened_to_fighting_rto/",
+      "【官方】SEIU Local 1000 页面仍称，其 RTO 不当劳动行为案已获 PERB 发出 complaint、继续走程序；工会明确案件不会阻止四天到岗实施。页面也称 telework 仍在下一轮合约谈判议题中；今晚未见 PERB 裁定或全州新豁免。https://www.seiu1000.org/rto/",
+      "【官方】Caltrans/DOT 最近公开协商更新仍为11月6日：SEIU 称其质询四天到岗的业务理由、个案豁免和 CalHR 指引，并提出 telework 与停车方案；工会称 DOT 拒绝且未给反提案。未见新的 Caltrans hotelling、办公空间或排班公告。https://www.seiu1000.org/update-union-raises-telework-concerns-dot-rejects-proposals/"
+    ],
+    "hot_topics": [
+      "系统故障与到岗：机构恢复不同，勿把 Reddit 个案当作统一居家许可。https://www.reddit.com/r/CAStateWorkers/comments/1xv1pwh/microsoft_is_not_going_to_be_fixed_by_the_morning/",
+      "业务连续性：仍须以主管和部门书面指示决定是否到岗或 telework。https://www.reddit.com/r/CAStateWorkers/comments/1xv1pwh/microsoft_is_not_going_to_be_fixed_by_the_morning/",
+      "工会行动：社区在讨论罢工门槛，但未构成正式通知。https://www.reddit.com/r/CAStateWorkers/comments/1xuinl2/what_happened_to_fighting_rto/",
+      "PERB 与谈判：案件继续推进，不会自动暂停四天 RTO。https://www.seiu1000.org/rto/",
+      "Caltrans/DOT：豁免、telework 和停车协商暂无公开新突破。https://www.seiu1000.org/update-union-raises-telework-concerns-dot-rejects-proposals/"
+    ],
+    "summary": "今日焦点是系统故障下仍需到岗的执行压力；四天 RTO 规则未变，部门即时指示与 Caltrans 协商仍最值得关注。"
+  },
+  {
     "date": "2026-11-25",
     "date_label": "2026年11月25日",
     "title": "今日 CA State Worker RTO 情报",

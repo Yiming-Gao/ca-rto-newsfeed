@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-27",
+    "date_label": "2026年11月27日",
+    "title": "今日 CA State Worker RTO 情报",
+    "developments": [
+      "【Reddit热议】r/CAStateWorkers 最新置顶讨论转发 SEIU 对 DOT 的会谈说明：工会称11月6日向 Caltrans/DOT 追问四天到岗的业务依据、答复延迟、个案豁免和 CalHR telework 指引；该帖是工会材料的社区转发，并非部门新公告。https://www.reddit.com/r/CAStateWorkers/comments/1xyz7yg/dot_refuses_to_discuss_union_concerns_regarding/",
+      "【官方】SEIU 的 DOT 会谈文本称，工会提出扩展 telework 保障与停车方案，DOT 拒绝全部提案且未给反提案；工会表示将继续倡议。此为 SEIU 立场，今晚未发现 Caltrans 对此发布的新回应、hotelling、工位或排班规则。https://www.reddit.com/r/CAStateWorkers/comments/1xyz7yg/dot_refuses_to_discuss_union_concerns_regarding/",
+      "【官方】SEIU RTO 页面仍说明：PERB 已就其不当劳动行为指控发出 complaint，案件进入非正式调解；但程序耗时，不能阻止四天到岗，任何救济可能追溯适用。今日未见新的 PERB 裁定或全州豁免。https://www.seiu1000.org/rto/",
+      "【官方】CalSTA 先前会谈记录把工作空间、设备、豁免流程及四天实施计划列为问题；机构当时确认会按州长要求推进四天到岗。没有可靠的新材料显示感恩节后全州政策、办公容量或轮班安排已改变。https://www.seiu1000.org/telework-update-calsta-june26/",
+      "【官方】AB 1729 已遭州长否决；该案原会要求机构书面说明到岗理由，并由 DGS 展示 telework 成本效益。现阶段它不会改变现行四天 RTO，工会称拟于下一立法周期再推动。https://www.seiu1000.org/rto/"
+    ],
+    "hot_topics": [
+      "Caltrans/DOT：关注工会所述豁免、telework 与停车提案是否收到部门书面答复。https://www.reddit.com/r/CAStateWorkers/comments/1xyz7yg/dot_refuses_to_discuss_union_concerns_regarding/",
+      "到岗基线：PERB 案进行中，但不会自动暂停四天 RTO。https://www.seiu1000.org/rto/",
+      "办公空间：目前没有 Caltrans/CalSTA 新 hotelling 或工位容量公告。https://www.seiu1000.org/telework-update-calsta-june26/",
+      "立法：AB 1729 已否决，短期内不能作为调整排班的依据。https://www.seiu1000.org/rto/"
+    ],
+    "summary": "今日未见全州 RTO 新令；Caltrans/DOT 的豁免与办公安排仍取决于部门书面指示和后续协商。"
+  },
+  {
     "date": "2026-11-26",
     "date_label": "2026年11月26日",
     "title": "今日 CA State Worker RTO 情报",
